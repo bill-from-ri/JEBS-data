@@ -1,0 +1,39 @@
+T1	expert_term 42 57	Pressure ulcers
+T2	EXPLAINS 59 69	skin sores
+E1	EXPLAINS:T2 
+T3	expert_term 241 265	cerebrovascular accident
+T4	EXPLAINS 267 308	damage to the brain and its blood vessels
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 313 340	impaired nutritional intake
+T6	EXPLAINS 342 351	poor diet
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 384 413	urinary or fecal incontinence
+T8	EXPLAINS 415 451	lack of control on bladder or bowels
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 454 469	hypoalbuminemia
+T10	EXPLAINS 471 488	low blood albumin
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 481 488	albumin
+T12	EXPLAINS 491 513	a protein in the blood
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 613 622	incidence
+T14	EXPLAINS 624 633	frequency
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 976 988	secondary to
+T16	EXPLAINS 990 999	caused by
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1118 1131	Osteomyelitis
+T18	EXPLAINS 1136 1152	a bone infection
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1323 1334	assessments
+T20	EXPLAINS 1336 1348	measurements
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1358 1369	antibiotics
+T22	EXPLAINS 1371 1391	which fight bacteria
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 1436 1443	Topical
+T24	EXPLAINS 1445 1460	applied on skin
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 1572 1587	adverse effects
+T26	EXPLAINS 1589 1605	bad side effects
+E13	EXPLAINS:T26 term:T25

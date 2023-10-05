@@ -1,0 +1,6 @@
+T1	expert_term 233 243	duloxetine
+T2	EXPLAINS 245 288	a drug that also treats diabetic nerve pain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 377 386	labetalol
+T4	EXPLAINS 388 421	a drug that lowers blood pressure
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,6 @@
+T1	expert_term 61 71	Gabapentin
+T2	EXPLAINS 81 112	a nerve-related pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 298 308	cetirizine
+T4	EXPLAINS 323 360	used to temporarily relieve allergies
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,33 @@
+T1	expert_term 113 128	corticosteroids
+T2	EXPLAINS 130 213	anti-inflammatory drugs that help relieve pain and swelling, also known as steroids
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 241 252	Th1-related
+T4	expert_term 305 316	Th2-related
+T5	expert_term 365 374	cytokines
+T6	expert_term 450 472	Graves' ophthalmopathy
+T7	expert_term 593 612	Th2 immune response
+T8	expert_term 1050 1076	intravenous (IV) infusions
+T9	expert_term 1120 1138	methylprednisolone
+T10	expert_term 1204 1214	prednisone
+T11	expert_term 1359 1369	prednisone
+T12	EXPLAINS 1371 1482	a type of steroid drug that can help lower certain immune-related symptoms, including inflammation and swelling
+E2	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1216 1230	a steroid drug
+E3	EXPLAINS:T13 term:T10
+T14	EXPLAINS 1140 1154	a steroid drug
+E4	EXPLAINS:T14 term:T9
+T15	EXPLAINS 1078 1115	medication delivered through the vein
+E5	EXPLAINS:T15 term:T8
+T16	EXPLAINS 614 720	where Th2 cells increase their responses to a signal from outside the cell to carry out specific functions
+E6	EXPLAINS:T16 term:T7
+T17	EXPLAINS 474 524	swelling of the tissue in the area around the eyes
+E7	EXPLAINS:T17 term:T6
+T18	EXPLAINS 376 431	chemical messengers that coordinate the immune response
+E8	EXPLAINS:T18 term:T5
+T19	EXPLAINS 318 363	cells that activate hormonal immune responses
+E9	EXPLAINS:T19 term:T4
+T20	EXPLAINS 254 299	cells that activate cellular immune responses
+E10	EXPLAINS:T20 term:T3
+T21	expert_term 1187 1191	oral
+T22	EXPLAINS 1195 1203	by-mouth
+E11	EXPLAINS:T22 term:T21

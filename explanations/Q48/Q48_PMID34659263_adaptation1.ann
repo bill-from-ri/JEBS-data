@@ -1,0 +1,18 @@
+T1	expert_term 79 109	systematic lupus erythematosus
+T2	EXPLAINS 119 164	when your immune system attacks healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 288 298	Bortezomib
+T4	EXPLAINS 308 400	a specific, reversible drug that stops the function of the protein complex called proteasome
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1063 1083	complement protein 3
+T6	EXPLAINS 1014 1055	a protein that supports the immune system
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 390 400	proteasome
+T8	EXPLAINS 406 446	breaks down unneeded or damaged proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1359 1369	antibodies
+T10	EXPLAINS 1371 1399	infecting-fighting molecules
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1895 1906	proteinuria
+T12	EXPLAINS 1908 1933	elevated protein in urine
+E6	EXPLAINS:T12 term:T11

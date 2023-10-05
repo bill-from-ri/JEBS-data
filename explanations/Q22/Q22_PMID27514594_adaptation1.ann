@@ -1,0 +1,6 @@
+T1	expert_term 34 48	Birt-Hogg-Dubé
+T2	EXPLAINS 52 207	a rare genetic skin disorder caused by genetic mutations and puts people at risk for non-cancerous tumors in hair follicles around the face, neck and chest
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 257 267	lung cysts
+T4	EXPLAINS 268 326	which are sacs usually filled with air or gas on the lungs
+E2	EXPLAINS:T4 term:T3

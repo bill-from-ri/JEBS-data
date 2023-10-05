@@ -1,0 +1,21 @@
+T1	expert_term 96 124	Emergency Use Authorizations
+T2	EXPLAINS 126 163	when unapproved medicines may be used
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 197 214	Covid-19 vaccines
+T4	EXPLAINS 216 259	vaccines for the viral, respiratory disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1384 1425	thrombosis with thrombocytopenia syndrome
+T6	EXPLAINS 1433 1522	a rare condition with blood clots in the veins and arteries and low blood platelet counts
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1524 1533	platelets
+T8	EXPLAINS 1534 1593	help the body form blood clots to stop bleeding from injury
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1603 1626	Guillain-Barré syndrome
+T10	EXPLAINS 1634 1696	a rare disorder characterized by muscle weakness and paralysis
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1713 1724	myocarditis
+T12	EXPLAINS 1726 1790	cardiac inflammation or heart-related swelling from an infection
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1726 1746	cardiac inflammation
+T14	EXPLAINS 1750 1772	heart-related swelling
+E7	EXPLAINS:T14 term:T13

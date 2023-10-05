@@ -1,0 +1,3 @@
+T1	expert_term 30 55	Chronic GAS carrier state
+T2	EXPLAINS 70 163	the long-term presence of group A strep (GAS) in the throat with no infection or inflammation
+E1	EXPLAINS:T2 term:T1

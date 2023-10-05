@@ -1,0 +1,6 @@
+T1	expert_term 48 81	Minimal Change Nephrotic Syndrome
+T2	EXPLAINS 92 171	a kidney disease that can lead to a group of symptoms called Nephrotic Syndrome
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1360 1376	cyclophosphamide
+T4	EXPLAINS 1339 1352	a cancer drug
+E2	EXPLAINS:T4 term:T3

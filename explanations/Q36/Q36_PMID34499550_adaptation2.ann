@@ -1,0 +1,3 @@
+T1	expert_term 151 184	Mini percutaneous nephrolithotomy
+T2	EXPLAINS 200 483	a tool to remove a variety of stones including: large kidney stones > 2 cm, lower kidney stones > 1 cm, kidney stones unaffected by shockwaves or surgical extraction, stones in complex tubes transporting urine, and large, unchanged stones causing inflammation in tubes carrying urine
+E1	EXPLAINS:T2 term:T1

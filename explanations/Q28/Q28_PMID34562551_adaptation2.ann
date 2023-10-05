@@ -1,0 +1,6 @@
+T1	expert_term 51 59	COVID-19
+T2	EXPLAINS 61 88	a respiratory viral illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 436 443	T cells
+T4	EXPLAINS 405 428	anti-viral immune cells
+E2	EXPLAINS:T4 term:T3

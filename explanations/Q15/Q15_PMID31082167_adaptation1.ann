@@ -1,0 +1,21 @@
+T1	expert_term 84 87	ion
+T2	EXPLAINS 89 142	an atom or molecule that carries an electrical charge
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 447 473	proximal convoluted tubule
+T4	EXPLAINS 475 541	in a filtering unit called the nephron that is part of the kidneys
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 557 580	ascending loop of Henle
+T6	EXPLAINS 582 618	a part of the nephron in the kidneys
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 650 674	distal convoluted tubule
+T8	EXPLAINS 676 766	a portion of the kidney nephron that functions in both absorption and secretion or release
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 999 1018	cardiac arrhythmias
+T10	EXPLAINS 1020 1041	irregular heart beats
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 373 383	glomerulus
+T12	EXPLAINS 385 414	a cluster of tiny blood cells
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 786 797	aldosterone
+T14	EXPLAINS 769 778	A hormone
+E7	EXPLAINS:T14 term:T13

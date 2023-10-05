@@ -1,0 +1,3 @@
+T1	expert_term 32 46	Internal organ
+T2	EXAMPLE 54 61	stomach
+E1	EXAMPLE:T2 term:T1

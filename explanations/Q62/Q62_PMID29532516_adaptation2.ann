@@ -1,0 +1,3 @@
+T1	expert_term 111 125	Antihistamines
+T2	EXPLAINS 127 157	drugs that help with allergies
+E1	EXPLAINS:T2 term:T1

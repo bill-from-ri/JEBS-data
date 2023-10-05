@@ -1,0 +1,15 @@
+T1	expert_term 85 107	Post-partum depression
+T2	EXPLAINS 109 136	depression after childbirth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 317 328	brexanolone
+T4	EXPLAINS 330 357	formerly SAGE-547 injection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 360 371	Brexanolone
+T6	EXPLAINS 375 480	a naturally occurring reproductive steroid hormone that affects receptors in the brain and nervous system
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 899 906	placebo
+T8	EXPLAINS 908 983	a procedure that appears like the real treatment but has no treatment value
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1915 1922	adverse
+T10	EXPLAINS 1924 1931	harmful
+E5	EXPLAINS:T10 term:T9

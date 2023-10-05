@@ -1,0 +1,6 @@
+T1	expert_term 327 348	physiological reserve
+T2	EXPLAINS 353 384	how an organ responds to stress
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 734 744	hemorrhage
+T4	EXPLAINS 746 766	excessive blood loss
+E2	EXPLAINS:T4 term:T3

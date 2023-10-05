@@ -1,0 +1,3 @@
+T1	EXPLAINS 697 706	food tube
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 708 717	esophagus

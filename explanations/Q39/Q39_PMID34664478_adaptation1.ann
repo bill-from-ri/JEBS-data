@@ -1,0 +1,12 @@
+T1	expert_term 81 93	Hypertensive
+T2	EXPLAINS 95 114	high blood pressure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 268 278	Biomarkers
+T4	EXPLAINS 283 347	measurable substances in the body that are indicators of illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 662 679	Peptide fragments
+T6	EXPLAINS 684 704	portions of proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 764 775	peptidomics
+T8	EXPLAINS 777 813	the study of peptides in an organism
+E4	EXPLAINS:T8 term:T7

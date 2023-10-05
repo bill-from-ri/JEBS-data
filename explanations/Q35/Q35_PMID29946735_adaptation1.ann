@@ -1,0 +1,9 @@
+T1	expert_term 143 155	osteoporosis
+T2	EXPLAINS 157 207	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 495 515	primary osteoporosis
+T4	EXPLAINS 523 568	osteoporosis not resulting from other disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1137 1146	menopause
+T6	EXPLAINS 1148 1195	a point in time 12 months after the last period
+E3	EXPLAINS:T6 term:T5

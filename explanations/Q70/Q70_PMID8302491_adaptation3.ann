@@ -1,0 +1,6 @@
+T1	expert_term 98 119	vitamin B6 deficiency
+T2	EXPLAINS 121 142	not enough vitamin B6
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 594 615	Vitamin B6 deficiency
+T4	EXPLAINS 617 650	not enough vitamin B6 in the body
+E2	EXPLAINS:T4 term:T3

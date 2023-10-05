@@ -1,0 +1,3 @@
+T1	expert_term 108 123	phenylketonuria
+T2	EXPLAINS 131 248	a disorder inherited from both parents in which the body cannot properly turn a substance (phenylalanine) into energy
+E1	EXPLAINS:T2 term:T1

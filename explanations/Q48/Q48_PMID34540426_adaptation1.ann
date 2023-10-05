@@ -1,0 +1,6 @@
+T1	expert_term 111 116	lupus
+T2	EXPLAINS 119 164	when your immune system attacks healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 755 769	Interleukin-17
+T4	EXPLAINS 779 799	a chemical messenger
+E2	EXPLAINS:T4 term:T3

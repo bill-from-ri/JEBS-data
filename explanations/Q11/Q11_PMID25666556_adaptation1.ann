@@ -1,0 +1,12 @@
+T1	expert_term 21 33	Mitochondria
+T2	expert_term 91 104	Ketone bodies
+T3	expert_term 204 218	ketogenic diet
+T4	expert_term 359 382	drug resistant epilepsy
+T5	EXPLAINS 38 89	the parts of cells that produce energy for the body
+E1	EXPLAINS:T5 term:T1
+T6	EXPLAINS 109 147	particles made from breaking down fats
+E2	EXPLAINS:T6 term:T2
+T7	EXPLAINS 220 265	which is high in fat and low in carbohydrates
+E3	EXPLAINS:T7 term:T3
+T8	EXPLAINS 384 431	seizures that cannot be conrolled with medicine
+E4	EXPLAINS:T8 term:T4

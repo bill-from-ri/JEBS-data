@@ -1,0 +1,27 @@
+T1	expert_term 108 124	nonhuman primate
+T2	expert_term 157 170	polytraumatic
+T3	expert_term 185 196	hemorrhagic
+T4	expert_term 992 1003	Physiologic
+T5	expert_term 1022 1033	coagulation
+T6	expert_term 1056 1068	inflammatory
+T7	expert_term 485 490	femur
+T8	expert_term 1225 1235	polytrauma
+T9	expert_term 1480 1486	evoked
+T10	EXPLAINS 1488 1494	led to
+E1	EXPLAINS:T10 term:T9
+T11	EXPLAINS 1237 1257	more than one injury
+E2	EXPLAINS:T11 term:T8
+T12	EXPLAINS 1070 1088	infection-fighting
+E3	EXPLAINS:T12 term:T6
+T13	EXPLAINS 1035 1049	blood clotting
+E4	EXPLAINS:T13 term:T5
+T14	EXPLAINS 1005 1019	overall health
+E5	EXPLAINS:T14 term:T4
+T15	EXPLAINS 492 495	leg
+E6	EXPLAINS:T15 term:T7
+T16	EXPLAINS 198 216	excessive bleeding
+E7	EXPLAINS:T16 term:T3
+T17	EXPLAINS 172 183	many-injury
+E8	EXPLAINS:T17 term:T2
+T18	EXPLAINS 126 132	monkey
+E9	EXPLAINS:T18 term:T1

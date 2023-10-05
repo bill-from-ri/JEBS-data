@@ -1,0 +1,3 @@
+T1	expert_term 51 56	Cilia
+T2	EXPLAINS 61 101	projections present in almost every cell
+E1	EXPLAINS:T2 term:T1

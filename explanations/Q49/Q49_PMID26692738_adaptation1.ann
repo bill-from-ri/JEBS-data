@@ -1,0 +1,24 @@
+T1	expert_term 83 98	schizoaffective
+T2	EXPLAINS 100 118	reality-distorting
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 291 301	gabapentin
+T4	EXPLAINS 303 324	nerve pain medication
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 426 437	hydrocodone
+T6	EXPLAINS 395 418	an opioid pain reliever
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 494 499	edema
+T8	EXPLAINS 501 564	swelling caused by too much fluid trapped in the body's tissues
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 601 615	cardiovascular
+T10	EXPLAINS 617 622	heart
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 664 677	pitting edema
+T12	EXPLAINS 679 743	where pressing into the swollen area leaves a pit or indentation
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 939 951	swollen feet
+T14	EXPLAINS 953 964	pedal edema
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1246 1279	nerve damage common with diabetes
+T16	EXPLAINS 1281 1300	diabetic neuropathy
+E8	EXPLAINS:T16 term:T15

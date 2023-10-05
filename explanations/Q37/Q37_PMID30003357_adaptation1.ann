@@ -1,0 +1,24 @@
+T1	expert_term 130 139	cognitive
+T2	EXPLAINS 141 155	memory-related
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 309 323	anti-epileptic
+T4	EXPLAINS 329 340	antiseizure
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 852 860	assessed
+T6	EXPLAINS 862 870	measured
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 945 953	variable
+T8	EXPLAINS 955 973	all over the place
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 984 1005	discontinuation rates
+T10	EXPLAINS 1007 1032	stoppings in side effects
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1048 1055	Placebo
+T12	EXPLAINS 1057 1071	harmless pills
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1319 1327	clinical
+T14	EXPLAINS 1329 1336	medical
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1618 1630	tolerability
+T16	EXPLAINS 1635 1659	ability to take the drug
+E8	EXPLAINS:T16 term:T15

@@ -1,0 +1,6 @@
+T1	expert_term 32 50	Overactive thyroid
+T2	EXPLAINS 54 223	when too much thyroid hormone produced, when too much stored thyroid hormone released, or when there are internal or external thyroid hormone sources outside the thyroid
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 285 299	Graves disease
+T4	EXPLAINS 301 404	a disease in which infection-preventing cells attack healthy cells and results in an overactive thyroid
+E2	EXPLAINS:T4 term:T3

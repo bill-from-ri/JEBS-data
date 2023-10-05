@@ -1,0 +1,21 @@
+T1	expert_term 22 49	Primary progressive aphasia
+T2	EXPLAINS 57 92	a disease that damages nerve tissue
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 139 163	Amyloid-β (Aβ) pathology
+T4	EXPLAINS 167 215	the accumulation of protein plaques in the brain
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 255 265	positivity
+T6	EXPLAINS 267 275	presence
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 338 348	prevalence
+T8	EXPLAINS 350 359	frequency
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1259 1265	Aβ-PET
+T10	EXPLAINS 1267 1277	brain scan
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1587 1594	atrophy
+T12	EXPLAINS 1596 1602	damage
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 719 722	tau
+T14	EXPLAINS 724 741	a type of protein
+E7	EXPLAINS:T14 term:T13

@@ -1,0 +1,9 @@
+T1	expert_term 90 105	Turner syndrome
+T2	EXPLAINS 114 168	one of the most common sexual chromosome abnormalities
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 213 232	autoimmune diseases
+T4	EXPLAINS 234 276	in which immune cells attack healthy cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 633 641	variants
+T6	EXPLAINS 643 653	gene types
+E3	EXPLAINS:T6 term:T5

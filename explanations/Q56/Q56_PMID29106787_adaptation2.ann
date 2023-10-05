@@ -1,0 +1,6 @@
+T1	expert_term 215 237	hypothalamic hamartoma
+T2	EXPLAINS 239 282	a non-cancer growth of tissues in the brain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 861 876	pituitary gland
+T4	EXPLAINS 878 907	which maintain body functions
+E2	EXPLAINS:T4 term:T3

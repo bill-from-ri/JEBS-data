@@ -1,0 +1,9 @@
+T1	expert_term 32 43	Thyroiditis
+T2	EXPLAINS 54 106	medical conditions that include thyroid inflammation
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 332 345	levothyroxine
+T4	EXPLAINS 347 361	a thyroid drug
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 830 843	Levothyroxine
+T6	EXPLAINS 845 859	a thyroid drug
+E3	EXPLAINS:T6 term:T5

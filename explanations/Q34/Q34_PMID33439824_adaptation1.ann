@@ -1,0 +1,12 @@
+T1	expert_term 123 145	chronic kidney disease
+T2	EXPLAINS 147 238	which is when the kidneys are damaged and can't filter waste and extra fluid from the blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 315 335	primary care doctors
+T4	EXPLAINS 337 351	family doctors
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 473 480	primary
+T6	EXPLAINS 482 488	family
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1973 1980	albumin
+T8	EXPLAINS 1956 1965	a protein
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,9 @@
+T1	expert_term 106 114	ferritin
+T2	EXPLAINS 116 142	an iron-containing protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 218 235	COVID-19 pandemic
+T4	EXPLAINS 237 293	a pandemic caused by a virus that causes lung infections
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 818 844	hyperferritinemic syndrome
+T6	EXPLAINS 846 866	high ferritin levels
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,12 @@
+T1	expert_term 72 79	chronic
+T2	expert_term 140 151	outpatients
+T3	expert_term 349 364	clinical trials
+T4	expert_term 1091 1127	renin-angiotensin-aldosterone system
+T5	EXPLAINS 1131 1205	a hormone system that manages blood pressure and fluid balance in the body
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 332 347	patient studies
+E2	EXPLAINS:T6 term:T3
+T7	EXPLAINS 110 138	patients not in the hospital
+E3	EXPLAINS:T7 term:T2
+T8	EXPLAINS 58 70	long-lasting
+E4	EXPLAINS:T8 term:T1

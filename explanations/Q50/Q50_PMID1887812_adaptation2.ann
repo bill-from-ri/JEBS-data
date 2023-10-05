@@ -1,0 +1,15 @@
+T1	expert_term 68 79	Sarcoidosis
+T2	EXPLAINS 83 151	a disease characterized by growths of inflammatory cells in the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 177	macrophage
+T4	EXPLAINS 179 235	a specialized white blood cell defender against invaders
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 261 274	interleukin-1
+T6	EXPLAINS 283 320	a molecule which signals inflammation
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 394 412	C-reactive protein
+T8	EXPLAINS 414 438	a marker of inflammation
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 613 625	tuberculosis
+T10	EXPLAINS 627 653	a bacterial lung infection
+E5	EXPLAINS:T10 term:T9

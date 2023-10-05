@@ -1,0 +1,9 @@
+T1	expert_term 193 201	estrogen
+T2	EXPLAINS 203 223	a female sex hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 619 639	aromatase inhibitors
+T4	EXPLAINS 647 680	drugs used to treat breast cancer
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1086 1095	tamoxifen
+T6	EXPLAINS 1097 1131	an estrogen-influencing medication
+E3	EXPLAINS:T6 term:T5

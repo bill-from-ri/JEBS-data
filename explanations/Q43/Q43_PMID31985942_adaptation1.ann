@@ -1,0 +1,27 @@
+T1	expert_term 36 41	heart
+T2	EXPLAINS 45 142	an important organ in the circulatory system in the body that carries blood to and from the heart
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 244 269	cardiac conduction system
+T4	EXPLAINS 270 385	that includes heart muscle cells and electrical conducting fibers and provides the heart its automatic heart rhythm
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 620 628	chambers
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 608 618	ventricles
+T7	expert_term 635 650	sinoatrial node
+T8	EXPLAINS 659 693	the natural pacemaker of the heart
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 855 870	sinoatrial node
+T10	EXPLAINS 872 901	the heart's natural pacemaker
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 910 931	atrioventricular node
+T12	EXPLAINS 933 996	a small part of the heart that intensifies these heart impulses
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1692 1708	bradyarrhythmias
+T14	EXPLAINS 1710 1740	slower than normal heart beats
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1792 1829	cardiac implantable electronic device
+T16	EXPLAINS 1831 1901	a device that is placed under the skin to help treat a slow heart rate
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2209 2220	contraction
+T18	EXPLAINS 2222 2259	pushing blood in and out of the heart
+E9	EXPLAINS:T18 term:T17

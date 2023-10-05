@@ -1,0 +1,9 @@
+T1	expert_term 373 383	biomarkers
+T2	EXPLAINS 347 371	chemicals that are signs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1236 1247	sufficiency
+T4	EXPLAINS 1249 1255	enough
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1269 1279	deficiency
+T6	EXPLAINS 1281 1291	not enough
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,12 @@
+T1	expert_term 159 165	Aβ1-42
+T2	EXPLAINS 169 254	a protein deposited in organs, clumps referred to as plaques, during certain diseases
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 387 400	cerebrospinal
+T4	EXPLAINS 402 417	brain and spine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 586 595	cognition
+T6	EXPLAINS 597 613	thinking ability
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 663 679	neurotransmitter
+T8	EXPLAINS 681 701	a signaling molecule
+E4	EXPLAINS:T8 term:T7

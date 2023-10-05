@@ -1,0 +1,18 @@
+T1	expert_term 49 66	Novel coronavirus
+T2	EXPLAINS 68 76	COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 653 669	non-communicable
+T4	EXPLAINS 671 697	non-infectious and chronic
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 901 910	antiviral
+T6	EXPLAINS 912 930	infection fighting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1067 1075	peptides
+T8	expert_term 1100 1110	cyclotides
+T9	EXPLAINS 1077 1093	protein segments
+E4	EXPLAINS:T9 term:T7
+T10	EXPLAINS 1112 1132	peptides from plants
+E5	EXPLAINS:T10 term:T8
+T11	expert_term 1152 1160	exercise
+T12	EXPLAINS 1162 1205	movement that gets the heart beating faster
+E6	EXPLAINS:T12 term:T11

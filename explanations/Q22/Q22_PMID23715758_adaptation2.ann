@@ -1,0 +1,9 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 67 160	a rare, inherited disorder that leads to hair follicle tumors, kidney tumors, and lungs cysts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 578 587	emphysema
+T4	EXPLAINS 589 630	a lung disease involving damaged air sacs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 149 160	lungs cysts
+T6	EXPLAINS 164 173	swellings
+E3	EXPLAINS:T6 term:T5

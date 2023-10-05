@@ -1,0 +1,18 @@
+T1	expert_term 81 102	low carbohydrate diet
+T2	expert_term 213 221	glycemia
+T3	expert_term 262 271	ketonemia
+T4	expert_term 395 415	gestational diabetes
+T5	expert_term 1630 1663	large-for-gestational-age infants
+T6	expert_term 1788 1801	fat-free mass
+T7	EXPLAINS 1803 1814	muscle mass
+E1	EXPLAINS:T7 term:T6
+T8	EXPLAINS 1665 1754	a newborn who weighs more than 90% of other newborns of the same gestational age at birth
+E2	EXPLAINS:T8 term:T5
+T9	EXPLAINS 417 468	a type of high blood sugar affecting pregnant women
+E3	EXPLAINS:T9 term:T4
+T10	EXPLAINS 273 379	an unusually high amount of ketones, a substance that the body makes if cells don't get enough blood sugar
+E4	EXPLAINS:T10 term:T3
+T11	EXPLAINS 223 240	blood sugar level
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 104 182	a diet that limits carbohydrates often found in sugary foods, pasta, and bread
+E6	EXPLAINS:T12 term:T1

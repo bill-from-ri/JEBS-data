@@ -1,0 +1,33 @@
+T1	expert_term 230 244	cotransporters
+T2	EXPLAINS 246 348	carrier proteins that carry two different ions or other species from one side of the cell to the other
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 430 451	Knockout mouse models
+T4	EXPLAINS 453 500	experiments with mice that lack a specific gene
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 690 698	polyuria
+T6	EXPLAINS 700 740	passing unusually large amounts of urine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 860 883	systolic blood pressure
+T8	expert_term 1079 1088	phenotype
+T9	expert_term 1165 1180	Phosphorylation
+T10	expert_term 1395 1407	SPAK-KO mice
+T11	EXPLAINS 1409 1426	mice without SPAK
+E4	EXPLAINS:T11 term:T10
+T12	expert_term 1533 1540	medulla
+T13	EXPLAINS 1489 1521	the innermost part of the kidney
+E5	EXPLAINS:T13 term:T12
+T14	EXPLAINS 1182 1337	a process of adding a phosphate group, a group of atoms that have different roles and make up DNA and RNA, to a molecule to prepare it to change or do work
+E6	EXPLAINS:T14 term:T9
+T15	EXPLAINS 885 1014	the top number of blood pressure that indicates how much pressure the blood is exerting against artery walls when the heart beats
+E7	EXPLAINS:T15 term:T7
+T16	EXPLAINS 1090 1126	observable traits or characteristics
+E8	EXPLAINS:T16 term:T8
+T17	expert_term 2352 2363	hypokalemia
+T18	EXPLAINS 2365 2401	low levels of potassium in the blood
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 2178 2203	OSR1 single knockout mice
+T20	EXPLAINS 2205 2241	mice without OSR1 only in the kidney
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1733 1757	distal convoluted tubule
+T22	EXPLAINS 1759 1868	a part within the kidney that connects to the collecting duct system that refines salt and water reabsorption
+E11	EXPLAINS:T22 term:T21

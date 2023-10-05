@@ -1,0 +1,12 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 61 142	an genetic disorder caused by a loss-of-function mutations in the Folliculin gene
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 123 142	the Folliculin gene
+T4	EXPLAINS 151 190	a gene that stops or slows tumor growth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 237 252	pulmonary cysts
+T6	EXPLAINS 254 287	sacs filled with air in the lungs
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 368 382	collapsed lung
+T8	EXPLAINS 384 445	when air leaks into the space between the lung and chest wall
+E4	EXPLAINS:T8 term:T7

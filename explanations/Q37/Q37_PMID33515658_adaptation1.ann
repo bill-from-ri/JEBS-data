@@ -1,0 +1,42 @@
+T1	expert_term 62 72	Pregabalin
+T2	EXPLAINS 81 104	a nerve pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 127 137	inhibitory
+T4	EXPLAINS 139 148	silencing
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 150 166	neurotransmitter
+T6	EXPLAINS 169 200	chemical messenger in the brain
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 411 424	neurotoxicity
+T8	EXPLAINS 426 445	poison to the brain
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 493 499	assess
+T10	EXPLAINS 501 508	measure
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 611 626	withdrawal from
+T12	EXPLAINS 628 638	removal of
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 652 668	cortical neurons
+T14	EXPLAINS 670 681	brain cells
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1165 1174	dependent
+T16	EXPLAINS 1176 1180	full
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1399 1413	administration
+T18	EXPLAINS 1415 1418	use
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1598 1612	frontal cortex
+T20	EXPLAINS 1614 1636	a section of the brain
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 2104 2126	central nervous system
+T22	EXPLAINS 2128 2149	brain and spinal cord
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 2166 2192	reactive oxidative species
+T24	EXPLAINS 2194 2223	harmful chemicals from oxygen
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 2419 2428	cognitive
+T26	EXPLAINS 2430 2444	memory-related
+E13	EXPLAINS:T26 term:T25
+T27	expert_term 2449 2459	neurologic
+T28	EXPLAINS 2461 2474	brain-related
+E14	EXPLAINS:T28 term:T27

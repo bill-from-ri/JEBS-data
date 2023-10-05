@@ -1,0 +1,6 @@
+T1	expert_term 943 962	rapid strep testing
+T2	EXPLAINS 964 1013	using a throat swab to detect bacterial fragments
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 2591 2605	cephalosporins
+T4	EXPLAINS 2615 2633	type of antibiotic
+E2	EXPLAINS:T4 term:T3

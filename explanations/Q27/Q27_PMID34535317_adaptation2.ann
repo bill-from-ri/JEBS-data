@@ -1,0 +1,6 @@
+T1	expert_term 59 70	myocarditis
+T2	EXPLAINS 72 97	heart muscle inflammation
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 124 132	COVID-19
+T4	EXPLAINS 134 161	a viral respiratory disease
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,9 @@
+T1	expert_term 106 114	COVID-19
+T2	EXPLAINS 116 150	a breathing-related viral disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 156 165	pneumonia
+T4	EXPLAINS 167 210	an infection the inflames the lung air sacs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 646 650	AIDS
+T6	EXPLAINS 652 692	a disease from an immunodeficiency virus
+E3	EXPLAINS:T6 term:T5

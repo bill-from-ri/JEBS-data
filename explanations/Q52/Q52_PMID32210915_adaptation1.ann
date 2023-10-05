@@ -1,0 +1,24 @@
+T1	expert_term 90 105	Turner syndrome
+T2	EXPLAINS 114 141	a sex chromosome aneuploidy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 447 471	differentially expressed
+T4	EXPLAINS 473 492	functionally unique
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 515 523	monosomy
+T6	EXPLAINS 539 571	one chromosome lacks its partner
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 770 781	upregulated
+T8	EXPLAINS 783 804	increased in activity
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 813 826	downregulated
+T10	EXPLAINS 828 849	decreased in activity
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 955 966	hematologic
+T12	EXPLAINS 968 973	blood
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1283 1294	circulatory
+T14	EXPLAINS 1296 1319	heart and blood vessels
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1456 1468	pathogenesis
+T16	EXPLAINS 1470 1486	disease creation
+E8	EXPLAINS:T16 term:T15

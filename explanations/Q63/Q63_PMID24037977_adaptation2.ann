@@ -1,0 +1,18 @@
+T1	expert_term 115 123	alopecia
+T2	EXPLAINS 125 146	hair loss or thinning
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 160 174	chemotherapies
+T4	EXPLAINS 176 202	cancer-treating treatments
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 262 280	hormonal therapies
+T6	EXAMPLE 288 302	anti-estrogens
+E3	EXAMPLE:T6 term:T5
+T7	expert_term 288 302	anti-estrogens
+T8	EXPLAINS 304 352	aromatase inhibitors used to treat breast cancer
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1000 1009	tamoxifen
+T10	EXPLAINS 1011 1039	an estrogen-influencing drug
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1326 1334	alopecia
+T12	EXPLAINS 1338 1408	a common yet rarely-mentioned side effect of hormonal cancer therapies
+E6	EXPLAINS:T12 term:T11

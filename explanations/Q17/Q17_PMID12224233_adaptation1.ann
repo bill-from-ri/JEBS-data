@@ -1,0 +1,21 @@
+T1	expert_term 1186 1194	epidural
+T2	expert_term 1266 1274	subdural
+T3	expert_term 1731 1738	medulla
+T4	expert_term 1772 1787	Cushing's Triad
+T5	EXPLAINS 1789 1879	which is a slowing heartbeat while blood pressure increases and breathing becomes abnormal
+E1	EXPLAINS:T5 term:T4
+T6	expert_term 2083 2104	decorticate posturing
+T7	expert_term 2240 2261	decerebrate posturing
+T8	expert_term 3866 3882	full nerve block
+T9	EXPLAINS 3884 3910	paralyzed skeletal muscles
+E2	EXPLAINS:T9 term:T8
+T10	EXPLAINS 2123 2238	arms and legs being held straight out, the toes being pointed downward, and the head and neck being arched backward
+E3	EXPLAINS:T10 term:T7
+T11	EXPLAINS 2017 2081	stiff with bent arms, clenched fists, and legs held out straight
+E4	EXPLAINS:T11 term:T6
+T12	EXPLAINS 1658 1729	the area of the brain that controls things like heartbeat and breathing
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 1213 1264	the space between the outermost layer and the brain
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 1133 1184	the space between the outermost layer and the skull
+E7	EXPLAINS:T14 term:T1

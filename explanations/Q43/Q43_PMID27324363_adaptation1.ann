@@ -1,0 +1,12 @@
+T1	expert_term 120 145	implantable defibrillator
+T2	EXPLAINS 147 259	a device that monitors your heart rate and delivers a strong electrical shock to restore the heartbeat to normal
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 403 430	lower chambers of the heart
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 432 454	ventricular activation
+T5	expert_term 512 522	His bundle
+T6	EXPLAINS 524 601	a part of the electrical conduction system of the heart that transmits pulses
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 974 1007	cardiac resynchronization therapy
+T8	EXPLAINS 1016 1071	treatment that helps the heart beat at the right rhythm
+E4	EXPLAINS:T8 term:T7

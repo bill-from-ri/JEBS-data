@@ -1,0 +1,6 @@
+T1	expert_term 59 75	Knee replacement
+T2	EXPLAINS 79 155	one of the most common types of surgery that people choose to have worldwide
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 973 998	Continuous Passive Motion
+T4	EXPLAINS 1006 1050	where a device moves the leg for the patient
+E2	EXPLAINS:T4 term:T3

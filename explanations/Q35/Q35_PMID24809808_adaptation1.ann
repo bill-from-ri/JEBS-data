@@ -1,0 +1,6 @@
+T1	expert_term 70 79	variation
+T2	EXPLAINS 84 95	differences
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 119 157	dual-energy x-ray absorptiometry tests
+T4	EXPLAINS 166 205	useful tests for measuring bone density
+E2	EXPLAINS:T4 term:T3

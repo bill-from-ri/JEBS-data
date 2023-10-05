@@ -1,0 +1,12 @@
+T1	expert_term 210 218	dopamine
+T2	EXPLAINS 220 287	a chemical messenger released when your brain is expecting a reward
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 303 321	tardive dyskinesia
+T4	EXPLAINS 329 348	a movement disorder
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 638 655	VMAT-2 inhibitors
+T6	EXAMPLE 657 705	tetrabenazine, deutetrabenazine, and valbenazine
+E3	EXAMPLE:T6 term:T5
+T7	expert_term 1244 1248	AIMS
+T8	EXPLAINS 1192 1242	a rating scale that measures involuntary movements
+E4	EXPLAINS:T8 term:T7

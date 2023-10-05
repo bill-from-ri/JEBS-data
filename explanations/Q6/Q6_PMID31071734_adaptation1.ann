@@ -1,0 +1,9 @@
+T1	expert_term 32 55	Hashimoto's thyroiditis
+T2	EXPLAINS 64 205	the most common type of disease caused by thyroid cells that are attacked by infection-preventing cells and results in an underactive thyroid
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 524 546	thyroid autoantibodies
+T4	EXPLAINS 548 632	substances that develop when a person's immune system mistakenly attacks the thyroid
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 993 1009	thyroid hormones
+T6	EXAMPLE 1011 1050	T4, T3, and thyroid-stimulating hormone
+E3	EXAMPLE:T6 term:T5

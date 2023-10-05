@@ -1,0 +1,18 @@
+T1	expert_term 56 64	Covid-19
+T2	EXPLAINS 66 100	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 402 412	quarantine
+T4	expert_term 290 298	negative
+T5	EXPLAINS 303 313	undetected
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 414 423	isolation
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 481 486	fecal
+T8	EXPLAINS 490 494	poop
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 724 729	stool
+T10	EXPLAINS 731 736	feces
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1132 1144	transmission
+T12	EXPLAINS 1149 1155	spread
+E6	EXPLAINS:T12 term:T11

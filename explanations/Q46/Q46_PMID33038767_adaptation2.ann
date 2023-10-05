@@ -1,0 +1,6 @@
+T1	expert_term 48 63	Cystic Fibrosis
+T2	EXPLAINS 72 137	an inherited disease, which leads to mucus buildup in many organs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 253 275	Unsaturated Fatty Acid
+T4	EXPLAINS 283 304	a certain form of fat
+E2	EXPLAINS:T4 term:T3

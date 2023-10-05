@@ -1,0 +1,9 @@
+T1	expert_term 669 680	antibiotics
+T2	EXAMPLE 682 707	penicillin or amoxicillin
+E1	EXAMPLE:T2 term:T1
+T3	expert_term 463 479	rapid strep test
+T4	EXPLAINS 481 568	a test using a throat swab to find bacterial fragments in the throat that make you sick
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 931 967	Nonsteroidal anti-inflammatory drugs
+T6	EXPLAINS 969 1024	common over-the-counter drugs like ibuprofen or aspirin
+E3	EXPLAINS:T6 term:T5

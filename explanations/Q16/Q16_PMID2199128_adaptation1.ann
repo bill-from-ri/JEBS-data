@@ -1,0 +1,24 @@
+T1	expert_term 102 118	pharmacokinetics
+T2	expert_term 152 175	prednisolone/prednisone
+T3	expert_term 658 664	plasma
+T4	expert_term 727 736	half-life
+T5	expert_term 873 885	steady state
+T6	expert_term 1020 1044	concentration-time curve
+T7	expert_term 1610 1633	pharmacokinetic results
+T8	expert_term 2039 2055	hypoproteinaemia
+T9	EXPLAINS 2057 2104	lower than normal levels of protein in the body
+E1	EXPLAINS:T9 term:T8
+T10	EXPLAINS 1635 1677	how the body responds to or handles a drug
+E2	EXPLAINS:T10 term:T7
+T11	EXPLAINS 1046 1107	a measure of total exposure to the drug in the body's systems
+E3	EXPLAINS:T11 term:T6
+T12	EXPLAINS 738 842	how long it takes for a drug concentration to be reduced to exactly half its initial amount in the blood
+E4	EXPLAINS:T12 term:T4
+T14	EXPLAINS 666 693	the liquid portion of blood
+E5	EXPLAINS:T14 term:T3
+T15	EXPLAINS 177 203	two types of steroid drugs
+E6	EXPLAINS:T15 term:T2
+T16	EXPLAINS 120 147	how the body handles a drug
+E7	EXPLAINS:T16 term:T1
+T13	EXPLAINS 887 987	when how much the body is given of prednisolone is equal to how much of the drug the body eliminates
+E8	EXPLAINS:T13 term:T5

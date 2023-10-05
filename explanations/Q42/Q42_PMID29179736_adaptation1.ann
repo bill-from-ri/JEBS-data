@@ -1,0 +1,18 @@
+T1	expert_term 41 51	Eukaryotes
+T2	EXPLAINS 56 123	cells commonly identified by having a nucleus (chamber to hold DNA)
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 94 101	nucleus
+T4	EXPLAINS 103 122	chamber to hold DNA
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 257 265	Histones
+T6	EXPLAINS 270 395	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E3	EXPLAINS:T6 term:T5
+T8	expert_term 500 519	nucleosomal octamer
+T7	EXPLAINS 446 488	the basic structural unit of DNA packaging
+E4	EXPLAINS:T7 term:T8
+T9	expert_term 630 639	chromatin
+T10	EXPLAINS 641 699	a substance within a chromosome made up of DNA and protein
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2374 2387	endonucleases
+T12	EXPLAINS 2337 2366	viral-degrading, host enzymes
+E6	EXPLAINS:T12 term:T11

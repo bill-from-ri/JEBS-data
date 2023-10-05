@@ -1,0 +1,9 @@
+T1	expert_term 200 219	Occipital Neuralgia
+T2	EXPLAINS 227 255	pain in the occipital nerves
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 239 255	occipital nerves
+T4	EXPLAINS 261 335	nerves that run from the top of the spinal cord up in the back of the head
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 467 486	Occipital neuralgia
+T6	EXPLAINS 492 581	continuing, sharp, stabbing pain in the upper neck, back of the head, and behind the ears
+E3	EXPLAINS:T6 term:T5

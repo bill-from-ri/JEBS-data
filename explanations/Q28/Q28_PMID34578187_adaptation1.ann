@@ -1,0 +1,6 @@
+T1	expert_term 70 78	COVID-19
+T2	EXPLAINS 80 114	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 34 54	SARS-CoV-2 infection
+T4	EXPLAINS 56 78	also known as COVID-19
+E2	EXPLAINS:T4 term:T3

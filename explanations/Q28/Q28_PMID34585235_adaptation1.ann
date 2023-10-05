@@ -1,0 +1,15 @@
+T1	expert_term 75 78	RNA
+T2	EXPLAINS 83 99	genetic material
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 106 114	COVID-19
+T4	EXPLAINS 122 155	a virus leading to lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 168 176	microRNA
+T6	EXPLAINS 178 232	small chains of RNA that cannot be coded into proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1046 1057	interleukin
+T8	EXPLAINS 1059 1078	a messenger protein
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1115 1125	interferon
+T10	EXPLAINS 1127 1152	another messenger protein
+E5	EXPLAINS:T10 term:T9

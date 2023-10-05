@@ -1,0 +1,18 @@
+T1	expert_term 80 100	glucocorticosteroids
+T2	expert_term 203 219	immune complexes
+T3	expert_term 312 340	mononuclear phagocyte system
+T4	expert_term 481 491	prednisone
+T5	expert_term 687 694	soluble
+T6	expert_term 735 757	human immunoglobulin G
+T7	EXPLAINS 759 821	an common antibody in the body that protects against infection
+E1	EXPLAINS:T7 term:T6
+T8	EXPLAINS 696 721	can be dissolved in water
+E2	EXPLAINS:T8 term:T5
+T9	EXPLAINS 493 604	a type of steroid drug that can help lower certain immune-related symptoms, including inflammation and swelling
+E3	EXPLAINS:T9 term:T4
+T10	EXPLAINS 342 423	a family of cells that fight foreign substances and are part of the immune system
+E4	EXPLAINS:T10 term:T3
+T11	EXPLAINS 221 303	build-up in the blood that can cause infection and problems with the immune system
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 102 174	strong medicines that fight inflammation and work with the immune system
+E6	EXPLAINS:T12 term:T1

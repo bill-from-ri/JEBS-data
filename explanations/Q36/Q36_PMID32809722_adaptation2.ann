@@ -1,0 +1,3 @@
+T1	expert_term 730 766	Extracorporeal shockwave lithotripsy
+T2	EXPLAINS 778 814	kidney stone removal with shockwaves
+E1	EXPLAINS:T2 term:T1

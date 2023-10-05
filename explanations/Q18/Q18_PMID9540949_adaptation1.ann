@@ -1,0 +1,36 @@
+T1	expert_term 171 180	perinatal
+T2	expert_term 253 282	gestational diabetes mellitus
+T3	expert_term 658 665	fasting
+T4	expert_term 748 763	urinary ketones
+T5	expert_term 868 891	Glycosylated hemoglobin
+T6	expert_term 1035 1045	macrosomia
+T7	expert_term 1094 1127	large for gestational age infants
+T8	expert_term 1220 1239	cesarean deliveries
+T9	expert_term 1256 1283	cephalopelvic disproportion
+T10	expert_term 1382 1389	insulin
+T11	EXPLAINS 1399 1506	a hormone in the body that allows cells in the muscles, fat, and liver to absorb sugar that is in the blood
+E1	EXPLAINS:T11 term:T10
+T12	EXPLAINS 1285 1351	when a baby's head is too large to fit through the mother's pelvis
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1241 1250	C-section
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1129 1217	newborns who weighs more than 90% of other newborns of the same gestational age at birth
+E4	EXPLAINS:T14 term:T7
+T15	EXPLAINS 1047 1088	a newborn who is much larger than average
+E5	EXPLAINS:T15 term:T6
+T16	EXPLAINS 893 969	a blood test that measures the percent of a protein found in blood red cells
+E6	EXPLAINS:T16 term:T5
+T17	EXPLAINS 765 865	chemicals in uring made from the liver that indicate the body is using fat for fuel instead of sugar
+E7	EXPLAINS:T17 term:T4
+T18	EXPLAINS 667 674	no food
+E8	EXPLAINS:T18 term:T3
+T19	EXPLAINS 284 343	diagnosed with diabetes for the first time during pregnancy
+E9	EXPLAINS:T19 term:T2
+T20	EXPLAINS 182 209	time before and after birth
+E10	EXPLAINS:T20 term:T1
+T21	expert_term 2029 2056	cephalopelvic disproportion
+T22	EXPLAINS 2058 2130	in which the baby's head is too large to fit through the mother's pelvis
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 2136 2146	macrosomia
+T24	EXPLAINS 2148 2200	in which the newborn who is much larger than average
+E12	EXPLAINS:T24 term:T23

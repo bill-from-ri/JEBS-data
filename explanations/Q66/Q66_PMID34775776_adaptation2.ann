@@ -1,0 +1,12 @@
+T1	expert_term 48 59	Chylothorax
+T2	EXPLAINS 63 169	an uncommon and serious medical condition where fluid from the lymphatic system builds up around the lungs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 333 351	Nephrotic Syndrome
+T4	EXPLAINS 289 325	a cluster of kidney-related symptoms
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 447 469	Membranous Nephropathy
+T6	EXPLAINS 423 439	a kidney disease
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1175 1188	lymph vessels
+T8	EXPLAINS 1190 1224	which are similar to blood vessels
+E4	EXPLAINS:T8 term:T7

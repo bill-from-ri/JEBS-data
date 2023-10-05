@@ -1,0 +1,12 @@
+T1	expert_term 113 147	endocrine therapy-induced alopecia
+T2	EXPLAINS 155 198	hair loss or thinning from hormonal therapy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 695 704	minoxidil
+T4	EXPLAINS 706 730	hair regrowth medication
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 793 814	Hairdex Questionnaire
+T6	EXPLAINS 816 881	a questionnaire for disease-specific quality of life measurements
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1536 1545	tamoxifen
+T8	EXPLAINS 1547 1578	estrogen-influencing medication
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,21 @@
+T1	expert_term 147 179	central nervous system disorders
+T2	expert_term 446 467	neuronal degeneration
+T3	expert_term 511 528	neuroinflammation
+T4	expert_term 665 691	neurofibrillary aggregates
+T5	expert_term 838 843	motor
+T6	expert_term 859 868	non-motor
+T7	expert_term 1405 1413	levodopa
+T8	EXPLAINS 1415 1478	a drug that enters the brain and helps replace missing dopamine
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 870 918	unrelated to movement such as pain and tiredness
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 845 853	movement
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 693 733	accumulation of a protein inside neurons
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 530 642	inflammatory response within the brain or spinal cord due to the immune system responding to injury or infection
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 469 505	the loss of nerve cells in the brain
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 181 226	disorders impacting the brain and spinal cord
+E7	EXPLAINS:T14 term:T1

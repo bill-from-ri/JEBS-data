@@ -1,0 +1,30 @@
+T1	expert_term 139 149	phenotypes
+T2	expert_term 254 268	resting tremor
+T3	expert_term 488 500	bradykinesia
+T4	expert_term 554 562	levodopa
+T5	expert_term 629 638	challenge
+T6	expert_term 915 918	off
+T7	expert_term 948 950	on
+T8	expert_term 1096 1109	accelerometry
+T9	expert_term 1287 1299	distribution
+T10	expert_term 1936 1946	dyskinesia
+T11	EXPLAINS 1948 1988	involuntary and uncontrollable movements
+E1	EXPLAINS:T11 term:T10
+T12	EXPLAINS 1301 1379	the movement of a drug to and from the blood and different tissues of the body
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1111 1154	a device that records motion and non-motion
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 953 994	when patient feels energetic and can move
+E4	EXPLAINS:T14 term:T7
+T15	EXPLAINS 921 941	when symptoms return
+E5	EXPLAINS:T15 term:T6
+T16	EXPLAINS 640 767	when a drug is used to confirm a diagnosis of Parkinson's disease if the patient's symptoms improve while taking the medication
+E6	EXPLAINS:T16 term:T5
+T17	EXPLAINS 564 627	a drug that enters the brain and helps replace missing dopamine
+E7	EXPLAINS:T17 term:T4
+T18	EXPLAINS 502 522	slowness of movement
+E8	EXPLAINS:T18 term:T3
+T19	EXPLAINS 270 305	a tremor when the muscle is relaxed
+E9	EXPLAINS:T19 term:T2
+T20	EXPLAINS 151 187	observable traits or characteristics
+E10	EXPLAINS:T20 term:T1

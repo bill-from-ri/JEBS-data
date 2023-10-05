@@ -1,0 +1,9 @@
+T1	EXPLAINS 927 951	inflammation of the nose
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 953 961	rhinitis
+T3	expert_term 873 895	eosinophilc bronchitis
+T4	EXPLAINS 897 924	inflammation of the airways
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 1013 1027	allergic cough
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 1029 1041	atopic cough

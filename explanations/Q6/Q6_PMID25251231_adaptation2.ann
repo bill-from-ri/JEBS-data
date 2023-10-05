@@ -1,0 +1,12 @@
+T1	expert_term 32 43	Thyroiditis
+T2	EXPLAINS 51 118	multiple disorders represented by inflammation of the thyroid gland
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 281 294	Levothyroxine
+T4	EXPLAINS 296 323	a thyroid hormone treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 809 822	Beta blockers
+T6	EXPLAINS 824 861	common high blood pressure medication
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1063 1074	thyroiditis
+T8	EXPLAINS 1076 1096	thyroid inflammation
+E4	EXPLAINS:T8 term:T7

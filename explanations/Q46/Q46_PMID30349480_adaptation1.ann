@@ -1,0 +1,12 @@
+T1	expert_term 133 148	cystic fibrosis
+T2	EXPLAINS 155 276	one of the most common life-shortening diseases affecting organs that make and release substances into transporting ducts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 348 351	ion
+T4	EXPLAINS 353 365	charged atom
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1248 1251	RNA
+T6	EXPLAINS 1253 1311	which changes the genetic information of DNA into proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1428 1436	microRNA
+T8	EXPLAINS 1445 1504	short type of non-coding RNA that does not encode a protein
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,6 @@
+T1	expert_term 115 134	Hand osteoarthritis
+T2	EXPLAINS 138 270	a musculoskeletal problem involving hand pain, stiffness, practical limitation, decreased grip strength, and reduced quality of life
+E1	EXPLAINS:T2 term:T1
+T5	expert_term 1447 1470	occupational therapists
+T6	EXPLAINS 1472 1517	who help patients perform everyday activities
+E3	EXPLAINS:T6 term:T5

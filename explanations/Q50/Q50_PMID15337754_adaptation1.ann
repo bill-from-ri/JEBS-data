@@ -1,0 +1,18 @@
+T1	expert_term 68 86	C-reactive protein
+T2	EXPLAINS 96 159	a protein that has remained relatively unchanged from evolution
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 245 253	systemic
+T4	EXPLAINS 255 264	full-body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 278 290	inflammation
+T6	EXPLAINS 292 310	infection-fighting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 317 323	plasma
+T8	EXPLAINS 325 330	blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 606 615	pathogens
+T10	EXPLAINS 617 634	foreign organisms
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1041 1063	coronary heart disease
+T12	EXPLAINS 1065 1106	damage in the heart's major blood vessels
+E6	EXPLAINS:T12 term:T11

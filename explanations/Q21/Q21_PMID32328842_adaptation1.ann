@@ -1,0 +1,6 @@
+T1	expert_term 55 70	diagnostic tool
+T2	EXAMPLE 72 94	CT, MRI, or ultrasound
+E1	EXAMPLE:T2 term:T1
+T3	expert_term 160 166	hernia
+T4	EXPLAINS 168 185	bulging of organs
+E2	EXPLAINS:T4 term:T3

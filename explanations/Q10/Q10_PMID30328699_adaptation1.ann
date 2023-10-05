@@ -1,0 +1,15 @@
+T1	expert_term 115 135	Rheumatoid arthritis
+T2	EXPLAINS 139 217	a disease where the immune system attacks healthy cells in the body by mistake
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1851 1880	double-blind controlled study
+T4	EXPLAINS 1882 1974	where neither the patients nor the researcher knows which treatment participants are getting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 2121 2133	rheumatology
+T6	EXPLAINS 2135 2186	diseases in the joints, muscles, tendons, ligaments
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 869 885	sham acupuncture
+T8	EXPLAINS 893 985	where the patient is pricked with thin needles but at different, less key points of the body
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1595 1617	sham acupuncture group
+T10	EXPLAINS 1619 1695	the group that received needle pricks but outside the key points of the body
+E5	EXPLAINS:T10 term:T9

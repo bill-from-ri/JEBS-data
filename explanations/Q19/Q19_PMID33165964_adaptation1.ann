@@ -1,0 +1,30 @@
+T1	expert_term 185 204	Parkinson's disease
+T2	expert_term 336 344	levodopa
+T3	expert_term 471 487	dopamine agonist
+T4	expert_term 568 590	deep brain stimulation
+T5	expert_term 1125 1134	non-motor
+T6	expert_term 1300 1305	motor
+T7	expert_term 1662 1676	single therapy
+T8	expert_term 2054 2067	not tolerated
+T9	expert_term 2154 2179	impulse control disorders
+T10	EXPLAINS 2181 2242	disorders in which temptations or thoughts cannot be resisted
+E1	EXPLAINS:T10 term:T9
+T11	EXPLAINS 2069 2098	unable to handle side effects
+E2	EXPLAINS:T11 term:T8
+T12	EXPLAINS 1678 1691	only one drug
+E3	EXPLAINS:T12 term:T7
+T13	EXPLAINS 1307 1315	movement
+E4	EXPLAINS:T13 term:T6
+T14	EXPLAINS 1136 1157	unrelated to movement
+E5	EXPLAINS:T14 term:T5
+T15	EXPLAINS 489 545	a drug that imitates the actions of dopamine in the body
+E6	EXPLAINS:T15 term:T3
+T16	EXPLAINS 346 462	a drug that enters the brain and helps replace missing dopamine, a chemical that carries signals between brain cells
+E7	EXPLAINS:T16 term:T2
+T17	EXPLAINS 206 261	a brain disorder that affects movement and coordination
+E8	EXPLAINS:T17 term:T1
+T18	EXPLAINS 592 661	surgery that implants devices to stimulate certain areas of the brain
+E9	EXPLAINS:T18 term:T4
+T19	expert_term 1058 1082	Non-Motor Symptoms Scale
+T20	EXPLAINS 1084 1194	a scale to count and measure severity of non-motor (unrelated to movement) symptoms such as pain and tiredness
+E10	EXPLAINS:T20 term:T19

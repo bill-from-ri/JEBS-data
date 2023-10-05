@@ -1,0 +1,6 @@
+T1	expert_term 40 63	Pallister-Hall syndrome
+T2	EXPLAINS 73 87	a rare disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 273 295	hypothalamic hamartoma
+T4	EXPLAINS 297 329	a non-cancer growth in the brain
+E2	EXPLAINS:T4 term:T3

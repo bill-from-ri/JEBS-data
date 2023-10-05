@@ -1,0 +1,33 @@
+T1	expert_term 22 40	Multiple sclerosis
+T2	EXPLAINS 49 96	a complex disease of the central nervous system
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 184 196	inflammation
+T4	EXPLAINS 198 245	redness and swelling from fighting an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 248 261	demyelination
+T6	EXPLAINS 263 290	destruction of nerve tissue
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 316 333	Neurodegeneration
+T8	EXPLAINS 341 405	loss of structure and/or function of neurons, cells in the brain
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 547 557	Biomarkers
+T10	EXPLAINS 562 620	measurable biological substances that can indicate disease
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1055 1069	susceptibility
+T12	EXPLAINS 1074 1078	risk
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1100 1108	forecast
+T14	EXPLAINS 1113 1124	progression
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1301 1319	neuroaxonal damage
+T16	EXPLAINS 1321 1339	nerve degeneration
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1342 1349	gliosis
+T18	EXPLAINS 1351 1370	scarring in the CNS
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1373 1386	demyelination
+T20	EXPLAINS 1388 1412	nerve tissue destruction
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1501 1514	cerebrospinal
+T22	EXPLAINS 1516 1521	brain
+E11	EXPLAINS:T22 term:T21

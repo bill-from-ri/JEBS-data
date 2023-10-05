@@ -1,0 +1,3 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 67 116	a rare, genetic disorder caused by a DNA mutation
+E1	EXPLAINS:T2 term:T1

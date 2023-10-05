@@ -1,0 +1,15 @@
+T1	expert_term 158 168	leg ulcers
+T2	EXPLAINS 170 179	leg sores
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 675 716	Ejection fraction (EF) of the venous pump
+T4	EXPLAINS 721 753	the blood flowing from the heart
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 940 944	flux
+T6	EXPLAINS 946 959	blood buildup
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1334 1341	impeded
+T8	EXPLAINS 1343 1350	blocked
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1372 1390	Arterial perfusion
+T10	EXPLAINS 1394 1430	when a patient has their blood drawn
+E5	EXPLAINS:T10 term:T9

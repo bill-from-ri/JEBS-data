@@ -1,0 +1,15 @@
+T1	expert_term 284 295	therapeutic
+T2	EXPLAINS 297 304	helpful
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1011 1027	vasoconstrictors
+T4	EXPLAINS 1029 1090	drugs that constrict blood vessels to increase blood pressure
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1416 1427	hemorrhagic
+T6	expert_term 1482 1503	traumatic hemorrhagic
+T7	EXPLAINS 1429 1476	excessive bleeding from a ruptured blood vessel
+E3	EXPLAINS:T7 term:T5
+T8	EXPLAINS 1505 1537	internal bleeding from an injury
+E4	EXPLAINS:T8 term:T6
+T9	expert_term 2000 2007	hypoxia
+T10	EXPLAINS 2009 2037	below normal level of oxygen
+E5	EXPLAINS:T10 term:T9

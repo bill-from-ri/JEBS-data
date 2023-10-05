@@ -1,0 +1,6 @@
+T1	expert_term 56 74	Tardive dyskinesia
+T2	EXPLAINS 83 192	characterized by possibly irreversible, abnormal, uncontrolled movements related to the use of antipsychotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 391 423	valbenazine and deutetrabenazine
+T4	EXPLAINS 333 371	treatments options approved by the FDA
+E2	EXPLAINS:T4 term:T3

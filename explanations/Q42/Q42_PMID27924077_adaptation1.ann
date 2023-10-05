@@ -1,0 +1,12 @@
+T1	expert_term 41 51	Acylations
+T2	EXPLAINS 56 152	parts of molecules that help groups of atoms called acyl groups connect to compounds in the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 198 206	histones
+T4	EXPLAINS 208 349	which are proteins that provide structural support to a chromosome (DNA) and sometimes act as the spool that the thread-like DNA wraps around
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 264 274	chromosome
+T6	EXPLAINS 276 279	DNA
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1032 1042	metabolism
+T8	EXPLAINS 1044 1053	digestion
+E4	EXPLAINS:T8 term:T7

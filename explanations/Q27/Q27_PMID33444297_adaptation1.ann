@@ -1,0 +1,18 @@
+T1	expert_term 86 94	Covid-19
+T2	EXPLAINS 96 130	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 444 449	acute
+T4	EXPLAINS 451 457	sudden
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1195 1209	adverse events
+T6	EXPLAINS 1170 1193	unexpected side effects
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1568 1579	anaphylaxis
+T8	EXPLAINS 1582 1618	a life-threatening allergic reaction
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1620 1631	Anaphylaxis
+T10	EXPLAINS 1635 1708	a life-threatening allergic reaction that occurs rarely after vaccination
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1272 1310	Vaccine Adverse Event Reporting System
+T12	EXPLAINS 1320 1418	a national vaccine safety tracking system that accepts reports of adverse events after vaccination
+E6	EXPLAINS:T12 term:T11

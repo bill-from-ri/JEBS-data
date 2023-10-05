@@ -1,0 +1,15 @@
+T1	expert_term 85 105	Postnatal depression
+T2	EXPLAINS 107 134	depression after childbirth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 286 302	perinatal period
+T4	EXPLAINS 304 342	time of pregnancy and after childbirth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 715 724	cognitive
+T6	EXPLAINS 726 734	thinking
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1014 1023	antenatal
+T8	EXPLAINS 1025 1041	during pregnancy
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1834 1840	trials
+T10	EXPLAINS 1842 1855	human studies
+E5	EXPLAINS:T10 term:T9

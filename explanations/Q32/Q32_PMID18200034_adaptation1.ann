@@ -1,0 +1,15 @@
+T1	expert_term 102 124	antihypertensive drugs
+T2	EXPLAINS 131 156	treat high blood pressure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 200 212	homocysteine
+T4	EXPLAINS 234 292	am amino acid that creates other chemicals your body needs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 900 946	Angiotensin-converting enzyme (ACE) inhibitors
+T6	EXPLAINS 951 1013	drugs that lower blood pressure by relaxing veins and arteries
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1204 1224	Hydrochlorothiazides
+T8	EXPLAINS 1230 1241	water pills
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1560 1571	endothelial
+T10	EXPLAINS 1573 1626	tissue lining various organs and cavities in the body
+E5	EXPLAINS:T10 term:T9

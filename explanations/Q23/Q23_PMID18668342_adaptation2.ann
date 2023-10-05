@@ -1,0 +1,6 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 58 190	an inheritable disorder, is an inborn (i.e, existing from birth) error of metabolism that can lead to impaired cognitive development
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 89 95	inborn
+T4	EXPLAINS 102 121	existing from birth
+E2	EXPLAINS:T4 term:T3

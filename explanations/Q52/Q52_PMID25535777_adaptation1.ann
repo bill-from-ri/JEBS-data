@@ -1,0 +1,15 @@
+T1	expert_term 90 105	Turner Syndrome
+T2	EXPLAINS 114 176	a genetic condition found in 1 out of every 2500 newborn girls
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 178 193	Turner syndrome
+T4	EXPLAINS 197 257	a condition where there is an abnormal amount of chromosomes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 246 257	chromosomes
+T6	EXPLAINS 259 275	genetic material
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 356 369	comorbidities
+T8	EXPLAINS 371 406	two or more diseases in one patient
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 545 556	quantifying
+T10	EXPLAINS 558 567	measuring
+E5	EXPLAINS:T10 term:T9

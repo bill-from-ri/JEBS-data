@@ -1,0 +1,6 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 60 154	a disorder inherited from both parents in which the body cannot properly turn food into energy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 208 233	phenylalanine hydroxylase
+T4	EXPLAINS 245 287	changes one molecule into another molecule
+E2	EXPLAINS:T4 term:T3

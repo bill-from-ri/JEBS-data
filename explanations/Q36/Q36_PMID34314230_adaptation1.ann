@@ -1,0 +1,9 @@
+T1	expert_term 151 179	Percutaneous nephrolithotomy
+T2	EXPLAINS 190 374	a procedure that involves making an incision in the skin, inserting a tube to reach the stone, breaking it up into small pieces - sometimes using a laser, and removing it from the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1432 1443	transfusion
+T4	EXPLAINS 1445 1453	transfer
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 712 727	stone-free rate
+T6	EXPLAINS 729 782	patients that no longer have stone or stone fragments
+E3	EXPLAINS:T6 term:T5

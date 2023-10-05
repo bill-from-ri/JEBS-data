@@ -1,0 +1,6 @@
+T1	expert_term 85 106	Postpartum depression
+T2	EXPLAINS 108 135	depression after childbirth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1809 1820	epigenetics
+T4	EXPLAINS 1822 1894	which can change the way your genes work without changing the DNA itself
+E2	EXPLAINS:T4 term:T3

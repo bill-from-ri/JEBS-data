@@ -1,0 +1,6 @@
+T1	expert_term 240 249	prognosis
+T2	EXPLAINS 251 268	plan for recovery
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 878 886	paraffin
+T4	EXPLAINS 888 892	waxy
+E2	EXPLAINS:T4 term:T3

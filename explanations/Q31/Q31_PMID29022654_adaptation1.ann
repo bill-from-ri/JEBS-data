@@ -1,0 +1,9 @@
+T1	expert_term 56 74	Tardive dyskinesia
+T2	EXPLAINS 83 197	characterized by uncontrolled movements, usually of the face muscles and also of the arms, legs, and other muscles
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 425 442	second-generation
+T4	expert_term 514 530	first-generation
+T5	EXPLAINS 532 537	older
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 444 449	newer
+E3	EXPLAINS:T6 term:T3

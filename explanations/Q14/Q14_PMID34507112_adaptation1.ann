@@ -1,0 +1,21 @@
+T1	expert_term 53 70	COVID-19 epidemic
+T2	EXPLAINS 72 123	an outbreak of the viral breathing-related disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 548 568	SARS-CoV-2 infection
+T4	EXPLAINS 570 617	the novel coronavirus that can lead to COVID-19
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 642 660	Glycyrrhiza glabra
+T6	EXPLAINS 662 692	a root also known as liquorice
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 701 709	in vitro
+T8	EXPLAINS 711 736	experiments in test tubes
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 969 989	Pelargonium sidoides
+T10	EXPLAINS 991 1042	an herb from a plant also known as African geranium
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1104 1113	antiviral
+T12	EXPLAINS 1115 1133	infection fighting
+E6	EXPLAINS:T12 term:T11
+T14	EXPLAINS 1231 1281	a type of coronavirus that infects humans and bats
+E8	EXPLAINS:T14 term:T13
+T13	expert_term 1209 1229	HCo-229E coronavirus

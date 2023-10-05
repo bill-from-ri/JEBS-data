@@ -1,0 +1,3 @@
+T1	expert_term 452 486	moderate-to-severe throat symptoms
+T2	EXAMPLE 488 546	sore throat pain, difficulty swallowing and swollen throat
+E1	EXAMPLE:T2 term:T1

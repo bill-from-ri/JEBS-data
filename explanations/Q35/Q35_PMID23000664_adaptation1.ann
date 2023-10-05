@@ -1,0 +1,6 @@
+T1	expert_term 80 92	osteoporosis
+T2	EXPLAINS 94 144	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 589 598	menopause
+T4	EXPLAINS 600 647	a point in time 12 months after the last period
+E2	EXPLAINS:T4 term:T3

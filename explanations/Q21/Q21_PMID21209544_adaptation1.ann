@@ -1,0 +1,4 @@
+T1	expert_term 34 50	Spigelian hernia
+T2	expert_term 55 77	lateral ventral hernia
+T3	EXPLAINS 78 115	involving bulging of digestive organs
+E1	EXPLAINS:T3 term:T2 term2:T1

@@ -1,0 +1,39 @@
+T1	expert_term 314 323	cognitive
+T2	expert_term 367 389	cholinergic mechanisms
+T3	expert_term 595 623	prefrontal cortex activation
+T4	expert_term 708 716	Levodopa
+T5	expert_term 864 868	gait
+T6	expert_term 1008 1020	dopaminergic
+T7	expert_term 1201 1210	donepezil
+T8	expert_term 1525 1532	placebo
+T9	expert_term 1597 1604	washout
+T10	expert_term 1795 1816	dual-task performance
+T11	expert_term 1887 1913	prefrontal cortex activity
+T12	EXPLAINS 1915 1984	the part of the brain that controls behavior, such as decision-making
+E1	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1818 1850	doing two tasks at the same time
+E2	EXPLAINS:T13 term:T10
+T14	EXPLAINS 1606 1672	the study phase when the drug is stopped and no other drug is used
+E3	EXPLAINS:T14 term:T9
+T15	EXPLAINS 1534 1538	sham
+E4	EXPLAINS:T15 term:T8
+T16	EXPLAINS 1212 1253	a type of drug that helps mental function
+E5	EXPLAINS:T16 term:T7
+T17	EXPLAINS 1022 1059	drugs that increase dopamine activity
+E6	EXPLAINS:T17 term:T6
+T18	EXPLAINS 870 888	how a person walks
+E7	EXPLAINS:T18 term:T5
+T19	EXPLAINS 718 834	a drug that enters the brain and helps replace missing dopamine, a chemical that carries signals between brain cells
+E8	EXPLAINS:T19 term:T4
+T20	EXPLAINS 625 705	activating the part of the brain that controls behavior, such as decision-making
+E9	EXPLAINS:T20 term:T3
+T21	EXPLAINS 391 535	types of drugs that inhibit, enhance, or imitate the action of the neurotransmitter acetylcholine, the primary signaling molecule of nerve cells
+E10	EXPLAINS:T21 term:T2
+T22	EXPLAINS 325 340	thought-related
+E11	EXPLAINS:T22 term:T1
+T23	expert_term 85 93	Dopamine
+T24	EXPLAINS 97 201	a chemical messenger that carries signals between brain cells and affects mood, motivation, and movement
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 1684 1691	outcome
+T26	EXPLAINS 1693 1699	result
+E13	EXPLAINS:T26 term:T25

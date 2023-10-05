@@ -1,0 +1,6 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 72 196	an inherited disease caused by loss of function of a special cell boundary channel and leads to mucus buildup in many organs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 322 339	endothelial cells
+T4	EXPLAINS 341 398	cells that line blood vessels and empty areas of the body
+E2	EXPLAINS:T4 term:T3

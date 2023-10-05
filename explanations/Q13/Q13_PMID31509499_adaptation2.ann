@@ -1,0 +1,12 @@
+T1	expert_term 152 163	Sleep apnea
+T2	EXPLAINS 165 232	a disorder in which breathing is regularly interrupted during sleep
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 549 555	stroke
+T4	EXPLAINS 557 601	brain damage from reduced brain blood supply
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 604 627	coronary artery disease
+T6	EXPLAINS 629 672	which is plaque buildup blocking blood flow
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 926 945	central sleep apnea
+T8	EXPLAINS 947 979	sleep apnea by brain dysfunction
+E4	EXPLAINS:T8 term:T7

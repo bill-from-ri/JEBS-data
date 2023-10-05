@@ -1,0 +1,18 @@
+T1	expert_term 49 84	Coronavirus Disease 2019 (COVID-19)
+T2	EXPLAINS 86 154	a breathing-related disease caused by a novel coronavirus SARS-CoV-2
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 294 309	mucosal vaccine
+T4	expert_term 574 597	receptor-binding domain
+T5	EXPLAINS 605 712	the part of the virus located on the spike protein which is involved in introducing a virus into host cells
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 311 426	vaccines given at moist, inner lining of some organs and body cavities, such as the nose, mouth, lungs, and stomach
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 837 862	intranasal administration
+T8	EXPLAINS 864 919	a non-invasive route for drug delivery through the nose
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 991 1005	IgA antibodies
+T10	EXPLAINS 1007 1085	antibodies that play a crucial role in the immune function of mucous membranes
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1191 1215	humoral immune responses
+T12	EXPLAINS 1217 1336	molecules that create antibodies against a specific antigen and involves substances found in the humors, or body fluids
+E6	EXPLAINS:T12 term:T11

@@ -1,0 +1,18 @@
+T1	expert_term 97 107	antibodies
+T2	EXPLAINS 109 136	infection-fighting proteins
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 146 157	coronavirus
+T4	EXPLAINS 159 200	which causes COVID-19, the lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 172 180	COVID-19
+T6	EXPLAINS 182 200	the lung infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 594 608	seroconversion
+T8	EXPLAINS 610 651	when the body starts producing antibodies
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1563 1571	negative
+T10	EXPLAINS 1576 1584	no virus
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1187 1195	positive
+T12	EXPLAINS 1200 1216	virus-containing
+E6	EXPLAINS:T12 term:T11

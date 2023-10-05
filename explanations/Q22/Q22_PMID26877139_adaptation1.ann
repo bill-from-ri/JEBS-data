@@ -1,0 +1,9 @@
+T1	expert_term 68 83	folliculin gene
+T2	EXPLAINS 85 118	which helps suppress tumor growth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 126 149	Birt-Hogg-Dube syndrome
+T4	EXPLAINS 151 260	which is associated with cystic lung disease, a group of diseases that cause cysts (sacs of air) in the lungs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1175 1193	stretch hypothesis
+T6	EXPLAINS 1195 1394	proposes that cysts in Birt-Hogg-Dube form because of defects in how cells connect to one another, leading to repeated stretching of the lungs and, over time, expansion of different parts of the lung
+E3	EXPLAINS:T6 term:T5

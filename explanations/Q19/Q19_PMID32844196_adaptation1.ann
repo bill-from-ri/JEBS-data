@@ -1,0 +1,27 @@
+T1	expert_term 112 131	Parkinson's disease
+T2	expert_term 348 356	levodopa
+T3	expert_term 614 619	motor
+T4	expert_term 718 727	OFF state
+T5	expert_term 927 943	motor disability
+T6	expert_term 1163 1203	Unified Parkinson's disease Rating Scale
+T7	expert_term 1806 1814	ON state
+T8	EXPLAINS 1816 1852	patient feels energetic and can move
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1213 1306	a rating tool used to measure the severity and progression of Parkinson's disease in patients
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 945 998	partial or total loss of movement in part of the body
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 729 749	when symptoms return
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 621 629	movement
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 358 474	a drug that enters the brain and helps replace missing dopamine, a chemical that carries signals between brain cells
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 133 188	a brain disorder that affects movement and coordination
+E7	EXPLAINS:T14 term:T1
+T15	expert_term 1507 1516	OFF state
+T16	EXPLAINS 1518 1538	when symptoms return
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2633 2647	OFF disability
+T18	EXPLAINS 2649 2669	when symptoms return
+E9	EXPLAINS:T18 term:T17

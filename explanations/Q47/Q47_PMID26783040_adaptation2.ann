@@ -1,0 +1,6 @@
+T1	expert_term 64 84	alkaline phosphatase
+T2	EXPLAINS 92 152	a protein that influences the high-energy molecule phosphate
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 595 614	phosphoethanolamine
+T4	EXPLAINS 622 661	a key molecule to build cell boundaries
+E2	EXPLAINS:T4 term:T3

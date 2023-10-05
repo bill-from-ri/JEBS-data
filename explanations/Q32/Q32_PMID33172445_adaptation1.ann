@@ -1,0 +1,6 @@
+T1	expert_term 180 215	methylenetetrahydrofolate reductase
+T2	EXPLAINS 225 257	a blood-pressure-related protein
+E1	EXPLAINS:T2 
+T3	expert_term 264 276	hypertension
+T4	EXPLAINS 278 297	high blood pressure
+E2	EXPLAINS:T4 

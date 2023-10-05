@@ -1,0 +1,27 @@
+T1	expert_term 143 147	ions
+T2	EXPLAINS 149 197	atoms or molecules that carry electrical charges
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 330 332	Na
+T4	expert_term 369 371	Cl
+T5	EXPLAINS 374 382	chloride
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 335 341	sodium
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 681 699	sodium homeostasis
+T8	EXPLAINS 701 800	processes used by the body to maintain a normal sodium concentration in the fluid outside the cells
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 841 862	Na+/Cl- cotransporter
+T10	EXPLAINS 870 965	the carrier protein that helps reabsorb sodium and chloride ions from tube fluid into the cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1810 1821	aldosterone
+T12	EXPLAINS 1823 1875	a hormone that regulates sodium and potassium levels
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 2349 2360	hypokalemia
+T14	EXPLAINS 2362 2385	low levels of potassium
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2474 2490	thiazide targets
+T16	EXPLAINS 2492 2525	which reduces sodium reabsorption
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2604 2628	exchanger/pendrin system
+T18	EXPLAINS 2630 2718	a multifaceted transporter that plays important roles in various functions of the kidney
+E9	EXPLAINS:T18 term:T17

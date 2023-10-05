@@ -1,0 +1,27 @@
+T1	expert_term 105 113	COVID-19
+T2	EXPLAINS 124 160	a global, viral, respiratory illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 213 230	pressure injuries
+T4	EXPLAINS 235 245	skin sores
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 564 574	assessment
+T6	EXPLAINS 576 586	evaluation
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 955 976	ear saver” mask strap
+T8	EXPLAINS 982 1045	secures around the head or back of the neck rather than the ear
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1234 1244	cellulitis
+T10	EXPLAINS 1246 1270	bacterial skin infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1386 1393	abscess
+T12	EXPLAINS 1395 1416	swollen area with pus
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1486 1503	topical treatment
+T14	EXPLAINS 1505 1533	applied directly to the skin
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1542 1562	systemic antibiotics
+T16	EXPLAINS 1564 1596	drugs that affect the whole body
+E8	EXPLAINS:T16 term:T15
+T18	expert_term 2038 2048	recidivism
+T17	EXPLAINS 2002 2022	reoccurring injuries
+E9	EXPLAINS:T17 term:T18

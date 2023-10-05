@@ -1,0 +1,9 @@
+T1	expert_term 162 174	osteoporosis
+T2	EXPLAINS 176 226	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 659 667	estrogen
+T4	EXPLAINS 669 692	female-specific hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1172 1181	menopause
+T6	EXPLAINS 1183 1230	a point in time 12 months after the last period
+E3	EXPLAINS:T6 term:T5

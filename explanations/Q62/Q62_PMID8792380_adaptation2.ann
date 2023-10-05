@@ -1,0 +1,9 @@
+T1	expert_term 128 142	antihistamines
+T2	EXPLAINS 144 204	drugs that stop allergies due to the body chemical histamine
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 195 204	histamine
+T4	EXPLAINS 181 194	body chemical
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 621 628	placebo
+T6	EXPLAINS 630 659	a pill that contains no drugs
+E3	EXPLAINS:T6 term:T5

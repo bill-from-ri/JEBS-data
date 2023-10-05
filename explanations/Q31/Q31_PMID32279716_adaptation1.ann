@@ -1,0 +1,9 @@
+T1	expert_term 56 74	Tardive dyskinesia
+T2	EXPLAINS 83 190	a condition that includes a wide range of uncontrollable movement disorders caused by taking antipsychotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 569 626	Vesicular monoamine transporter type 2 (VMAT2) inhibitors
+T4	EXPLAINS 628 654	drugs that reduce dopamine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 646 654	dopamine
+T6	EXPLAINS 656 723	a chemical messenger released when your brain is expecting a reward
+E3	EXPLAINS:T6 term:T5

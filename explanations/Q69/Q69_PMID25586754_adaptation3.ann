@@ -1,0 +1,9 @@
+T1	EXPLAINS 169 205	depression in women after childbirth
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 207 228	postpartum depression
+T3	expert_term 442 458	perinatal period
+T4	EXPLAINS 460 496	time around pregnancy and childbirth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 923 933	sertraline
+T6	EXPLAINS 935 957	an antidepressant drug
+E3	EXPLAINS:T6 term:T5

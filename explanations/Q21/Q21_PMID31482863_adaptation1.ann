@@ -1,0 +1,3 @@
+T1	expert_term 32 47	Inguinal hernia
+T2	EXPLAINS 49 106	a bulging of digestive organs occurring in the groin area
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,6 @@
+T1	expert_term 48 67	Sickle Cell Disease
+T2	EXPLAINS 78 186	the first human genetic disorder caused by a mutation in a single gene to be described at the chemical level
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 976 993	Alpha-Thalassemia
+T4	EXPLAINS 997 1063	a genetic disease that can change the outcome of patients with SCD
+E2	EXPLAINS:T4 term:T3

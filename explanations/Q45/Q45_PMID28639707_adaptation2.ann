@@ -1,0 +1,9 @@
+T1	expert_term 79 94	Pressure ulcers
+T2	EXPLAINS 152 225	restricted areas of injury to the skin or underlying body tissue, or both
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 227 236	Dressings
+T4	EXPLAINS 238 271	ointment or gauze to cover wounds
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1534 1538	bias
+T6	EXPLAINS 1543 1552	prejudice
+E3	EXPLAINS:T6 term:T5

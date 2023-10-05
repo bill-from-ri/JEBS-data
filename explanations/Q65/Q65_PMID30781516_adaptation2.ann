@@ -1,0 +1,12 @@
+T1	expert_term 277 284	chronic
+T2	EXPLAINS 286 298	long-lasting
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 300 312	inflammation
+T4	EXPLAINS 314 342	infection-fighting processes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 485 495	NFKB1 gene
+T6	EXPLAINS 497 537	a regulator of the inflammatory response
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 607 628	anthropometric traits
+T8	EXPLAINS 630 652	human body proportions
+E4	EXPLAINS:T8 term:T7

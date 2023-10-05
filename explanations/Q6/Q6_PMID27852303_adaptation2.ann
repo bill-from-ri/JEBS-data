@@ -1,0 +1,12 @@
+T1	expert_term 32 55	Hashimoto's thyroiditis
+T2	EXPLAINS 57 77	thyroid inflammation
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 209 223	Nigella sativa
+T4	EXPLAINS 225 251	a powerful herbal medicine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1389 1403	Nigella sativa
+T6	EXPLAINS 1405 1423	an herbal medicine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1335 1358	Hashimoto's thyroiditis
+T8	EXPLAINS 1360 1380	thyroid inflammation
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,21 @@
+T1	expert_term 81 88	glucose
+T2	expert_term 285 315	pyruvate dehydrogenase complex
+T3	expert_term 498 531	pyruvate dehydrogenase deficiency
+T4	expert_term 1378 1391	ketone bodies
+T5	expert_term 1520 1535	lactic acidosis
+T6	expert_term 1713 1727	phenylbutyrate
+T7	expert_term 1896 1906	fibroblast
+T8	EXPLAINS 1908 1942	a cell found in connective tissues
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1729 1805	a type of salt in the body that helps remove ammonia and waste from the body
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 1537 1613	lactic acid build up that can cause nausea, vomiting, and breathing problems
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 1393 1450	chemicals the body makes when there is not enough glucose
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 533 613	a disease where the body cannot properly breakdown food to create fuel or energy
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 322 400	which converts molecules and links cells to the final stage of creating energy
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 90 154	a type of sugar in the blood that comes from the food people eat
+E7	EXPLAINS:T14 term:T1

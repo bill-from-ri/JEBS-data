@@ -1,0 +1,21 @@
+T1	expert_term 144 150	assess
+T2	EXPLAINS 152 159	measure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 324 335	Hemodynamic
+T4	EXPLAINS 337 347	blood flow
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 393 399	venous
+T6	EXPLAINS 401 405	vein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 463 476	Venous reflux
+T8	EXPLAINS 478 490	reverse flow
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 643 657	limb volumetry
+T10	EXPLAINS 659 739	a method of suspending a limb in water to determine the amount of water displace
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 596 602	Oedema
+T12	EXPLAINS 604 612	swelling
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1043 1055	intermittent
+T14	EXPLAINS 1057 1066	irregular
+E7	EXPLAINS:T14 term:T13

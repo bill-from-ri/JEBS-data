@@ -1,0 +1,18 @@
+T1	expert_term 73 100	Inborn Errors of Metabolism
+T2	EXPLAINS 111 175	hereditary diseases that affect how the body processes nutrients
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 956 980	tandem mass spectrometry
+T4	EXPLAINS 917 948	a chemical detection technology
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1357 1372	false positives
+T6	EXPLAINS 1374 1441	when the test is positive but the patient does not have the disease
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1976 1990	nanotechnology
+T8	EXPLAINS 1992 2036	working with things at the microscopic level
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 2042 2060	molecular genomics
+T10	EXPLAINS 2062 2116	the study of how changes DNA drive hereditary outcomes
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2264 2296	Severe Combined Immunodeficiency
+T12	EXPLAINS 2305 2362	a disease that makes people extremely vulnerable to germs
+E6	EXPLAINS:T12 term:T11

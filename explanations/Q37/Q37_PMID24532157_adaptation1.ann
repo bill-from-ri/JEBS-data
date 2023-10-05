@@ -1,0 +1,18 @@
+T1	expert_term 62 77	Benzodiazepines
+T2	EXPLAINS 88 159	drugs that are often used to treat anxiety, muscle spasms, and seixures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 212 233	cognitive functioning
+T4	EXPLAINS 235 251	thinking ability
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 609 621	neurological
+T6	EXPLAINS 623 636	brain-related
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 782 791	cessation
+T8	EXPLAINS 793 801	stopping
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1002 1025	attentional flexibility
+T10	EXPLAINS 1027 1053	the ability to shift focus
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1254 1264	associated
+T12	EXPLAINS 1266 1272	linked
+E6	EXPLAINS:T12 term:T11

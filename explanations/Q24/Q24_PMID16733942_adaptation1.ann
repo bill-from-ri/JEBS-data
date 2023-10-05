@@ -1,0 +1,9 @@
+T1	expert_term 395 409	pharmaceutical
+T2	expert_term 445 460	pharmacokinetic
+T3	expert_term 498 513	pharmacodynamic
+T4	EXPLAINS 362 393	what the drugs do to each other
+E1	EXPLAINS:T4 term:T1
+T5	EXPLAINS 412 443	what the body does to the drugs
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 467 496	what the drugs do to the body
+E3	EXPLAINS:T6 term:T3

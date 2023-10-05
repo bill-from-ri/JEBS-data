@@ -1,0 +1,3 @@
+T1	expert_term 114 128	achondroplasia
+T2	EXPLAINS 130 230	which is the most common bone growth impairment and the most frequent cause of short-limbed dwarfism
+E1	EXPLAINS:T2 term:T1

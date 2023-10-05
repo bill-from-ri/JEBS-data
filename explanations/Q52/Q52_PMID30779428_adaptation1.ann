@@ -1,0 +1,21 @@
+T1	expert_term 282 291	phenotype
+T2	EXPLAINS 293 308	physical traits
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 398 409	chromosomes
+T4	EXPLAINS 411 427	genetic material
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 330 345	Turner syndrome
+T6	EXPLAINS 349 409	a condition where there is an abnormal amount of chromosomes
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 945 950	overt
+T8	EXPLAINS 952 959	obvious
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1098 1124	translational compensation
+T10	EXPLAINS 1126 1163	altered conversion of RNA to proteins
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1237 1245	assessed
+T12	EXPLAINS 1247 1255	measured
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1366 1374	microRNA
+T14	EXPLAINS 1376 1401	RNA involved in silencing
+E7	EXPLAINS:T14 term:T13

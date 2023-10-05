@@ -1,0 +1,6 @@
+T1	expert_term 125 132	fasting
+T2	EXPLAINS 134 164	having not eaten food recently
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 172 179	glucose
+T4	EXPLAINS 181 186	sugar
+E2	EXPLAINS:T4 term:T3

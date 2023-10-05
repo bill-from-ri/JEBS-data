@@ -1,0 +1,21 @@
+T1	expert_term 67 95	Chronic venous insufficiency
+T2	EXPLAINS 106 126	malfunctioning veins
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 284 289	ulcer
+T4	EXPLAINS 291 295	sore
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 298 311	Venous ulcers
+T6	EXPLAINS 313 344	sores from irregular blood flow
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 426 437	noninvasive
+T8	EXPLAINS 439 450	nonsurgical
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 517 525	invasive
+T10	EXPLAINS 532 539	surgery
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 641 648	hosiery
+T12	EXPLAINS 650 657	legwear
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1017 1023	crural
+T14	EXPLAINS 1025 1028	leg
+E7	EXPLAINS:T14 term:T13

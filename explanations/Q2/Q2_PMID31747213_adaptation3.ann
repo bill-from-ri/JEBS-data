@@ -1,0 +1,3 @@
+T1	expert_term 26 36	Duloxetine
+T2	EXPLAINS 40 153	a medication used to treat depression, anxiety, fibromyalgia, diabete nerve damage, and chronic pains in the body
+E1	EXPLAINS:T2 term:T1

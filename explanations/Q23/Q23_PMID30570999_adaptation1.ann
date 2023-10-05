@@ -1,0 +1,12 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 60 293	a disorder in which the body cannot properly turn food into energy often caused by not enough of a specific protein (phenylalanine hydroxylase, PAH) that changes one molecule (phenylalanine, Phe) into another molecule (tyrosine, Tyr)
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 177 202	phenylalanine hydroxylase
+T4	EXPLAINS 214 293	changes one molecule (phenylalanine, Phe) into another molecule (tyrosine, Tyr)
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 295 298	PKU
+T6	EXPLAINS 302 434	a type of molecular (amino acid) metabolism disorder called "toxic accumulation IEMs," in which the buildup of the molecule is toxic
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 632 635	PKU
+T8	EXPLAINS 639 695	associated with high blood Phe levels and low Tyr levels
+E4	EXPLAINS:T8 term:T7

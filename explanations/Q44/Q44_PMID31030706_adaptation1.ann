@@ -1,0 +1,15 @@
+T1	expert_term 80 90	Hemorrhage
+T2	EXPLAINS 92 110	excessive bleeding
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 542 553	Demographic
+T4	EXAMPLE 560 569	age, race
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 885 891	median
+T6	EXPLAINS 893 900	average
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1265 1272	enteral
+T8	EXPLAINS 1274 1284	intestinal
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1363 1373	variations
+T10	EXPLAINS 1375 1386	differences
+E5	EXPLAINS:T10 term:T9

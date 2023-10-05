@@ -1,0 +1,15 @@
+T1	expert_term 251 261	Recurrence
+T2	EXPLAINS 270 276	return
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 540 551	correlation
+T4	EXPLAINS 553 557	link
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 716 726	Chemokines
+T6	EXPLAINS 731 799	signaling proteins that attract white blood cells to infection sites
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 840 847	inverse
+T8	EXPLAINS 849 857	opposite
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1185 1194	validated
+T10	EXPLAINS 1196 1202	proven
+E5	EXPLAINS:T10 term:T9

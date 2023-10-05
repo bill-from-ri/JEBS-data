@@ -1,0 +1,6 @@
+T1	EXPLAINS 381 393	chronic pain
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 403 415	fibromyalgia
+T3	expert_term 459 469	duloxetine
+T4	EXPLAINS 434 451	an antidepressant
+E2	EXPLAINS:T4 term:T3

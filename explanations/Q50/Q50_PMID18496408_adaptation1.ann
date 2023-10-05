@@ -1,0 +1,24 @@
+T1	expert_term 122 135	procalcitonin
+T2	EXPLAINS 137 164	involved in calcium balance
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 420 438	C-reactive protein
+T4	EXPLAINS 442 531	a type of protein found in the blood that increases during times of internal inflammation
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 519 531	inflammation
+T6	EXPLAINS 533 577	redness and swelling from infection-fighting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1024 1042	bacterial cultures
+T8	EXPLAINS 1044 1075	bacterial groups grown in a lab
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1174 1182	Baseline
+T10	EXPLAINS 1184 1196	before study
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1682 1690	positive
+T12	EXPLAINS 1692 1700	detected
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1773 1781	negative
+T14	EXPLAINS 1783 1795	not detected
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1924 1939	differentiating
+T16	EXPLAINS 1941 1952	identifying
+E8	EXPLAINS:T16 term:T15

@@ -1,0 +1,6 @@
+T1	expert_term 459 468	occipital
+T2	EXPLAINS 470 502	relating to the back of the head
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 906 915	implanted
+T4	EXPLAINS 917 923	placed
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,12 @@
+T1	expert_term 484 499	petroleum jelly
+T2	EXPLAINS 501 509	Vaseline
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 530 538	polymers
+T4	EXPLAINS 540 579	substances made of very large molecules
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 591 599	silicone
+T6	EXPLAINS 601 616	type of polymer
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 628 642	cyanoacrylates
+T8	EXPLAINS 644 681	group of strong fast-acting adhesives
+E4	EXPLAINS:T8 term:T7

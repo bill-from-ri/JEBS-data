@@ -1,0 +1,13 @@
+T1	expert_term 70 90	SARS-CoV-2 infection
+T2	EXPLAINS 92 114	a viral lung infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 343 347	IL-6
+T4	EXPLAINS 349 377	an immune signaling molecule
+E2	EXPLAINS:T4 term:T3 term2:T5
+T5	expert_term 387 395	cytokine
+T6	expert_term 442 459	hyperferritinemia
+T7	EXPLAINS 461 484	high levels of ferritin
+E3	EXPLAINS:T7 term:T6
+T8	expert_term 476 484	ferritin
+T9	EXPLAINS 487 513	an iron-containing protein
+E4	EXPLAINS:T9 term:T8

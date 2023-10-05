@@ -1,0 +1,6 @@
+T1	expert_term 221 236	Phenylketonuria
+T2	EXPLAINS 240 303	an inherited disorder that can cause many issues with the brain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 450 464	hypothyroidism
+T4	EXPLAINS 466 482	a gland disorder
+E2	EXPLAINS:T4 term:T3

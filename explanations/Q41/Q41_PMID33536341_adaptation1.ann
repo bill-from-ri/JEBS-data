@@ -1,0 +1,15 @@
+T1	expert_term 67 93	Tuberous sclerosis complex
+T2	EXPLAINS 103 180	a rare disease that leads to noncancerous (benign) tumors forming in the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 146 152	benign
+T4	EXPLAINS 132 144	noncancerous
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 359 364	cysts
+T6	EXPLAINS 366 381	fluid swellings
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 575 587	inactivation
+T8	EXPLAINS 589 600	turning off
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 778 798	cyst epithelia cells
+T10	EXPLAINS 800 845	which are important cells for kidney function
+E5	EXPLAINS:T10 term:T9

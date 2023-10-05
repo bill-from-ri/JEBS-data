@@ -1,0 +1,6 @@
+T1	expert_term 430 452	mechanical obstruction
+T2	EXPLAINS 371 428	an object that shouldn't be swallowed and block an airway
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 70 85	airway blockage
+T4	EXPLAINS 101 163	any situation that partially or totally clogs normal breathing
+E2	EXPLAINS:T4 term:T3

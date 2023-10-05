@@ -1,0 +1,12 @@
+T1	expert_term 67 111	Autosomal dominant polycystic kidney disease
+T2	EXPLAINS 123 256	an inherited condition that causes multiple cysts (growths), usually in the liver, and is the leading genetic cause of kidney failure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 172	cysts
+T4	EXPLAINS 174 181	growths
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 487 496	microRNAs
+T6	EXPLAINS 507 578	which are RNA molecules that regulate genes and how genes make proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1304 1316	inflammation
+T8	EXPLAINS 1318 1365	redness and swelling from fighting an infection
+E4	EXPLAINS:T8 term:T7

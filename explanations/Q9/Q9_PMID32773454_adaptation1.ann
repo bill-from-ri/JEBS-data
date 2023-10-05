@@ -1,0 +1,3 @@
+T1	expert_term 35 44	Achalasia
+T2	EXPLAINS 55 147	a disorder in which your esophagus is unable to move food and liquids down into your stomach
+E1	EXPLAINS:T2 term:T1

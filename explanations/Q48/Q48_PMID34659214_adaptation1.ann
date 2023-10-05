@@ -1,0 +1,6 @@
+T1	expert_term 41 69	Systemic lupus erythematosus
+T2	EXPLAINS 81 193	a type of chronic autoimmune disease where the body's immune system mistakenly attacks healthy cells and tissues
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 362 384	mesenchymal stem cells
+T4	EXPLAINS 392 455	cells that are present in adult bone marrow and umbilical cords
+E2	EXPLAINS:T4 term:T3

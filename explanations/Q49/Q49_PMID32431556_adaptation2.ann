@@ -1,0 +1,6 @@
+T1	expert_term 35 55	May-Thurner syndrome
+T2	EXPLAINS 65 159	a condition in which the main right leg blood vessel compresses the main left leg blood vessel
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 193 215	deep venous thrombosis
+T4	EXPLAINS 226 245	deep blood clotting
+E2	EXPLAINS:T4 term:T3

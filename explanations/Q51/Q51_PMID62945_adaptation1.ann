@@ -1,0 +1,24 @@
+T1	expert_term 56 77	islet-cell antibodies
+T2	EXPLAINS 87 148	proteins made against insulin-producing cells in the pancreas
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 401 408	glucose
+T4	EXPLAINS 410 424	sugar molecule
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 482 493	lag storage
+T6	EXPLAINS 495 543	normal glucose levels spike and return to normal
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 588 603	latent diabetes
+T8	EXPLAINS 605 670	slow progressing with features of both type 1 and type 2 diabetes
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 691 705	thyrotoxicosis
+T10	EXPLAINS 707 765	too much metabolism-regulating thyroid hormone in the body
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 950 957	glucose
+T12	EXPLAINS 943 948	sugar
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 884 888	oral
+T14	EXPLAINS 890 898	by mouth
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1165 1173	antigens
+T16	EXPLAINS 1175 1223	substances that causes the body to defend itself
+E8	EXPLAINS:T16 term:T15

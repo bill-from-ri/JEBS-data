@@ -1,0 +1,12 @@
+T1	expert_term 608 638	people with suspected COVID-19
+T2	EXPLAINS 640 702	person has symptoms and/or exposure to covid but is not tested
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 705 722	probable COVID-19
+T4	EXPLAINS 724 797	person who has tested positive with other tests but not confirmatory test
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 876 883	placebo
+T6	EXPLAINS 904 954	something that looks like a drug but is not active
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1506 1527	monoclonal antibodies
+T8	EXPLAINS 1529 1593	medicines that may block the virus from attaching to human cells
+E4	EXPLAINS:T8 term:T7

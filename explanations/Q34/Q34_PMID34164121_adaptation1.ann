@@ -1,0 +1,12 @@
+T1	expert_term 236 245	adherence
+T2	EXPLAINS 247 257	commitment
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 534 542	dialysis
+T4	EXPLAINS 544 589	a process that uses a machine to filter blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1351 1375	diastolic blood pressure
+T6	EXPLAINS 1377 1417	bottom number of blood pressure readings
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 604 612	assessed
+T8	EXPLAINS 614 622	measured
+E4	EXPLAINS:T8 term:T7

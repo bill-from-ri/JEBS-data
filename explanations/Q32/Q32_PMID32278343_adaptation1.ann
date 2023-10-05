@@ -1,0 +1,27 @@
+T1	expert_term 71 91	Hyperhomocysteinemia
+T2	EXPLAINS 100 146	when there is excess homocysteine in the blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 169 183	cardiovascular
+T4	EXPLAINS 188 212	blood- and heart-related
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 218 233	cerebrovascular
+T6	EXPLAINS 238 262	blood- and brain-related
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 274 286	Homocysteine
+T8	EXPLAINS 290 316	an intermediate amino acid
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 306 316	amino acid
+T10	EXPLAINS 318 345	molecule that form proteins
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 649 679	therapeutic, beneficial effect
+T12	EXPLAINS 681 707	response after a treatment
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1179 1191	hypertension
+T14	expert_term 1215 1228	hyperuricemia
+T15	expert_term 1468 1476	T allele
+T16	EXPLAINS 1193 1212	high blood pressure
+E7	EXPLAINS:T16 term:T13
+T17	EXPLAINS 1478 1507	an alternative form of a gene
+E8	EXPLAINS:T17 term:T15
+T18	EXPLAINS 1230 1253	high uric acid or waste
+E9	EXPLAINS:T18 term:T14

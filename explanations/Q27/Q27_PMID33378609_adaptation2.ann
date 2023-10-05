@@ -1,0 +1,3 @@
+T1	expert_term 63 87	coronavirus disease 2019
+T2	EXPLAINS 100 142	which is a breathing-related viral illness
+E1	EXPLAINS:T2 term:T1

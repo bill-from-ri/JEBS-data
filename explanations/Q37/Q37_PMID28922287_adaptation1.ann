@@ -1,0 +1,15 @@
+T1	expert_term 107 115	diabetes
+T2	EXPLAINS 117 153	a disease involving high blood sugar
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 191 201	pregabalin
+T4	EXPLAINS 209 232	a nerve pain medication
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 364 396	nonconvulsive status epilepticus
+T6	EXPLAINS 403 420	prolonged seizure
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 449 464	triphasic waves
+T8	EXPLAINS 472 503	which is abnormal body activity
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 872 883	association
+T10	EXPLAINS 888 892	link
+E5	EXPLAINS:T10 term:T9

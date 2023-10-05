@@ -1,0 +1,9 @@
+T1	expert_term 85 102	atopic dermatitis
+T2	EXPLAINS 115 236	a common childhood disease, potentially influenced by pre-birth nutritional exposures such as polyunsaturated fatty acids
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 578 592	Neurocognitive
+T4	EXPLAINS 594 620	brain-related intelligence
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1044 1050	atopic
+T6	EXPLAINS 1052 1067	allergy-related
+E3	EXPLAINS:T6 term:T5

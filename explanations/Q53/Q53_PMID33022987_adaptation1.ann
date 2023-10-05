@@ -1,0 +1,6 @@
+T1	expert_term 955 960	feces
+T2	EXPLAINS 962 966	poop
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1479 1491	intervention
+T4	EXPLAINS 1493 1502	treatment
+E2	EXPLAINS:T4 term:T3

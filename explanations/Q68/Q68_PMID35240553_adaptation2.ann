@@ -1,0 +1,6 @@
+T1	expert_term 138 146	COVID-19
+T2	EXPLAINS 148 170	a viral lung infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 472 482	SARS-CoV-2
+T4	EXPLAINS 484 510	the virus causing COVID-19
+E2	EXPLAINS:T4 term:T3

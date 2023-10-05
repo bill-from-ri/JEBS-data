@@ -1,0 +1,30 @@
+T1	expert_term 178 185	fatigue
+T2	EXPLAINS 187 209	long-lasting tiredness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 292 315	orthostatic intolerance
+T4	EXPLAINS 317 346	inability to stand up quickly
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 356 371	lymphadenopathy
+T6	EXPLAINS 373 392	swollen lymph nodes
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 399 423	irritable bowel syndrome
+T8	EXPLAINS 431 503	colon disorder that leads to belly pain, gas, diarrhea, and constipation
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 530 548	stomach microbiome
+T10	EXPLAINS 550 562	gut bacteria
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 568 580	inflammation
+T12	EXPLAINS 582 626	redness and swelling from infection-fighting
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 815 820	fecal
+T14	EXPLAINS 822 826	poop
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 935 941	plasma
+T16	EXPLAINS 943 948	blood
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1611 1619	atrazine
+T18	EXPLAINS 1621 1630	herbicide
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1737 1762	pyrimidine ribonucleoside
+T20	EXPLAINS 1764 1783	DNA building blocks
+E10	EXPLAINS:T20 term:T19

@@ -1,0 +1,12 @@
+T4	expert_term 1906 1925	Parkinson's disease
+T5	EXPLAINS 1926 1962	(a brain disorder affecting movement
+E2	EXPLAINS:T5 term:T4
+T6	expert_term 1193 1199	glycan
+T10	expert_term 698 706	controls
+T11	EXPLAINS 680 696	healthy patients
+E3	EXPLAINS:T11 term:T10
+T1	EXPLAINS 1201 1217	a specific sugar
+E1	EXPLAINS:T1 term:T6
+T2	expert_term 265 275	microbiota
+T3	EXPLAINS 245 263	gut microorganisms
+E4	EXPLAINS:T3 term:T2

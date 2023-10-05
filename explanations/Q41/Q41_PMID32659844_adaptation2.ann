@@ -1,0 +1,18 @@
+T1	expert_term 236 241	cysts
+T2	EXPLAINS 243 265	fluid-filled swellings
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 620 641	renal oligohydramnios
+T4	EXPLAINS 643 711	diseases where scarce fluid surrounds the fetus due to kidney damage
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1079 1124	autosomal recessive polycystic kidney disease
+T6	EXPLAINS 1127 1169	an inherited disorder of many kidney cysts
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1171 1187	nephronophthisis
+T8	EXPLAINS 1189 1208	kidney inflammation
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1211 1232	Bardet-Biedl syndrome
+T10	EXPLAINS 1234 1292	an inherited disorder that impairs kidneys, eyes, and more
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1652 1657	ADPKD
+T12	EXPLAINS 1659 1685	a similar variant of ARPKD
+E6	EXPLAINS:T12 term:T11

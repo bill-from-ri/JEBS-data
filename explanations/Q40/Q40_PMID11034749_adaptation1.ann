@@ -1,0 +1,12 @@
+T1	expert_term 103 117	leg ulceration
+T2	EXPLAINS 119 128	leg sores
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 829 836	hosiery
+T4	EXAMPLE 838 862	tights, stockings, socks
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 933 939	assess
+T6	EXPLAINS 941 948	measure
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 977 984	hosiery
+T8	EXAMPLE 986 1010	socks, stockings, tights
+E4	EXAMPLE:T8 term:T7

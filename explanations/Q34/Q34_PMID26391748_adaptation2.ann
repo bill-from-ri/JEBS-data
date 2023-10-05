@@ -1,0 +1,9 @@
+T1	expert_term 235 242	chronic
+T2	EXPLAINS 219 231	long-lasting
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 496 506	creatinine
+T4	EXPLAINS 508 524	a chemical waste
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 548 555	albumin
+T6	EXPLAINS 557 572	a blood protein
+E3	EXPLAINS:T6 term:T5

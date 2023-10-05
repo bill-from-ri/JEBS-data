@@ -1,0 +1,15 @@
+T1	expert_term 108 133	major depressive disorder
+T2	expert_term 267 274	relapse
+T3	expert_term 353 362	remission
+T4	expert_term 681 691	fluoxetine
+T5	expert_term 1006 1023	cognitive therapy
+T6	EXPLAINS 1025 1136	a type of behavior therapy that focuses on challenging negative thoughts that can worsen emotional difficulties
+E1	EXPLAINS:T6 term:T5
+T7	EXPLAINS 693 736	a type of antidepressant also called prozac
+E2	EXPLAINS:T7 term:T4
+T8	EXPLAINS 364 428	a period of improvement where the patient is mostly asymptomatic
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 276 341	the worsening of a medical condition that had previously improved
+E4	EXPLAINS:T9 term:T2
+T10	EXPLAINS 135 246	a mental health disorder where a person is in a constant depressed mood or has a loss of interest in activities
+E5	EXPLAINS:T10 term:T1

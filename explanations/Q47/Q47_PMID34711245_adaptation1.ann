@@ -1,0 +1,15 @@
+T1	expert_term 56 95	Tissue-nonspecific alkaline phosphatase
+T2	EXPLAINS 108 164	an enzyme that assists in breaking down phosphate groups
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 358 366	Mutation
+T4	EXPLAINS 373 390	structural change
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 471 474	ALP
+T6	EXPLAINS 478 512	an enzyme that helps bone strength
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1129 1132	PLP
+T8	EXPLAINS 1151 1183	helper in several body processes
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1138 1147	co-enzyme
+T10	EXPLAINS 1151 1157	helper
+E5	EXPLAINS:T10 term:T9

@@ -1,0 +1,12 @@
+T1	expert_term 99 112	ketone bodies
+T2	EXPLAINS 119 152	particles made from fat breakdown
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 338 390	peroxisome proliferator activated receptor α (PPARα)
+T4	EXPLAINS 394 457	a major regulator of the creation of KB made from fat breakdown
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 744 761	β-hydroxybutyrate
+T6	EXPLAINS 763 797	a particle made from fat breakdown
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1041 1058	infatile epilepsy
+T8	EXPLAINS 1060 1139	a disorder in babies that disturbs brain and nerve activity and causes seizures
+E4	EXPLAINS:T8 term:T7

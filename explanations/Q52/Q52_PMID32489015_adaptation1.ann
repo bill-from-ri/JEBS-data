@@ -1,0 +1,18 @@
+T1	expert_term 143 154	chromosomal
+T2	EXPLAINS 156 169	gene material
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 112 127	Turner syndrome
+T4	EXPLAINS 139 219	sex chromosomal (gene material) abnormalities with detrimental effects on health
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 414 426	Upregulation
+T6	EXPLAINS 428 448	increase in activity
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 842 857	DNA-methylation
+T8	EXPLAINS 859 891	addition of methyl groups to DNA
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 511 520	autosomes
+T10	EXPLAINS 522 567	chromosomes not involved in sex determination
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1001 1018	phenotypic traits
+T12	EXPLAINS 1023 1050	observable character traits
+E6	EXPLAINS:T12 term:T11

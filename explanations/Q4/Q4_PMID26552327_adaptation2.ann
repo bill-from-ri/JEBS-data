@@ -1,0 +1,12 @@
+T1	expert_term 28 45	Diabetes mellitus
+T2	EXPLAINS 49 95	a common disease whose side effects are severe
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 174	fasting
+T4	EXPLAINS 176 188	without food
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 239 243	oral
+T6	EXPLAINS 229 237	by-mouth
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 303 308	HbA1c
+T8	EXPLAINS 310 335	a simple blood sugar test
+E4	EXPLAINS:T8 term:T7

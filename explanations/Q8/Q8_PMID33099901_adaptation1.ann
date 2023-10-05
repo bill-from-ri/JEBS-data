@@ -1,0 +1,6 @@
+T1	expert_term 67 79	glioblastoma
+T2	EXPLAINS 81 103	a type of brain cancer
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 244 256	perphenazine
+T4	EXPLAINS 230 243	antipsychotic
+E2	EXPLAINS:T4 term:T3

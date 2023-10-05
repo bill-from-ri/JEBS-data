@@ -1,0 +1,21 @@
+T1	expert_term 41 49	Histones
+T2	EXPLAINS 54 179	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 260 267	nucleus
+T4	EXPLAINS 269 285	genetic material
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 218 299	organizing DNA and proteins to create the nucleus (genetic material) inside cells
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 301 340	a process called chromatin organization
+T7	expert_term 379 385	genome
+T8	EXPLAINS 387 446	which is an organism's complete set of genetic instructions
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 530 539	chromatin
+T10	EXPLAINS 541 553	DNA-attached
+E5	EXPLAINS:T10 term:T9
+T11	EXPLAINS 878 916	the physical folding of DNA structures
+E6	EXPLAINS:T11 term:T12
+T12	expert_term 935 955	chromatin compaction
+T13	expert_term 1451 1471	chromatin compaction
+T14	EXPLAINS 1473 1497	folding of DNA structure
+E7	EXPLAINS:T14 term:T13

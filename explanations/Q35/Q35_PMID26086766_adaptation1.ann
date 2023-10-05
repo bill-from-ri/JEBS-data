@@ -1,0 +1,9 @@
+T1	expert_term 66 78	Osteoporosis
+T2	EXPLAINS 80 130	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 298 307	menopause
+T4	EXPLAINS 309 356	a point in time 12 months after the last period
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 394 426	dual energy X-ray absorptiometry
+T6	EXPLAINS 433 470	a common text to measure bone density
+E3	EXPLAINS:T6 term:T5

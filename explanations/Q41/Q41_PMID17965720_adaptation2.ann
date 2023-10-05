@@ -1,0 +1,6 @@
+T1	expert_term 104 109	cysts
+T2	expert_term 221 225	PKD1
+T3	EXPLAINS 227 256	a gene active in kidney cells
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 111 120	swellings
+E2	EXPLAINS:T4 term:T1

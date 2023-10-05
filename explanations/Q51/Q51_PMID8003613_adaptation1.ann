@@ -1,0 +1,16 @@
+T1	expert_term 149 159	Langerhans
+T2	EXPLAINS 161 211	a group of insulin-producing cells in the pancreas
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 296 323	glutamic acid decarboxylase
+T4	EXPLAINS 330 377	substance found only in insulin-producing cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 391 398	glucose
+T6	EXPLAINS 400 405	sugar
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 585 594	beta-cell
+T8	EXPLAINS 596 618	insulin-producing cell
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 705 714	diazoxide
+T10	EXPLAINS 716 737	insulin-treating drug
+E5	EXPLAINS:T10 term:T9 term2:T11
+T11	expert_term 692 701	glipizide

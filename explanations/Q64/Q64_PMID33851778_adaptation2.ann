@@ -1,0 +1,9 @@
+T1	expert_term 63 79	neurodevelopment
+T2	EXPLAINS 36 61	Brain-related development
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 154 170	de novo variants
+T4	EXPLAINS 134 152	new gene mutations
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 597 612	disease-causing
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 614 624	pathogenic

@@ -1,0 +1,3 @@
+T1	EXPLAINS 482 507	used as a muscle relaxant
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 475 480	botox

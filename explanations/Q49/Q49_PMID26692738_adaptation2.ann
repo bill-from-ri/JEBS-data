@@ -1,0 +1,6 @@
+T1	expert_term 236 246	gabapentin
+T2	EXPLAINS 248 269	nerve pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 361 372	hydrocodone
+T4	EXPLAINS 374 401	a pain and cough medication
+E2	EXPLAINS:T4 term:T3

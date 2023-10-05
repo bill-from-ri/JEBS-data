@@ -1,0 +1,6 @@
+T1	EXPLAINS 826 850	able to spread the virus
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 814 824	contagious
+T4	expert_term 1376 1392	time of exposure
+T3	EXPLAINS 1316 1374	The average time between COVID-19 entering a person's body
+E2	EXPLAINS:T3 term:T4

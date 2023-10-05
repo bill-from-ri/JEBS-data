@@ -1,0 +1,6 @@
+T1	expert_term 90 111	monoclonal antibodies
+T2	EXPLAINS 120 179	antibodies that bind to only one site of a foreign organism
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 524 534	SARS-CoV-2
+T4	EXPLAINS 544 577	which cause a respiratory illness
+E2	EXPLAINS:T4 term:T3

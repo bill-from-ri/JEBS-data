@@ -1,0 +1,24 @@
+T1	expert_term 78 88	riboflavin
+T2	EXPLAINS 90 101	a B vitamin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 311 320	premature
+T4	expert_term 332 346	cardiovascular
+T5	EXPLAINS 325 330	early
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 351 364	heart-related
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 613 624	amino acids
+T8	EXPLAINS 626 657	the building blocks of proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 821 833	hypertensive
+T10	EXPLAINS 835 854	high blood pressure
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1144 1152	systolic
+T12	EXPLAINS 1157 1218	when the heart contracts and the higher blood pressure number
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1248 1255	placebo
+T14	EXPLAINS 1257 1270	harmless pill
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1701 1710	diastolic
+T16	EXPLAINS 1712 1770	when the heart relaxes and the lower blood pressure number
+E8	EXPLAINS:T16 term:T15

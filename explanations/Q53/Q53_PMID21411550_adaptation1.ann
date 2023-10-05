@@ -1,0 +1,21 @@
+T1	expert_term 55 87	Endogenous glucocorticoid excess
+T2	EXPLAINS 119 203	when the body has too much of the stress hormone cortisol over a long period of time
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 168 176	cortisol
+T4	EXPLAINS 153 167	stress hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 307 320	hyperglycemia
+T6	EXPLAINS 322 338	high blood sugar
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 350 362	prednisolone
+T8	EXPLAINS 364 416	a steroid drug made to act like the cortisol hormone
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 695 732	chronic obstructive pulmonary disease
+T10	EXPLAINS 741 786	a lung disease making it difficult to breathe
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 982 994	inflammation
+T12	EXPLAINS 996 1025	effects of infection-fighting
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1341 1349	assessed
+T14	EXPLAINS 1351 1359	measured
+E7	EXPLAINS:T14 term:T13

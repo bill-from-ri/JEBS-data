@@ -1,0 +1,6 @@
+T1	expert_term 48 66	Nephrotic Syndrome
+T2	EXPLAINS 75 115	a combination of kidney-related symptoms
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1380 1390	peritoneum
+T4	EXPLAINS 1392 1426	the lining of the abdominal cavity
+E2	EXPLAINS:T4 term:T3

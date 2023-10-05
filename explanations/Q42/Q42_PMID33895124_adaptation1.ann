@@ -1,0 +1,18 @@
+T1	expert_term 41 49	Histones
+T2	EXPLAINS 54 179	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 392 405	antimicrobial
+T4	EXPLAINS 407 465	an agent that can kill microorganisms or stop their growth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 569 599	neutrophil extracellular traps
+T6	EXPLAINS 601 651	net like structures that protect against infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 708 722	microorganisms
+T8	EXAMPLE 731 759	fungi, bacteria, and viruses
+E4	EXAMPLE:T8 term:T7
+T9	expert_term 839 851	inflammatory
+T10	EXPLAINS 853 909	the body's natural reaction against injury and infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1166 1176	biomarkers
+T12	EXPLAINS 1180 1221	signalers of normal or abnormal processes
+E6	EXPLAINS:T12 term:T11

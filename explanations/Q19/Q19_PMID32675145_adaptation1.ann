@@ -1,0 +1,24 @@
+T1	expert_term 123 135	bradykinesia
+T2	expert_term 406 414	red flag
+T3	expert_term 648 656	levodopa
+T4	expert_term 865 875	dyskinesia
+T5	expert_term 1071 1076	motor
+T6	expert_term 1183 1213	deep-brain stimulation surgery
+T7	expert_term 1336 1354	non-motor symptoms
+T8	expert_term 1468 1490	multidisciplinary care
+T9	EXPLAINS 1492 1611	when professionals from different fields work together to deliver comprehensive care that addresses the patient's needs
+E1	EXPLAINS:T9 term:T8
+T10	EXPLAINS 1356 1420	symptoms unrelated to movement such as lack of pain or tiredness
+E2	EXPLAINS:T10 term:T7
+T11	EXPLAINS 1215 1284	surgery that implants devices to stimulate certain areas of the brain
+E3	EXPLAINS:T11 term:T6
+T12	EXPLAINS 1078 1086	movement
+E4	EXPLAINS:T12 term:T5
+T13	EXPLAINS 877 917	involuntary and uncontrollable movements
+E5	EXPLAINS:T13 term:T4
+T14	EXPLAINS 658 721	a drug that enters the brain and helps replace missing dopamine
+E6	EXPLAINS:T14 term:T3
+T15	EXPLAINS 417 436	investigate further
+E7	EXPLAINS:T15 term:T2
+T16	EXPLAINS 137 157	slowness of movement
+E8	EXPLAINS:T16 term:T1

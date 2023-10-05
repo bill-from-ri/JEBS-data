@@ -1,0 +1,30 @@
+T1	expert_term 125 135	pregabalin
+T2	EXPLAINS 143 173	a common nerve pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 626 632	ataxia
+T4	EXPLAINS 634 655	impaired coordination
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 666 673	tremors
+T6	EXPLAINS 675 692	shaking movements
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 703 712	myoclonus
+T8	expert_term 736 748	parkinsonism
+T10	EXPLAINS 714 726	muscle jerks
+E5	EXPLAINS:T10 term:T7
+T11	EXPLAINS 750 794	movement abnormalities from a brain disorder
+E6	EXPLAINS:T11 term:T8
+T9	expert_term 804 826	restless legs syndrome
+T12	EXPLAINS 828 860	uncontrollable urge to move legs
+E4	EXPLAINS:T12 term:T9
+T13	expert_term 870 878	dystonia
+T14	EXPLAINS 880 910	repetitive, twisting movements
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 920 930	dyskinesia
+T16	EXPLAINS 932 949	erratic movements
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 963 972	akathisia
+T18	EXPLAINS 974 990	muscle quivering
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1747 1761	benzodiazepine
+T20	EXPLAINS 1763 1800	an anti-anxiety and anti-seizure drug
+E10	EXPLAINS:T20 term:T19

@@ -1,0 +1,15 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 61 168	a rare inherited genetic disorder caused by changes in the gene FLCN that makes a protein called folliculin
+E1	EXPLAINS:T2 
+T3	expert_term 158 168	folliculin
+T4	EXPLAINS 170 203	which helps suppress tumor growth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 261 266	cysts
+T6	EXPLAINS 268 279	sacs of air
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 324 395	non-cancerous tumors in hair follicles around the face, neck, and chest
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 397 414	fibrofolliculomas
+T9	expert_term 1353 1364	pleurodesis
+T10	EXPLAINS 1376 1464	involves sticking the lung to the chest wall to reduce space in the lungs and chest wall
+E5	EXPLAINS:T10 term:T9

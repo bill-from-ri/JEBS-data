@@ -1,0 +1,39 @@
+T1	expert_term 62 84	Central nervous system
+T2	EXPLAINS 86 107	brain and spinal cord
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 109 124	adverse effects
+T4	EXPLAINS 126 138	side effects
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 167 177	pregabalin
+T6	EXPLAINS 185 221	a drug commonly given for nerve pain
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 620 628	assessed
+T8	EXPLAINS 630 639	evaluated
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 819 825	ataxia
+T10	EXPLAINS 827 864	loss of full control of body movement
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 875 882	tremors
+T12	EXPLAINS 884 891	shaking
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 902 911	myoclonus
+T14	EXPLAINS 913 927	jerky movement
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1046 1056	dyskinesia
+T16	EXPLAINS 1058 1086	uncontrolled muscle movement
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1100 1109	akathisia
+T18	EXPLAINS 1111 1134	feeling of restlessness
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 996 1004	dystonia
+T20	EXPLAINS 1006 1036	involuntary muscle contraction
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1768 1780	neurological
+T22	EXPLAINS 1782 1795	brain-related
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 1973 1981	dialysis
+T24	EXPLAINS 1983 2015	blood filtering and purification
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 2126 2140	benzodiazepine
+T26	EXPLAINS 2142 2159	anti-anxiety drug
+E13	EXPLAINS:T26 term:T25

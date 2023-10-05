@@ -1,0 +1,12 @@
+T1	expert_term 61 71	Gabapentin
+T2	EXPLAINS 75 100	a nerve-related pain drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 200 206	plasma
+T4	EXPLAINS 208 232	the liquid part of blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 401 409	dialysis
+T6	EXPLAINS 411 493	a process of cleaning the blood of a person whose kidneys are not working normally
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 560 564	oral
+T8	EXPLAINS 566 574	by mouth
+E4	EXPLAINS:T8 term:T7

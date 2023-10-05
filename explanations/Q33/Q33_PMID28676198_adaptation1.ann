@@ -1,0 +1,12 @@
+T1	expert_term 275 287	hemodialysis
+T2	EXPLAINS 289 386	a process of using machines to clean the blood of a person whose kidneys are not working normally
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 919 928	half-life
+T4	EXPLAINS 930 1031	the time it takes for the concentration of the gabapentin in the plasma or body to be reduced by half
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1178 1209	symptoms of gabapentin toxicity
+T6	EXAMPLE 1217 1266	muscle weakness, drowsiness, and drooping eyelids
+E3	EXAMPLE:T6 term:T5
+T7	expert_term 1409 1413	urea
+T8	EXPLAINS 1418 1431	waste protein
+E4	EXPLAINS:T8 term:T7

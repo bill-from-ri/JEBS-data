@@ -1,0 +1,12 @@
+T1	expert_term 71 90	variants of concern
+T2	EXPLAINS 92 151	variants that are easier to transmit and/or are more severe
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 178 199	monoclonal antibodies
+T4	EXPLAINS 200 261	which are drugs that may block the virus that causes COVID-19
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 253 261	COVID-19
+T6	EXPLAINS 263 297	a viral breathing-related disorder
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 426 447	polyclonal antibodies
+T8	EXPLAINS 449 511	antibody drugs that attack several parts of the COVID-19 virus
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,9 @@
+T1	expert_term 124 144	diabetic retinopathy
+T2	EXPLAINS 164 196	damaged blood vessels in the eye
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 198 208	Biomarkers
+T4	EXPLAINS 213 277	measurable substances in the body that are indicators of illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 341 358	neurodegeneration
+T6	EXPLAINS 363 375	nerve damage
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,9 @@
+T1	expert_term 199 232	Mini-Percutaneous Nephrolithotomy
+T2	EXPLAINS 243 344	which is when a doctor makes a small incision in the patient and uses a scope to remove kidney stones
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 350 379	Retrograde Intrarenal Surgery
+T4	EXPLAINS 388 499	a procedure that uses a laser and a viewing tube to remove kidney stones and does not make an external incision
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1815 1842	statistically significantly
+T6	EXPLAINS 1844 1892	the result is unlikely to be random or by chance
+E3	EXPLAINS:T6 term:T5

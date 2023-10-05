@@ -1,0 +1,3 @@
+T1	expert_term 532 575	anti-glutamate decarboxylase (GAD) antibody
+T2	EXPLAINS 577 591	a rare protein
+E1	EXPLAINS:T2 term:T1

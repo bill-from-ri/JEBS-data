@@ -1,0 +1,3 @@
+T1	expert_term 575 598	neutralizing antibodies
+T2	EXPLAINS 536 565	a specific type of antibodies
+E1	EXPLAINS:T2 term:T1

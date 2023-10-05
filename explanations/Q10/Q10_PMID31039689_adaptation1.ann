@@ -1,0 +1,21 @@
+T1	expert_term 230 252	carpal tunnel syndrome
+T2	EXPLAINS 254 281	pinched nerves in the wrist
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 790 814	rehabilitation treatment
+T4	EXPLAINS 824 906	care that can help people regain, keep, or improve abilities needed for daily life
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1621 1637	neutral position
+T6	EXPLAINS 1639 1674	where the joints are not being bent
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1850 1900	hands-on therapy without using a machine or device
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 1834 1848	Manual therapy
+T9	expert_term 2158 2181	low-level laser therapy
+T10	EXPLAINS 2183 2274	a laser light used at a low level applied to the skin to reduce pain and help the body heal
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2277 2295	thermal ultrasound
+T12	expert_term 2378 2391	iontophoresis
+T13	EXPLAINS 2297 2375	a device that provides heat to tissues to increase circulation and reduce pain
+E6	EXPLAINS:T13 term:T11
+T14	EXPLAINS 2393 2473	a procedure that uses an electrical current to deliver medicine through the skin
+E7	EXPLAINS:T14 term:T12

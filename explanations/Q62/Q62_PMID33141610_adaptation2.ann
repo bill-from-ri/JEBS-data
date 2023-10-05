@@ -1,0 +1,6 @@
+T1	expert_term 140 154	antihistamines
+T2	EXPLAINS 156 184	drugs for treating allergies
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 191 209	Torsade de Pointes
+T4	EXPLAINS 211 233	very fast heart rhythm
+E2	EXPLAINS:T4 term:T3

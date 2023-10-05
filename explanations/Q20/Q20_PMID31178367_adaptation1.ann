@@ -1,0 +1,21 @@
+T1	expert_term 226 241	antidepressants
+T2	EXPLAINS 244 355	medications used to treat depression and other disorders and can improve mood, sleep quality, and concentration
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 529 544	dose dependency
+T4	EXPLAINS 546 616	when the effects of a drug change when the dose of the drug is changed
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 631 642	target dose
+T6	EXPLAINS 644 682	the dose that achieves a target effect
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1012 1051	selective serotonin reuptake inhibitors
+T8	EXPLAINS 1053 1138	a type of antidepressant that can increase the amount of serotonin, a mood stabilizer
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1145 1164	dose-efficacy curve
+T10	EXPLAINS 1166 1235	relationship between an effect of a drug and the amount of drug given
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1685 1696	Venlafaxine
+T12	EXPLAINS 1698 1722	a type of antidepressant
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 2298 2310	tolerability
+T14	EXPLAINS 2312 2382	the degree to which drugs' negative effects can be handled by patients
+E7	EXPLAINS:T14 term:T13

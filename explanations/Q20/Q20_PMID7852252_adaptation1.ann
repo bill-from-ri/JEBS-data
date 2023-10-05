@@ -1,0 +1,15 @@
+T1	expert_term 350 358	relapses
+T2	expert_term 430 441	recurrences
+T3	expert_term 664 674	fluoxetine
+T4	expert_term 1021 1036	full responders
+T5	expert_term 1094 1112	partial responders
+T6	EXPLAINS 1114 1172	patients who reached only part of the expected improvement
+E1	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1038 1083	patients who reached the expected improvement
+E2	EXPLAINS:T7 term:T4
+T8	EXPLAINS 676 719	a type of antidepressant also called prozac
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 443 530	when symptoms return months or years after a person has recovered from the last episode
+E4	EXPLAINS:T9 term:T2
+T10	EXPLAINS 360 425	the worsening of a medical condition that had previously improved
+E5	EXPLAINS:T10 term:T1

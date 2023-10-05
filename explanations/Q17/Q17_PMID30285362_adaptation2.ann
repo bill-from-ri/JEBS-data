@@ -1,0 +1,9 @@
+T1	expert_term 258 261	BLS
+T2	EXPLAINS 238 256	basic life support
+E1	EXPLAINS:T2 term:T1
+T5	expert_term 276 283	cardiac
+T6	EXPLAINS 288 301	heart-related
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 91 108	Heimlich manuever
+T8	EXPLAINS 114 192	first-aid procedure for airway blockage due to something being stuck in throat
+E4	EXPLAINS:T8 term:T7

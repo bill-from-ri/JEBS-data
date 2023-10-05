@@ -1,0 +1,27 @@
+T1	expert_term 201 209	systemic
+T2	EXPLAINS 211 220	full-body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 222 234	inflammatory
+T4	EXPLAINS 236 254	infection-fighting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 775 781	bypass
+T6	EXPLAINS 783 802	diverted blood flow
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 820 825	serum
+T8	EXPLAINS 827 832	blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 573 591	C-reactive protein
+T10	EXPLAINS 595 684	a type of protein found in the blood that increases during times of internal inflammation
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 672 684	inflammation
+T12	EXPLAINS 686 730	redness and swelling from infection-fighting
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1058 1065	febrile
+T14	EXPLAINS 1067 1077	near-fever
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1741 1752	specificity
+T16	EXPLAINS 1754 1762	accuracy
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1765 1771	Serial
+T18	EXPLAINS 1773 1783	consistent
+E9	EXPLAINS:T18 term:T17

@@ -1,0 +1,9 @@
+T1	expert_term 128 142	antihistamines
+T2	EXPLAINS 144 194	drugs that help with allergies caused by histamine
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 185 194	histamine
+T4	EXPLAINS 196 229	a chemical profited by our bodies
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 400 432	Second-generation antihistamines
+T6	EXPLAINS 518 642	do not disturb brain functions when taken alone, and do not strengthen the disturbances caused by alcohol or other chemicals
+E3	EXPLAINS:T6 term:T5

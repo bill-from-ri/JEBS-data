@@ -1,0 +1,6 @@
+T1	expert_term 101 113	blood folate
+T2	EXPLAINS 115 126	a B-vitamin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 317 332	ischemic stroke
+T4	EXPLAINS 337 385	blood clotting that would block brain blood flow
+E2	EXPLAINS:T4 term:T3

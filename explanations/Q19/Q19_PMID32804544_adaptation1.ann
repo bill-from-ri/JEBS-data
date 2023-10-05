@@ -1,0 +1,15 @@
+T1	expert_term 133 141	levodopa
+T2	expert_term 279 284	motor
+T3	expert_term 369 377	dopamine
+T4	expert_term 1094 1111	dopamine agonists
+T5	EXPLAINS 1113 1170	newer types of drugs that imitate the effects of dopamine
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 286 294	movement
+E2	EXPLAINS:T6 term:T2
+T7	EXPLAINS 143 259	a drug that enters the brain and helps replace missing dopamine, a chemical that carries signals between brain cells
+E3	EXPLAINS:T7 term:T1
+T8	EXPLAINS 379 483	a chemical messenger that carries signals between brain cells and affects mood, motivation, and movement
+E4	EXPLAINS:T8 term:T3
+T9	expert_term 578 595	dopamine agonists
+T10	EXPLAINS 597 713	a medication that imitates the actions of dopamine in the body to relieve symptoms related to low levels of dopamine
+E5	EXPLAINS:T10 term:T9

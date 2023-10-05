@@ -1,0 +1,18 @@
+T1	expert_term 138 146	COVID-19
+T2	EXPLAINS 148 182	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 369 380	Myocarditis
+T4	EXPLAINS 384 416	inflammation of the heart muscle
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 864 867	RNA
+T6	EXPLAINS 869 921	a chain of genetic material that helps form proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1188 1212	double-membrane vesicles
+T8	EXPLAINS 1214 1290	extra-strong chambers, as spaces safe from the body's natural defense system
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1426 1438	inflammation
+T10	EXPLAINS 1440 1487	redness and swelling from fighting an infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1804 1814	metabolism
+T12	EXPLAINS 1816 1855	the process in getting energy from food
+E6	EXPLAINS:T12 term:T11

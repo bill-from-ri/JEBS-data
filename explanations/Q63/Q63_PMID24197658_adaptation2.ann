@@ -1,0 +1,6 @@
+T1	expert_term 102 129	aromatase inhibitor therapy
+T2	EXPLAINS 131 173	drugs commonly used to treat breast cancer
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1427 1435	estrogen
+T4	EXPLAINS 1437 1457	a female sex hormone
+E2	EXPLAINS:T4 term:T3

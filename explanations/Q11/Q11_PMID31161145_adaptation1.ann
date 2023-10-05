@@ -1,0 +1,21 @@
+T2	expert_term 293 302	hypotonia
+T3	expert_term 379 386	hypoxia
+T4	expert_term 450 463	bronchiolitis
+T5	expert_term 732 739	fasting
+T6	expert_term 815 830	lactic acidosis
+T7	expert_term 915 918	MRI
+T9	expert_term 1143 1148	PDHA1
+T11	EXPLAINS 304 319	low muscle tone
+E2	EXPLAINS:T11 term:T2
+T12	EXPLAINS 388 419	low levels of oxygen in tissues
+E3	EXPLAINS:T12 term:T3
+T13	EXPLAINS 465 481	a lung infection
+E4	EXPLAINS:T13 term:T4
+T14	EXPLAINS 741 758	no food or drinks
+E5	EXPLAINS:T14 term:T5
+T15	EXPLAINS 832 907	lactic acid build up that can cause nausea, vomiting, and breathing problem
+E6	EXPLAINS:T15 term:T6
+T16	EXPLAINS 920 933	scanned image
+E7	EXPLAINS:T16 term:T7
+T18	EXPLAINS 1150 1193	a gene that encodes a building block of PCD
+E9	EXPLAINS:T18 term:T9

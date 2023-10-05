@@ -1,0 +1,12 @@
+T1	expert_term 200 209	Neuralgia
+T2	EXPLAINS 213 280	pain in the nerves that feels as bursts of electric-shock-like pain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 387 408	trigeminal nerve root
+T4	EXPLAINS 410 517	a part of the nerve that helps the face recognize pain, touch, heat and cold sensations, as well as chewing
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 600 609	neuralgia
+T6	EXPLAINS 611 621	nerve pain
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1240 1247	atrophy
+T8	EXPLAINS 1250 1266	decrease in size
+E4	EXPLAINS:T8 term:T7

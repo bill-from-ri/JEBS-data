@@ -1,0 +1,18 @@
+T1	expert_term 119 132	immune system
+T2	EXPLAINS 134 231	a complex network of tissues, organs, cells, and proteins that defends the body against infection
+E1	EXPLAINS:T2 
+T3	expert_term 490 497	chronic
+T4	EXPLAINS 499 524	long-lasting or recurring
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 961 965	iron
+T6	EXPLAINS 967 1013	a mineral that helps the body grow and develop
+E3	EXPLAINS:T6 term:T5
+T8	expert_term 1453 1460	protein
+T7	EXPLAINS 1426 1451	foods from animal sources
+E4	EXPLAINS:T7 term:T8
+T9	expert_term 1862 1878	Unsaturated fats
+T10	EXPLAINS 1880 1892	healthy fats
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1934 1947	Saturated fat
+T12	EXPLAINS 1949 1996	unhealthy fats that can lead to health problems
+E6	EXPLAINS:T12 term:T11

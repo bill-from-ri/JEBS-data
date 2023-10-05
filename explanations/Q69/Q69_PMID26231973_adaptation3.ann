@@ -1,0 +1,9 @@
+T1	EXPLAINS 112 141	depression after giving birth
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 143 164	postpartum depression
+T3	EXPLAINS 390 432	the relationship between mother and infant
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 434 452	mother-infant dyad
+T5	expert_term 956 966	postpartum
+T6	EXPLAINS 968 984	after childbirth
+E3	EXPLAINS:T6 term:T5

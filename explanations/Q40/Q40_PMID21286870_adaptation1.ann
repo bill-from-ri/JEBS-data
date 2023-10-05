@@ -1,0 +1,18 @@
+T1	expert_term 211 216	Edema
+T2	EXPLAINS 220 273	swelling within the body due to excess fluid build up
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 339 348	diuretics
+T4	EXPLAINS 350 378	drugs that promote urination
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 426 438	venous edema
+T6	EXPLAINS 440 453	vein swelling
+E3	EXPLAINS:T6 term:T5
+T8	EXPLAINS 480 519	disorders of the body's drainage system
+E5	EXPLAINS:T8 term:T7
+T9	expert_term 917 926	graduated
+T10	EXPLAINS 928 944	pressure-varying
+E6	EXPLAINS:T10 term:T9
+T11	expert_term 973 982	pneumatic
+T12	EXPLAINS 984 994	inflatable
+E7	EXPLAINS:T12 term:T11
+T7	expert_term 459 478	lymphatic disorders

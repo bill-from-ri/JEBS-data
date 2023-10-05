@@ -1,0 +1,12 @@
+T1	expert_term 185 188	CI-
+T2	EXPLAINS 190 198	chloride
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 228 244	epithelial cells
+T4	EXPLAINS 246 299	cells that cover outer surface of the internal organs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1031 1034	Cl-
+T6	EXPLAINS 1036 1044	chloride
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1479 1483	ions
+T8	EXPLAINS 1485 1498	charged atoms
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,12 @@
+T1	expert_term 67 88	Cystic Echinococcosis
+T2	EXPLAINS 108 213	is caused by infection from baby Echinococcus granulosus, long tapeworms, and leads to cysts or swellings
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 141 164	Echinococcus granulosus
+T4	EXPLAINS 166 180	long tapeworms
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 195 200	cysts
+T6	EXPLAINS 204 213	swellings
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 847 858	albendazole
+T8	EXPLAINS 860 884	anti-parasite medication
+E4	EXPLAINS:T8 term:T7

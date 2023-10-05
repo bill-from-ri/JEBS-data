@@ -1,0 +1,6 @@
+T1	expert_term 128 142	antihistamines
+T2	EXPLAINS 144 179	allergy drugs that cause drowsiness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 284 295	Hydroxyzine
+T4	EXPLAINS 299 367	an antihistamine that is used to relieve itching caused by allergies
+E2	EXPLAINS:T4 term:T3

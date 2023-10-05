@@ -1,0 +1,6 @@
+T1	expert_term 131 153	topical pentoxifylline
+T2	EXPLAINS 161 184	a blood flow medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 189 203	pressure ulcer
+T4	EXPLAINS 213 220	bedsore
+E2	EXPLAINS:T4 term:T3

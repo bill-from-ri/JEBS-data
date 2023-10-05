@@ -1,0 +1,21 @@
+T1	expert_term 55 72	Insulin secretion
+T2	EXPLAINS 76 105	the body's release of insulin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 98 105	insulin
+T4	EXPLAINS 107 164	the hormone that helps control blood sugar and metabolism
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 217 239	first-degree relatives
+T6	EXPLAINS 241 277	a person's parent, sibling, or child
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 890 897	glucose
+T8	EXPLAINS 883 888	sugar
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 995 1002	control
+T10	EXPLAINS 983 993	comparison
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1114 1131	insulin resistant
+T12	EXPLAINS 1133 1236	which is when the body doesn't respond well to the insulin hormone and can't use blood sugar for energy
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1707 1720	hyperglycemia
+T14	EXPLAINS 1722 1738	high blood sugar
+E7	EXPLAINS:T14 term:T13

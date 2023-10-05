@@ -1,0 +1,9 @@
+T1	EXPLAINS 137 205	major or minor depression within the first 3 months after childbirth
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 207 228	postpartum depression
+T3	expert_term 839 846	biology
+T4	EXPLAINS 848 863	bodily function
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1861 1876	Clinical trials
+T6	EXPLAINS 1878 1895	studies in people
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,6 @@
+T1	expert_term 99 113	throat culture
+T2	EXPLAINS 115 207	a test using a throat swab to find, grow, and test bacteria in the throat that make you sick
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 214 230	rapid strep test
+T4	EXPLAINS 232 321	a test using a throat swab to find fragments of bacteria in the throat that make you sick
+E2	EXPLAINS:T4 term:T3

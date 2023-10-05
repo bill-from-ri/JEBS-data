@@ -1,0 +1,6 @@
+T1	expert_term 136 149	achondoplasia
+T2	EXPLAINS 151 169	a form of dwarfism
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 172 186	Achondroplasia
+T4	EXPLAINS 190 238	the most common nonlethal bone growth impairment
+E2	EXPLAINS:T4 term:T3

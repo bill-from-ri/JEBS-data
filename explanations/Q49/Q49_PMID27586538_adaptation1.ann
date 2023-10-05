@@ -1,0 +1,12 @@
+T1	expert_term 88 112	Calcium Channel Blockers
+T2	EXPLAINS 120 182	medicines taken to control blood pressure and other conditions
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 311 320	Leg edema
+T4	EXPLAINS 322 336	fluid swelling
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1368 1384	peripheral edema
+T6	EXPLAINS 1386 1418	swelling in lower legs and hands
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1421 1434	Pitting edema
+T8	EXPLAINS 1436 1563	a condition where excess fluid builds up in one part of the body and pressing into the swollen area leaves a pit or indentation
+E4	EXPLAINS:T8 term:T7

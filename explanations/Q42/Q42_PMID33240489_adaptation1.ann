@@ -1,0 +1,18 @@
+T1	expert_term 41 49	Histones
+T2	EXPLAINS 54 179	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 355 379	hyperinflammatory states
+T4	EXPLAINS 381 423	when the immune system goes into overdrive
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 484 490	sepsis
+T6	EXPLAINS 492 569	which occurs when the body's response to an infection damages its own tissues
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 702 712	antibodies
+T8	EXPLAINS 714 741	infection-fighting proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 804 816	carbohydrate
+T10	EXPLAINS 818 834	sugar-containing
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1059 1089	neutrophil extracellular traps
+T12	EXPLAINS 1091 1141	net like structures that protect against infection
+E6	EXPLAINS:T12 term:T11

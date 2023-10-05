@@ -1,0 +1,9 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 61 119	a genetically inherited syndrome involving multiple organs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 284 289	cysts
+T4	EXPLAINS 291 311	sacs filled with air
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 403 415	radiologists
+T6	EXPLAINS 417 498	doctors who use x-rays and other electronic images to treat and diagnose patients
+E3	EXPLAINS:T6 term:T5

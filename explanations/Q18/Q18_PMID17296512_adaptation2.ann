@@ -1,0 +1,6 @@
+T1	expert_term 101 120	blood ketone bodies
+T2	expert_term 210 230	gestational diabetes
+T3	EXPLAINS 232 273	high blood sugar affecting pregnant women
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 122 155	particles made from fat breakdown
+E2	EXPLAINS:T4 term:T1

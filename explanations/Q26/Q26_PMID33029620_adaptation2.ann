@@ -1,0 +1,3 @@
+T1	expert_term 75 122	Severe Acute Respiratory Syndrome Coronovirus 2
+T2	EXPLAINS 137 179	which is a viral breathing-related illness
+E1	EXPLAINS:T2 term:T1

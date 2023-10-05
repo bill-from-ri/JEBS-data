@@ -1,0 +1,9 @@
+T1	expert_term 64 73	phosphate
+T2	EXPLAINS 75 97	a high-energy molecule
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 44 97	Low levels of blood phosphate, a high-energy molecule
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 102 118	hypophosphatasia
+T5	expert_term 189 193	ALPL
+T6	EXPLAINS 195 274	the gene for alkaline phosphatase or a protein that influences phosphate levels
+E3	EXPLAINS:T6 term:T5

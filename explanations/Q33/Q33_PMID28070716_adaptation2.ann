@@ -1,0 +1,3 @@
+T1	expert_term 548 556	epilepsy
+T2	EXPLAINS 558 589	brain disorder causing seizures
+E1	EXPLAINS:T2 term:T1

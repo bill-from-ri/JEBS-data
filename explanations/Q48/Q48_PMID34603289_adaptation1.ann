@@ -1,0 +1,9 @@
+T1	expert_term 41 69	Systemic lupus erythematosus
+T2	EXPLAINS 81 174	a common autoimmune disease where the body's immune system mistakenly attacks healthy tissues
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 216 237	Mesenchymal stem cell
+T4	EXPLAINS 248 314	cells that are present in adult bone marrow and the umbilical cord
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 320 342	extracellular vesicles
+T6	EXPLAINS 371 446	particles that carry molecules, proteins and other substances between cells
+E3	EXPLAINS:T6 term:T5

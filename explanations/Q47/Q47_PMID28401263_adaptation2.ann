@@ -1,0 +1,12 @@
+T1	expert_term 94 114	alkaline phosphatase
+T2	EXPLAINS 116 186	a protein that influences levels of the high-energy molecule phosphate
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 368 394	low blood phosphate levels
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 396 412	hypophosphatasia
+T5	EXPLAINS 480 517	low blood alkaline phosphatase levels
+E3	EXPLAINS:T5 term:T6
+T7	expert_term 920 939	phosphoethanolamine
+T8	EXPLAINS 949 988	a key molecule to build cell boundaries
+E5	EXPLAINS:T8 term:T7
+T6	expert_term 519 537	hypophosphatasemia

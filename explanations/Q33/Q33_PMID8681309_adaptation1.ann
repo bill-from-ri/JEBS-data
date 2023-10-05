@@ -1,0 +1,15 @@
+T1	expert_term 61 71	Gabapentin
+T2	EXPLAINS 75 103	a new drug to treat seizures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 798 802	oral
+T4	EXPLAINS 804 812	by mouth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 953 969	partial seizures
+T6	expert_term 1001 1009	seizures
+T7	EXPLAINS 971 995	impacting half the brain
+E3	EXPLAINS:T7 term:T5
+T8	EXPLAINS 1011 1045	impacting both halves of the brain
+E4	EXPLAINS:T8 term:T6
+T9	expert_term 1412 1420	epilepsy
+T10	EXPLAINS 1422 1439	seizure disorders
+E5	EXPLAINS:T10 term:T9

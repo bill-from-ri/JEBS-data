@@ -1,0 +1,15 @@
+T1	expert_term 80 84	βhCG
+T2	EXPLAINS 86 105	a pregnancy hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 131 138	uterine
+T4	EXPLAINS 140 144	womb
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 154 171	hydatidiform mole
+T6	EXPLAINS 173 203	a cluster of fluid filled sacs
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 272 282	metastasis
+T8	EXPLAINS 284 323	spreading of the cancer to other organs
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 719 758	suction and curettage (S & C) procedure
+T10	EXPLAINS 760 806	a process that uses a vacuum to remove a fetus
+E5	EXPLAINS:T10 term:T9

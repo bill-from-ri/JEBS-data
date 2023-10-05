@@ -1,0 +1,9 @@
+T1	expert_term 112 120	epilepsy
+T2	EXPLAINS 122 150	brain disorder with seizures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 447 471	epileptic encephalopathy
+T4	EXPLAINS 473 508	epilepsy that leads to brain damage
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1459 1468	ketogenic
+T6	EXPLAINS 1470 1478	low-carb
+E3	EXPLAINS:T6 term:T5

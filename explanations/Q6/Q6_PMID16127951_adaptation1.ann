@@ -1,0 +1,6 @@
+T1	expert_term 164 179	Graves' disease
+T2	EXPLAINS 181 247	a disease in which infection-preventing cells attack healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1398 1408	amiodarone
+T4	EXPLAINS 1410 1428	a heart medication
+E2	EXPLAINS:T4 term:T3

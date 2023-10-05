@@ -1,0 +1,9 @@
+T1	expert_term 71 99	Human chorionic gonadotropin
+T2	EXPLAINS 107 126	a pregnancy hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 153 158	serum
+T4	EXPLAINS 160 165	blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 517 529	extrauterine
+T6	EXPLAINS 531 541	outer-womb
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,21 @@
+T1	expert_term 79 88	potassium
+T2	expert_term 250 271	potassium homeostasis
+T3	expert_term 469 485	Oxidative stress
+T4	EXPLAINS 487 624	a condition that happens when the body has low antioxidant levels,  vitamins, minerals, and other nutrients that protect and repair cells
+E1	EXPLAINS:T4 term:T3
+T5	expert_term 631 650	potassium imbalance
+T6	EXPLAINS 652 691	levels of potassium that are not normal
+E2	EXPLAINS:T6 term:T5
+T7	expert_term 822 848	neurodegenerative diseases
+T8	EXAMPLE 859 878	such as Alzheimer's
+E3	EXAMPLE:T8 term:T7
+T9	expert_term 1096 1107	hypokalemia
+T10	EXPLAINS 1109 1129	low potassium levels
+E4	EXPLAINS:T10 term:T9
+T11	EXPLAINS 273 353	the correct balance of potassium in the body that is important for cell function
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 90 131	a mineral the body needs to function well
+E6	EXPLAINS:T12 term:T1
+T13	expert_term 867 878	Alzheimer's
+T14	EXPLAINS 879 915	where nerve cells deteriorate or die
+E7	EXPLAINS:T14 term:T13

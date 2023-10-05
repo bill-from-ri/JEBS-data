@@ -1,0 +1,6 @@
+T1	expert_term 82 95	levothyroxine
+T2	EXPLAINS 103 130	a common thyroid medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 582 601	Underactive thyroid
+T4	EXPLAINS 605 645	one of the most common hormone disorders
+E2	EXPLAINS:T4 term:T3

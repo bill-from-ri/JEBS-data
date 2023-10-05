@@ -1,0 +1,24 @@
+T1	expert_term 163 172	pathogens
+T2	EXPLAINS 136 161	disease-causing molecules
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 268 276	Ferritin
+T4	EXPLAINS 280 319	the most important iron storage protein
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 437 448	macrophages
+T6	EXPLAINS 450 471	specific immune cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 555 574	Mycobacterium avium
+T8	EXPLAINS 576 608	bacteria related to tuberculosis
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 789 802	myeloid cells
+T10	EXPLAINS 804 830	specific bone marrow cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 945 954	cytokines
+T12	EXPLAINS 956 985	infection signaling molecules
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1281 1292	ferroportin
+T14	EXPLAINS 1294 1320	iron-transporting proteins
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1343 1353	granulomas
+T16	EXPLAINS 1355 1382	small areas of inflammation
+E8	EXPLAINS:T16 term:T15

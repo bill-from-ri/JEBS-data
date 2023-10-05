@@ -1,0 +1,6 @@
+T1	expert_term 496 516	docosahexaenoic acid
+T2	EXPLAINS 523 551	specific omega-3 fatty acids
+E1	EXPLAINS:T2 
+T3	expert_term 570 581	lipoprotein
+T4	EXPLAINS 589 605	good cholesterol
+E2	EXPLAINS:T4 term:T3

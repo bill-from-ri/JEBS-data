@@ -1,0 +1,18 @@
+T1	expert_term 87 109	Protein-energy wasting
+T2	EXPLAINS 113 159	a decline in the amount of protein in the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 428 440	inflammation
+T4	EXPLAINS 442 489	redness and swelling from fighting an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 751 757	uremia
+T6	EXPLAINS 759 809	which is when there is too much waste in the blood
+E3	EXPLAINS:T6 term:T5
+T8	EXPLAINS 1064 1104	which can lead to cell and tissue damage
+E5	EXPLAINS:T8 term:T7
+T7	expert_term 1004 1062	an imbalance of free radicals and antioxidants in the body
+T9	expert_term 1107 1130	endothelial dysfunction
+T10	EXPLAINS 1131 1210	which is damaged functioning of the lining of blood vessels impacting the heart
+E4	EXPLAINS:T10 term:T9
+T11	expert_term 1234 1259	Nutritional interventions
+T12	EXPLAINS 1261 1315	changing diet and diet behavior to reach a health goal
+E6	EXPLAINS:T12 term:T11

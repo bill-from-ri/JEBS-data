@@ -1,0 +1,9 @@
+T1	expert_term 32 73	Thrombosis with thrombocytopenia syndrome
+T2	EXPLAINS 83 170	a rare condition of blood clots in the veins and arteries and low blood platelet counts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 497 529	cerebral venous sinus thrombosis
+T4	EXPLAINS 538 561	blood clot in the brain
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1231 1247	thrombocytopenia
+T6	EXPLAINS 1249 1268	low blood platelets
+E3	EXPLAINS:T6 term:T5

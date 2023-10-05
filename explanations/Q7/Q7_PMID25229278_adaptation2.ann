@@ -1,0 +1,21 @@
+T1	expert_term 102 109	pharynx
+T2	EXPLAINS 111 134	an airway in the throat
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 30 63	Immediate pharyngitis/tonsillitis
+T4	EXPLAINS 65 147	characterized by inflammation of the pharynx (an airway in the throat) and tonsils
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 216 227	pharyngitis
+T6	EXPLAINS 229 248	throat inflammation
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 265 287	Streptoccocus pyogenes
+T8	EXPLAINS 289 308	a specific bacteria
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 355 366	S. pyogenes
+T10	EXPLAINS 368 387	a specific bacteria
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1508 1522	cephalosporins
+T12	expert_term 1401 1412	Penicillins
+T13	EXPLAINS 1417 1436	antibacterial drugs
+E6	EXPLAINS:T13 term:T12
+T14	EXPLAINS 1532 1545	antibacterial
+E7	EXPLAINS:T14 term:T11

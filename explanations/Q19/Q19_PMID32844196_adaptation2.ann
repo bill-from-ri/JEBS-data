@@ -1,0 +1,9 @@
+T1	expert_term 109 128	Parkinson's disease
+T2	expert_term 328 336	levodopa
+T3	expert_term 582 592	drug-naïve
+T4	EXPLAINS 559 580	never given treatment
+E1	EXPLAINS:T4 term:T3
+T5	EXPLAINS 338 368	common Parkinsons's medication
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 130 173	a brain-related disorder affecting movement
+E3	EXPLAINS:T6 term:T1

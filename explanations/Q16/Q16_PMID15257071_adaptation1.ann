@@ -1,0 +1,30 @@
+T1	expert_term 84 89	renal
+T2	expert_term 117 127	cushingoid
+T3	expert_term 611 639	Prednisolone bioavailability
+T4	expert_term 744 764	area under the curve
+T5	EXPLAINS 766 827	a measure of total exposure to the drug in the body's systems
+E1	EXPLAINS:T5 term:T4
+T6	expert_term 889 911	liquid chromatographic
+T7	expert_term 1406 1426	estrogen supplements
+T8	expert_term 1648 1660	azathioprine
+T9	expert_term 1934 1949	bioavailability
+T10	expert_term 2178 2201	single-point monitoring
+T11	EXPLAINS 2203 2223	one time measurement
+E2	EXPLAINS:T11 term:T10
+T12	EXPLAINS 1951 2031	how much of a drug becomes completely available to the intended part of the body
+E3	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1662 1720	a drug that can prevent organ rejection after a transplant
+E4	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1428 1487	pills taken, often to resolve symptoms related to menopause
+E5	EXPLAINS:T14 term:T7
+T15	EXPLAINS 913 1022	a technique that separates, identifies, and counts different parts in a mixture that makes it easy to analyze
+E6	EXPLAINS:T15 term:T6
+T16	EXPLAINS 641 721	how much of a drug becomes completely available to the intended part of the body
+E7	EXPLAINS:T16 term:T3
+T17	EXPLAINS 129 247	having different symptoms, often facial puffiness and weight gain, due to too much of the hormone cortisol in the body
+E8	EXPLAINS:T17 term:T2
+T18	EXPLAINS 91 97	kidney
+E9	EXPLAINS:T18 term:T1
+T19	expert_term 1274 1285	cyclosporin
+T20	EXPLAINS 1287 1344	a drug that prevents the body from rejecting a transplant
+E10	EXPLAINS:T20 term:T19

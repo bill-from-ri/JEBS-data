@@ -1,0 +1,6 @@
+T1	expert_term 26 36	Pacemakers
+T2	EXPLAINS 41 144	electronics that stimulate the heart with electrical impulses to maintain or restore a normal heartbeat
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 344 365	Below-skin electrodes
+T4	EXPLAINS 367 392	electrical contact points
+E2	EXPLAINS:T4 term:T3

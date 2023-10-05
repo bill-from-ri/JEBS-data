@@ -1,0 +1,6 @@
+T1	expert_term 173 181	COVID-19
+T2	EXPLAINS 183 210	a viral respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 373 383	quarantine
+T4	EXPLAINS 388 397	isolation
+E2	EXPLAINS:T4 term:T3

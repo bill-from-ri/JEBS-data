@@ -1,0 +1,6 @@
+T1	expert_term 53 66	immune system
+T2	EXPLAINS 67 174	protects against viruses and diseases and makes specific proteins to kill specific disease-causing invaders
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 242 250	COVID-19
+T4	EXPLAINS 252 279	a viral respiratory disease
+E2	EXPLAINS:T4 term:T3

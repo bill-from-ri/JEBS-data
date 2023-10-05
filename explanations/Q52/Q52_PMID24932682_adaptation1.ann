@@ -1,0 +1,24 @@
+T1	expert_term 90 105	Turner syndrome
+T2	EXPLAINS 109 134	a chromosomal abnormality
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 238 260	X aneuploidy condition
+T4	EXPLAINS 265 315	condition of having abnormal number of chromosomes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 380 390	phenotypes
+T6	EXPLAINS 395 418	outward characteristics
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 554 564	penetrance
+T8	EXPLAINS 566 572	extent
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 605 623	Haploinsufficiency
+T10	EXPLAINS 628 662	when one copy of a gene is deleted
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 748 751	RNA
+T12	EXPLAINS 753 796	special genetic material to create proteins
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 988 1000	differential
+T14	EXPLAINS 1002 1017	unique function
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1280 1295	non-coding RNAs
+T16	EXPLAINS 1297 1342	RNAs that cannot be transformed into proteins
+E8	EXPLAINS:T16 term:T15

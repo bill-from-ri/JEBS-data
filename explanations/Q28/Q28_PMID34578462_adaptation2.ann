@@ -1,0 +1,6 @@
+T1	expert_term 57 104	severe acute respiratory syndrome coronavirus 2
+T2	EXPLAINS 119 183	a severe breathing-related virus, can infect various body organs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 303 314	myocarditis
+T4	EXPLAINS 316 341	heart muscle inflammation
+E2	EXPLAINS:T4 term:T3

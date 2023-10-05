@@ -1,0 +1,6 @@
+T1	expert_term 493 526	glucose-6-phosphate dehydrogenase
+T2	EXPLAINS 533 584	an enzyme that protects red blood cells from damage
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1309 1330	lactate dehydrogenase
+T4	EXPLAINS 1332 1360	an enzyme from tissue damage
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,9 @@
+T1	expert_term 86 94	COVID-19
+T2	EXPLAINS 96 130	a viral breathing-related disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 165 186	monoclonal antibodies
+T4	EXPLAINS 188 283	which are medicines that may block the virus that causes COVID-19 from attaching to human cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 383 404	monoclonal antibodies
+T6	EXPLAINS 338 365	Bamlanivimab and etesevimab
+E3	EXPLAINS:T6 term:T5

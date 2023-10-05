@@ -1,0 +1,3 @@
+T1	expert_term 93 115	Total Hip Arthroplasty
+T2	EXPLAINS 125 140	hip replacement
+E1	EXPLAINS:T2 term:T1

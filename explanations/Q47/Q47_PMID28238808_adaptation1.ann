@@ -1,0 +1,36 @@
+T1	expert_term 44 60	Hypophosphatasia
+T2	EXPLAINS 70 120	a genetic condition that blocks metabolic pathways
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 139 144	serum
+T4	EXPLAINS 146 151	blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 153 173	alkaline phosphatase
+T6	EXPLAINS 181 218	a protein which indicates bone health
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 135 228	low serum (blood) alkaline phosphatase (ALP - a protein which indicates bone health) activity
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 230 248	hypophosphatasemia
+T9	expert_term 329 338	isoenzyme
+T10	EXPLAINS 340 344	form
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 612 629	TNSALP substrates
+T12	expert_term 520 526	TNSALP
+T13	EXPLAINS 530 602	an enzyme expressed in the skeleton, liver, kidney, and developing teeth
+E6	EXPLAINS:T13 term:T12
+T14	EXPLAINS 631 657	proteins altered by TNSALP
+E7	EXPLAINS:T14 term:T11
+T15	expert_term 745 754	inhibitor
+T16	EXPLAINS 756 763	blocker
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1083 1096	hypercalcemia
+T18	EXPLAINS 1098 1117	high calcium levels
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1708 1718	recurrence
+T20	expert_term 1601 1610	pediatric
+T21	EXPLAINS 1612 1617	child
+E10	EXPLAINS:T21 term:T20
+T22	EXPLAINS 1720 1732	reappearance
+E11	EXPLAINS:T22 term:T19
+T23	expert_term 1772 1780	prenatal
+T24	EXPLAINS 1782 1800	at or before birth
+E12	EXPLAINS:T24 term:T23

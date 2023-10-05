@@ -1,0 +1,24 @@
+T1	expert_term 65 85	rheumatoid arthritis
+T2	expert_term 193 218	proinflammatory cytokines
+T3	expert_term 324 349	endogenous glucocorticoid
+T4	expert_term 939 955	pharmacokinetics
+T5	expert_term 1026 1053	modified-release prednisone
+T6	expert_term 1504 1521	fasted conditions
+T7	expert_term 1670 1686	modified-release
+T8	EXPLAINS 1688 1703	delayed release
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1523 1578	on an empty stomach or before the first meal of the day
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 1055 1133	a release of part of a drug at a time other than right after the drug is taken
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 957 999	how the body handles or responds to a drug
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 351 421	a type of steroid hormones produced within the body such as in tissues
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 220 297	a type of molecule from immune cells that is capable of creating inflammation
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 87 169	when the body's immune system attacks its own tissue, including joints, by mistake
+E7	EXPLAINS:T14 term:T1
+T15	expert_term 492 501	exogenous
+T16	EXPLAINS 505 513	external
+E8	EXPLAINS:T16 term:T15

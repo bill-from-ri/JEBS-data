@@ -1,0 +1,12 @@
+T1	expert_term 68 93	Corona virus disease 2019
+T2	EXPLAINS 108 136	a viral, respiratory illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 294 316	mechanical ventilation
+T4	EXPLAINS 318 354	being helped to breathe by a machine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1239 1251	inflammation
+T6	EXPLAINS 1253 1297	redness and swelling from infection-fighting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1565 1572	D-dimer
+T8	EXPLAINS 1574 1620	protein fragment from dissolved blood clotting
+E4	EXPLAINS:T8 term:T7

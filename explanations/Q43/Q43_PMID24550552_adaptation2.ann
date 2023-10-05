@@ -1,0 +1,12 @@
+T1	expert_term 191 229	implantable cardioverter-defibrillator
+T2	EXPLAINS 237 362	which corrects irregular heart beats, manages fast heart rate or irregular contractions and saves lives by high-energy shocks
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 561 565	lead
+T4	EXPLAINS 569 582	contact point
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 53 90	cardiac implantable electronic device
+T6	expert_term 53 60	cardiac
+T7	EXPLAINS 36 49	heart-related
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 99 123	the electronic pacemaker
+E4	EXPLAINS:T8 term:T5

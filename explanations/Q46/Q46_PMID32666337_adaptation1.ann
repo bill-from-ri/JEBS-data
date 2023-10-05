@@ -1,0 +1,18 @@
+T1	expert_term 76 83	bronchi
+T2	EXPLAINS 85 123	two tubes that carry air to your lungs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 218 233	cystic fibrosis
+T4	EXPLAINS 240 353	an inherited disease caused by a change in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 287 353	Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein
+T6	EXPLAINS 354 384	which helps transport chloride
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 393 406	sphingolipids
+T8	EXPLAINS 408 458	a common type of lipids found in cell surroundings
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 603 613	metabolism
+T10	EXPLAINS 615 624	digestion
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 968 980	inflammation
+T12	EXPLAINS 982 1029	redness and swelling from fighting an infection
+E6	EXPLAINS:T12 term:T11

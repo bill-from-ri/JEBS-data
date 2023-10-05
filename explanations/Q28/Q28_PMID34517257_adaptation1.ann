@@ -1,0 +1,21 @@
+T1	expert_term 58 70	inflammation
+T2	EXPLAINS 72 119	redness and swelling from fighting an infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 335 343	COVID-19
+T4	EXPLAINS 345 394	a viral, breathing-related or respiratory disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 528 537	pneumonia
+T6	EXPLAINS 539 553	lung infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 628 637	Cytokines
+T8	EXPLAINS 642 694	proteins that can tell your immune system what to do
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 776 791	hyperactivation
+T10	EXPLAINS 793 852	which in turn causes more cytokines to release more signals
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1348 1356	in vitro
+T12	expert_term 1372 1379	in vivo
+T13	EXPLAINS 1358 1366	in cells
+E6	EXPLAINS:T13 term:T11
+T14	EXPLAINS 1381 1391	in animals
+E7	EXPLAINS:T14 term:T12

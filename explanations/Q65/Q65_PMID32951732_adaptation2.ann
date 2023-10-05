@@ -1,0 +1,27 @@
+T1	expert_term 55 74	Sickle cell disease
+T4	expert_term 162 171	hemolysis
+T5	expert_term 202 216	vaso-occlusion
+T2	expert_term 243 255	inflammation
+T6	EXPLAINS 257 285	infection-fighting processes
+E1	EXPLAINS:T6 term:T2
+T7	EXPLAINS 218 237	blood flow blockage
+E2	EXPLAINS:T7 term:T5
+T8	EXPLAINS 173 199	red blood cell destruction
+E3	EXPLAINS:T8 term:T4
+T10	EXPLAINS 84 255	a blood disorder with complex disease effects that includes lasting (chronic) hemolysis (red blood cell destruction), vaso-occlusion (blood flow blockage) and inflammation
+E5	EXPLAINS:T10 term:T1
+T3	expert_term 153 160	chronic
+T9	EXPLAINS 144 151	lasting
+E4	EXPLAINS:T9 term:T3
+T11	expert_term 662 681	Omega-3 fatty acids
+T12	EXPLAINS 686 773	polyunsaturated fatty acids that are known to have effects on many biological processes
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1113 1123	thrombotic
+T14	EXPLAINS 1125 1139	blood clotting
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1141 1152	eicosanoids
+T16	EXPLAINS 1154 1173	signaling molecules
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1266 1274	maresins
+T18	EXPLAINS 1282 1310	fatty-acid-related molecules
+E9	EXPLAINS:T18 term:T17

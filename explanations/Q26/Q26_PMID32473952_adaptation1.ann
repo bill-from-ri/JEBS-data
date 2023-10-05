@@ -1,0 +1,3 @@
+T1	expert_term 57 104	severe acute respiratory syndrome coronavirus 2
+T2	EXPLAINS 119 148	the causing agent of COVID-19
+E1	EXPLAINS:T2 term:T1

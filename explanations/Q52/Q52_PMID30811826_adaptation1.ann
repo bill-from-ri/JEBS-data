@@ -1,0 +1,27 @@
+T1	expert_term 244 259	Turner syndrome
+T2	EXPLAINS 263 323	a condition where there is an abnormal amount of chromosomes
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 312 323	chromosomes
+T4	EXPLAINS 325 341	genetic material
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 344 353	Phenotype
+T6	EXPLAINS 355 381	observable characteristics
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 653 666	comorbidities
+T8	EXPLAINS 668 700	presence of two or more diseases
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 888 907	autoimmune diseases
+T10	EXPLAINS 909 951	in which immune cells attack healthy cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1233 1245	differential
+T12	EXPLAINS 1247 1262	function-unique
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1382 1403	chromosome aneuploidy
+T14	EXPLAINS 1405 1431	abnormal chromosome number
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1565 1585	Klinefelter syndrome
+T16	EXPLAINS 1587 1625	male born with extra X chromosome copy
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1687 1697	prevalence
+T18	EXPLAINS 1699 1705	amount
+E9	EXPLAINS:T18 term:T17

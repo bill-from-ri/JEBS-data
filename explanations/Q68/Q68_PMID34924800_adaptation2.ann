@@ -1,0 +1,21 @@
+T1	expert_term 70 78	Ferritin
+T2	EXPLAINS 80 106	an iron-containing protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 555 572	hyperferritinemia
+T4	EXPLAINS 574 594	high ferritin levels
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 695 708	iron overload
+T6	EXPLAINS 713 732	high levels of iron
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 781 789	COVID-19
+T8	EXPLAINS 791 813	a viral lung infection
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1093 1103	antibodies
+T10	EXPLAINS 1105 1147	immune system products to fight infections
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1164 1179	corticosteroids
+T12	EXPLAINS 1181 1198	specific steroids
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1205 1216	lactoferrin
+T14	EXPLAINS 1218 1245	a protein in mammalian milk
+E7	EXPLAINS:T14 term:T13

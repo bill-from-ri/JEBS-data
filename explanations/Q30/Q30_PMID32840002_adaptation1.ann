@@ -1,0 +1,15 @@
+T1	expert_term 156 168	transmission
+T2	expert_term 201 209	Covid-19
+T3	expert_term 269 277	positive
+T4	expert_term 390 400	antibodies
+T5	expert_term 558 564	plasma
+T6	EXPLAINS 566 590	the liquid part of blood
+E1	EXPLAINS:T6 term:T5
+T7	EXPLAINS 402 422	proteins in the body
+E2	EXPLAINS:T7 term:T4
+T8	EXPLAINS 282 296	virus-detected
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 173 179	spread
+E4	EXPLAINS:T9 term:T1
+T10	EXPLAINS 211 239	a viral, respiratory illness
+E5	EXPLAINS:T10 term:T2

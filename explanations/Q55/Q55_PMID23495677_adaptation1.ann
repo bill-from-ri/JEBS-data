@@ -1,0 +1,12 @@
+T1	expert_term 63 103	Attention-deficit hyperactivity disorder
+T2	EXPLAINS 114 174	the most commonly diagnosed behavioral disorder of childhood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 274 292	phosphatidylserine
+T4	EXPLAINS 299 333	a naturally occurring phospholipid
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 321 333	phospholipid
+T6	EXPLAINS 337 374	the fatty part of a cell's boundaries
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 551 559	placebos
+T8	EXPLAINS 561 575	sham treatment
+E4	EXPLAINS:T8 term:T7

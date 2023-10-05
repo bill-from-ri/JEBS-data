@@ -1,0 +1,9 @@
+T1	expert_term 126 138	phospholipid
+T2	EXPLAINS 140 180	fatty molecules that build a cell's wall
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 647 671	chronic fatigue syndrome
+T4	EXPLAINS 679 701	long-lasting tiredness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1199 1207	titrated
+T6	EXPLAINS 1209 1221	concentrated
+E3	EXPLAINS:T6 term:T5

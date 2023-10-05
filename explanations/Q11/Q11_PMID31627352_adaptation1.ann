@@ -1,0 +1,15 @@
+T3	EXPLAINS 105 133	fat-related energy molecules
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 141 154	ketone bodies
+T1	expert_term 507 518	ketogenesis
+T2	EXPLAINS 520 558	the process that creates ketone bodies
+E1	EXPLAINS:T2 term:T1
+T5	expert_term 581 598	circadian rhythms
+T6	EXPLAINS 600 674	the natural cycle of mental and physical changes in the body over 24 hours
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 680 697	paracrine signals
+T8	EXPLAINS 699 752	cell signaling to communicate with other cells nearby
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1091 1109	infantile epilepsy
+T10	EXPLAINS 1111 1143	the onset of seizures in infancy
+E5	EXPLAINS:T10 term:T9

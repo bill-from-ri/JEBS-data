@@ -1,0 +1,6 @@
+T1	expert_term 91 111	fracture risk scores
+T2	EXPLAINS 116 159	the likelihood of having a major bone break
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 346 355	menopause
+T4	EXPLAINS 357 404	a point in time 12 months after the last period
+E2	EXPLAINS:T4 term:T3

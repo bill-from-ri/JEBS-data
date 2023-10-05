@@ -1,0 +1,24 @@
+T1	expert_term 108 118	SARS-CoV-2
+T2	EXPLAINS 120 185	the novel breathing-related coronavirus that can lead to COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 237 245	membrane
+T4	EXPLAINS 251 318	a thin layer of lipids that protects the cell and acts as a barrier
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 325 333	envelope
+T6	EXPLAINS 339 410	a small membrane protein and is involved in parts of a virus life cycle
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 417 429	nucleocapsid
+T8	EXPLAINS 435 498	an important protein for viral replication and genome packaging
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 504 509	spike
+T10	EXPLAINS 515 576	a protein involved in introducing coronavirus into host cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 626 634	cellular
+T12	expert_term 702 709	humoral
+T13	EXPLAINS 636 692	white blood cells that defend the body against infection
+E6	EXPLAINS:T13 term:T11
+T14	EXPLAINS 717 835	molecules that create antibodies against a specific antigen and involve substances found in the humors, or body fluids
+E7	EXPLAINS:T14 term:T12
+T15	expert_term 1072 1085	herd immunity
+T16	EXPLAINS 1087 1237	a form of indirect protection from an infectious disease that can occur when a sufficient percentage of a population has become immune to an infection
+E8	EXPLAINS:T16 term:T15

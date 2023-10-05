@@ -1,0 +1,9 @@
+T1	expert_term 41 50	Metformin
+T2	EXPLAINS 52 79	an anti-diabetic medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 104 132	systemic lupus erythematosus
+T4	EXPLAINS 140 237	an inflammatory disease in which immune cells mistakely attack joints, skin, brain cells and more
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 261 270	metformin
+T6	EXPLAINS 272 311	a specific energy-generator in the cell
+E3	EXPLAINS:T6 term:T5

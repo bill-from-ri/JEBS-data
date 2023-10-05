@@ -1,0 +1,3 @@
+T1	expert_term 777 790	acetaminophen
+T2	EXPLAINS 792 799	Tylenol
+E1	EXPLAINS:T2 term:T1

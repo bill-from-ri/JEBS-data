@@ -1,0 +1,9 @@
+T1	expert_term 61 65	FLCN
+T2	EXPLAINS 76 111	a gene that suppresses tumor growth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 294 311	fibrofolliculomas
+T4	EXPLAINS 222 292	non-cancerous tumors in hair follicles around the face, neck and chest
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 314 319	cysts
+T6	EXPLAINS 321 332	sacs of air
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,6 @@
+T1	EXPLAINS 176 225	therapy with applying light on the body's surface
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 144 174	Low Level Laser Therapy (LLLT)
+T3	EXPLAINS 977 1019	which involves pinched nerves in the wrist
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 953 975	carpal tunnel syndrome

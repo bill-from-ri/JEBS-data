@@ -1,0 +1,15 @@
+T1	expert_term 104 115	parathyroid
+T2	EXPLAINS 117 135	calcium-regulating
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 517 545	tertiary hyperparathyroidism
+T4	EXPLAINS 547 643	when too much of the parathyroid hormone is produced even when the original problem is corrected
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 929 942	bone turnover
+T6	EXPLAINS 944 1005	when the bone tissue is reabsorbed and replaced by a new bone
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1407 1420	effectiveness
+T8	EXPLAINS 1422 1429	success
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1823 1836	interventions
+T10	EXPLAINS 1838 1848	treatments
+E5	EXPLAINS:T10 term:T9

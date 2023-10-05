@@ -1,0 +1,9 @@
+T1	expert_term 85 95	Postpartum
+T2	EXPLAINS 97 115	after giving birth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 359 364	peers
+T4	EXPLAINS 366 400	others who had similar experiences
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1103 1107	data
+T6	EXPLAINS 1096 1101	Facts
+E3	EXPLAINS:T6 term:T5

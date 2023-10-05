@@ -1,0 +1,3 @@
+T1	expert_term 239 262	neutralizing antibodies
+T2	EXPLAINS 264 300	antibodies that inactivate the virus
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,21 @@
+T1	expert_term 97 107	hemorrhage
+T2	EXPLAINS 109 127	excessive bleeding
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 993 1012	vascular resistance
+T4	EXPLAINS 1014 1037	blood vessel resistance
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1062 1090	sympathetic nerve activation
+T6	EXPLAINS 1092 1116	fight-or-flight reaction
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1156 1175	endocrine responses
+T8	EXPLAINS 1177 1211	responses from chemical messengers
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1418 1454	cerebral perfusion pressure gradient
+T10	EXPLAINS 1456 1495	pressure driving oxygen to brain tissue
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1515 1531	respiratory pump
+T12	EXPLAINS 1533 1580	muscles that help the lung extract and contract
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1642 1654	vasodilation
+T14	EXPLAINS 1656 1684	enlargement of blood vessels
+E7	EXPLAINS:T14 term:T13

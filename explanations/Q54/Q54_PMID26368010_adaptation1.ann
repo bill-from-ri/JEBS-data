@@ -1,0 +1,12 @@
+T1	expert_term 106 117	correlation
+T2	EXPLAINS 119 123	link
+E1	EXPLAINS:T2 term:T1
+T4	EXPLAINS 190 209	a pregnancy hormone
+E3	EXPLAINS:T4 term:T3
+T5	expert_term 689 701	intrauterine
+T6	EXPLAINS 703 720	normal inner-womb
+E4	EXPLAINS:T6 term:T5
+T7	expert_term 796 801	Apgar
+T8	EXPLAINS 803 815	newborn test
+E5	EXPLAINS:T8 term:T7
+T3	expert_term 147 180	beta human chorionic gonadotropin

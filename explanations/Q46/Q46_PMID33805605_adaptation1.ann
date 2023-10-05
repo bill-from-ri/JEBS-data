@@ -1,0 +1,12 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 67 267	a deadly disease inherited from both parents characterized by changes in a compound (chloride) movement caused by genetic changes in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 477 489	inflammation
+T4	EXPLAINS 491 538	redness and swelling from fighting an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 916 931	epithelial cell
+T6	EXPLAINS 933 986	cell that covers outer surface of the internal organs
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 989 996	Matrine
+T8	EXPLAINS 998 1004	a drug
+E4	EXPLAINS:T8 term:T7

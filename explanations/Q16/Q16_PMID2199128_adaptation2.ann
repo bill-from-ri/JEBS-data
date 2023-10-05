@@ -1,0 +1,9 @@
+T1	expert_term 105 128	prednisolone/prednisone
+T2	expert_term 1826 1841	Crohn's disease
+T3	expert_term 1675 1687	ketoconazole
+T4	EXPLAINS 1843 1872	an inflammatory bowel disease
+E1	EXPLAINS:T4 term:T2
+T5	EXPLAINS 1689 1713	an antifungal medication
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 130 178	a steroid hormone with immunosuppressant effects
+E3	EXPLAINS:T6 term:T1

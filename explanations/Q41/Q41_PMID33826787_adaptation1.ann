@@ -1,0 +1,18 @@
+T1	expert_term 67 92	Polycystic kidney disease
+T2	EXPLAINS 102 311	a genetic disorder that causes abnormal growth and formation of kidney epithelial cells, which are important cells for kidney function, and growth of many cysts (swellings) filled with fluid within the kidneys
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 166 189	kidney epithelial cells
+T4	EXPLAINS 191 236	which are important cells for kidney function
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 257 262	cysts
+T6	EXPLAINS 264 273	swellings
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 548 560	cystic cells
+T8	EXPLAINS 562 605	cells that cluster together and form a cyst
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 634 644	antibiotic
+T10	EXPLAINS 646 674	bacteria-fighting medication
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 608 620	Quinomycin A
+T12	EXPLAINS 624 776	a type of antibiotic (bacteria-fighting medication), has previously shown to target the Notch signaling process, and slow or stop tumor growth in cancer
+E6	EXPLAINS:T12 term:T11

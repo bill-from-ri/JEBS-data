@@ -1,0 +1,12 @@
+T1	expert_term 116 134	tardive dyskinesia
+T2	EXPLAINS 142 161	a movement disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 879 936	vesicular monoamine transporter type 2 (VMAT2) inhibitors
+T4	EXPLAINS 938 964	drugs that reduce dopamine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 956 964	dopamine
+T6	EXPLAINS 966 1033	a chemical messenger released when your brain is expecting a reward
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1107 1126	a dopamine promoter
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 1094 1104	amantadine

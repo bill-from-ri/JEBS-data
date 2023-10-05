@@ -1,0 +1,18 @@
+T1	expert_term 67 111	Autosomal dominant polycystic kidney disease
+T2	EXPLAINS 115 240	a common inherited kidney disorder that causes many cysts (growths) and is caused by changes in either the PKD1 or PKD2 genes
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 172	cysts
+T4	EXPLAINS 174 181	growths
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 284 325	polycystin-1 (PC1) and polycystin-2 (PC2)
+T6	EXPLAINS 327 403	which regulate cells growth, cell movement, and interaction with other cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1137 1143	mutant
+T8	EXPLAINS 1145 1152	changed
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1481 1490	chaperone
+T10	EXPLAINS 1492 1542	plays a part in the folding of itself as a protein
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1560 1570	acetylated
+T12	EXPLAINS 1572 1593	modified structurally
+E6	EXPLAINS:T12 term:T11

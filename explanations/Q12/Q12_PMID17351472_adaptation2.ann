@@ -1,0 +1,6 @@
+T1	expert_term 48 54	asthma
+T2	EXPLAINS 56 90	a disease that restricts breathing
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 463 476	Immunotherapy
+T4	EXPLAINS 478 533	treatment of disease by altering immune system activity
+E2	EXPLAINS:T4 term:T3

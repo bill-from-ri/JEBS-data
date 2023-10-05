@@ -1,0 +1,21 @@
+T1	expert_term 85 99	rescue therapy
+T2	EXPLAINS 104 171	therapy given after an ailment does not respond to normal treatment
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 183 192	colectomy
+T4	EXPLAINS 194 226	removal of all or parts of colon
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 298 335	Steroid-refractory ulcerative colitis
+T6	EXPLAINS 339 418	chronic inflammatory bowel disease that no longer responds to steroid treatment
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 708 718	Mayo score
+T8	EXPLAINS 720 744	a disease ranking system
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1115 1127	Azathioprine
+T10	EXPLAINS 1131 1176	a medication given to improve immune function
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1555 1563	negative
+T12	EXPLAINS 1565 1576	no detected
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1847 1859	inflammation
+T14	EXPLAINS 1861 1905	redness and swelling from infection-fighting
+E7	EXPLAINS:T14 term:T13

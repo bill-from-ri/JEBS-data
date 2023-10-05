@@ -1,0 +1,3 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 60 147	an inherited, metabolic disorder caused by a lack of a specific liver enzyme or protein
+E1	EXPLAINS:T2 term:T1

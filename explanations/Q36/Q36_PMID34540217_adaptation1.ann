@@ -1,0 +1,21 @@
+T1	expert_term 151 188	Extracorporeal shock wave lithotripsy
+T2	EXPLAINS 199 296	a procedure to break up stones in the body by using shock waves and an X-ray to target the stones
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 336 359	patient characteristics
+T4	EXAMPLE 361 397	age, sex, and body mass index or BMI
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 403 424	stone characteristics
+T6	EXAMPLE 426 453	density, location, and size
+E3	EXAMPLE:T6 term:T5
+T7	expert_term 517 524	ureters
+T8	EXPLAINS 526 587	tubes that carry urine from the kidney to the urinary bladder
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 871 877	ureter
+T10	EXPLAINS 879 933	tube that carries urine from the kidney to the bladder
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1489 1495	ureter
+T12	EXPLAINS 1497 1555	the tube that carries urine from the kidney to the bladder
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1564 1589	statistically significant
+T14	EXPLAINS 1598 1640	not likely to happen randomly or by chance
+E7	EXPLAINS:T14 term:T13

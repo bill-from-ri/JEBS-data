@@ -1,0 +1,27 @@
+T3	expert_term 30 59	Bronchial hyperresponsiveness
+T4	EXPLAINS 69 147	an increase in sensitivity to different things that cause the airway to narrow
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 277 288	meterologic
+T6	EXPLAINS 290 329	atmosphere, humidity, wind, temperature
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 511 523	upper airway
+T8	EXPLAINS 525 575	the nose, nasal cavity, and pharynx or throat area
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 659 679	hyperplastic changes
+T10	EXPLAINS 681 698	extra cell growth
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 722 731	irritants
+T12	EXPLAINS 733 765	substances that cause discomfort
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 933 940	steroid
+T14	EXPLAINS 942 981	man-made drugs with a synthetic hormone
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 999 1022	anti-inflammatory drugs
+T16	EXPLAINS 1024 1047	drugs that relieve pain
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1318 1332	Metereological
+T18	EXPLAINS 1334 1341	weather
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1687 1692	atopy
+T20	EXPLAINS 1694 1703	allergies
+E10	EXPLAINS:T20 term:T19

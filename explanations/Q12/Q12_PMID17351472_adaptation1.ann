@@ -1,0 +1,9 @@
+T1	expert_term 239 258	developed countries
+T2	EXPLAINS 260 345	countries with a high quality of life, developed economies, and advanced technologies
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 791 804	Immunotherapy
+T4	EXPLAINS 806 877	treatment that activates or alters the immune system to treat a disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 938 956	multiple treatment
+T6	EXPLAINS 958 1006	drugs, therapy, or other steps to improve health
+E3	EXPLAINS:T6 term:T5

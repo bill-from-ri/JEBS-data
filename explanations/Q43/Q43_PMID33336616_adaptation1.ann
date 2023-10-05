@@ -1,0 +1,15 @@
+T1	expert_term 106 114	asystole
+T2	EXPLAINS 116 166	when the activity in the heart stops or "flatline"
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 787 798	bradycardia
+T4	EXPLAINS 800 815	slow heart beat
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1050 1059	catheters
+T6	EXPLAINS 1061 1075	flexible tubes
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1415 1443	dual-chamber antibradycardia
+T8	EXPLAINS 1444 1488	that can stimulate the chambers of the heart
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1568 1578	ventricles
+T10	EXPLAINS 1580 1600	lower heart chambers
+E5	EXPLAINS:T10 term:T9

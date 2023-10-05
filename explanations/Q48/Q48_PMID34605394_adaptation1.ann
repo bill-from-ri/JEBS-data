@@ -1,0 +1,9 @@
+T1	expert_term 233 261	systemic lupus erythematosus
+T2	EXPLAINS 271 316	when your immune system attacks healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 463 470	placebo
+T4	EXPLAINS 472 486	sham treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1171 1181	assessment
+T6	EXPLAINS 1183 1194	measurement
+E3	EXPLAINS:T6 term:T5

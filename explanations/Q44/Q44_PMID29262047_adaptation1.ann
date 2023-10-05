@@ -1,0 +1,48 @@
+T1	expert_term 144 155	hemorrhagic
+T2	expert_term 241 247	trauma
+T3	expert_term 325 341	gastrointestinal
+T4	expert_term 361 372	Obstetrical
+T5	expert_term 398 406	vascular
+T6	expert_term 435 445	iatrogenic
+T7	expert_term 490 500	urological
+T8	expert_term 662 674	dysregulated
+T9	expert_term 1030 1042	mitochondria
+T10	expert_term 1232 1240	Pyruvate
+T11	expert_term 1326 1346	cellular respiration
+T12	expert_term 1505 1528	baroreceptor activation
+T13	expert_term 1631 1668	sympathetic nervous system activation
+T14	expert_term 1886 1910	diastolic blood pressure
+T15	expert_term 2057 2080	systolic blood pressure
+T16	expert_term 2597 2624	peripheral vasoconstriction
+T17	EXPLAINS 2626 2640	narrowed blood
+E1	EXPLAINS:T17 term:T16
+T18	EXPLAINS 2082 2102	heart is contracting
+E2	EXPLAINS:T18 term:T15
+T19	EXPLAINS 1912 1937	when the heart is relaxed
+E3	EXPLAINS:T19 term:T14
+T20	EXPLAINS 1670 1696	fight-or-flight activation
+E4	EXPLAINS:T20 term:T13
+T21	EXPLAINS 1530 1601	which is the increased activity of receptors to regulate blood pressure
+E5	EXPLAINS:T21 term:T12
+T22	EXPLAINS 1348 1363	energy creation
+E6	EXPLAINS:T22 term:T11
+T23	EXPLAINS 1242 1281	a chemical product of energy production
+E7	EXPLAINS:T23 term:T10
+T24	EXPLAINS 1044 1092	cell part responsible for making chemical energy
+E8	EXPLAINS:T24 term:T9
+T25	EXPLAINS 676 685	incorrect
+E9	EXPLAINS:T25 term:T8
+T26	EXPLAINS 502 530	related to the urinary tract
+E10	EXPLAINS:T26 term:T7
+T27	EXPLAINS 447 478	illness caused by medical exams
+E11	EXPLAINS:T27 term:T6
+T28	EXPLAINS 408 432	related to blood vessels
+E12	EXPLAINS:T28 term:T5
+T29	EXPLAINS 374 395	related to childbirth
+E13	EXPLAINS:T29 term:T4
+T30	EXPLAINS 343 350	stomach
+E14	EXPLAINS:T30 term:T3
+T31	EXPLAINS 249 255	injury
+E15	EXPLAINS:T31 term:T2
+T32	EXPLAINS 157 175	excessive bleeding
+E16	EXPLAINS:T32 term:T1

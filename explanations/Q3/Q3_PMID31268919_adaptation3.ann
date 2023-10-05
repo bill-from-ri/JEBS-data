@@ -1,0 +1,18 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	expert_term 129 138	Potassium
+T3	expert_term 168 179	electrolyte
+T4	expert_term 464 500	renin-angiotensin-aldosterone system
+T5	expert_term 654 675	cardiovascular system
+T6	expert_term 1205 1242	patiromer and zirconium cyclosilicate
+T7	EXPLAINS 1168 1203	the new drugs to treat hyperkalemia
+E1	EXPLAINS:T7 term:T6
+T8	EXPLAINS 677 700	heart and blood vessels
+E2	EXPLAINS:T8 term:T5
+T9	EXPLAINS 511 585	a hormone system that manages blood pressure and fluid balance in the body
+E3	EXPLAINS:T9 term:T4
+T10	EXPLAINS 159 166	mineral
+E4	EXPLAINS:T10 term:T3
+T11	EXPLAINS 142 192	a very important mineral (electrolyte) in the body
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 55 127	a condition where the potassium level in the blood is higher than normal
+E6	EXPLAINS:T12 term:T1

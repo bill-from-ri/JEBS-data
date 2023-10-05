@@ -1,0 +1,27 @@
+T1	expert_term 42 57	Pressure ulcers
+T2	EXPLAINS 73 214	bed sores, pressure sores, or decubitus ulcers develop because of a localized (regionalized) injury to the skin or underlying tissue, or both
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 141 150	localized
+T4	EXPLAINS 152 164	regionalized
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 395 403	Anabolic
+T6	EXPLAINS 405 420	muscle building
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 598 609	debridement
+T8	EXPLAINS 611 649	removal of damaged tissue from a wound
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 677 697	systemic antibiotics
+T10	expert_term 745 756	antiseptics
+T11	EXPLAINS 758 787	antimicrobial skin medication
+E5	EXPLAINS:T11 term:T10
+T12	EXPLAINS 699 739	full-body medicines that fight infection
+E6	EXPLAINS:T12 term:T9
+T13	expert_term 1438 1449	oxandrolone
+T14	EXPLAINS 1451 1468	synthetic steroid
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 3011 3020	precision
+T17	EXPLAINS 3022 3047	low confidence in results
+E8	EXPLAINS:T17 term:T15
+T18	expert_term 3452 3458	assess
+T19	EXPLAINS 3460 3467	measure
+E9	EXPLAINS:T19 term:T18

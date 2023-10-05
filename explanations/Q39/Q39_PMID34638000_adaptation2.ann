@@ -1,0 +1,3 @@
+T1	expert_term 43 69	β-amyloid (Aβ1-42) and tau
+T2	EXPLAINS 71 90	biological proteins
+E1	EXPLAINS:T2 term:T1

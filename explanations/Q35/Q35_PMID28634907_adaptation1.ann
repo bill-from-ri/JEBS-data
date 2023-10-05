@@ -1,0 +1,6 @@
+T1	expert_term 171 203	dual-energy x-ray absorptiometry
+T2	EXPLAINS 217 288	a technique used by doctors to measure a patient's risk of osteoporosis
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 276 288	osteoporosis
+T4	EXPLAINS 290 340	a condition in which bones become weak and brittle
+E2	EXPLAINS:T4 term:T3

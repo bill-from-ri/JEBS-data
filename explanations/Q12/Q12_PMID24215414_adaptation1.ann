@@ -1,0 +1,12 @@
+T1	expert_term 427 448	environmental factors
+T2	expert_term 566 574	biologic
+T3	expert_term 651 661	sociologic
+T4	expert_term 886 895	allergens
+T5	EXPLAINS 897 943	any substance that causes an allergic reaction
+E1	EXPLAINS:T5 term:T4
+T6	EXAMPLE 671 698	education and socioeconomic
+E2	EXAMPLE:T6 term:T3
+T7	EXAMPLE 584 645	brain chemistry, genes, nutrition, gender, and hormone levels
+E3	EXAMPLE:T7 term:T2
+T8	EXAMPLE 458 487	food, pollutants, temperature
+E4	EXAMPLE:T8 term:T1

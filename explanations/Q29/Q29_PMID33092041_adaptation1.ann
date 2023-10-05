@@ -1,0 +1,6 @@
+T1	expert_term 739 753	micronutrients
+T2	EXPLAINS 704 725	vitamins and minerals
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1575 1583	Covid-19
+T4	EXPLAINS 1585 1613	a viral, respiratory disease
+E2	EXPLAINS:T4 term:T3

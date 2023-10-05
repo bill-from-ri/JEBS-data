@@ -1,0 +1,13 @@
+T1	expert_term 115 127	Inflammation
+T2	EXPLAINS 129 157	infection-fighting processes
+E1	EXPLAINS:T2 
+T3	expert_term 843 863	Docosahexaenoic acid
+T4	expert_term 872 893	Eicosapentaenoic acid
+T5	EXPLAINS 902 929	specific omega-3 fatty acid
+E2	EXPLAINS:T5 term:T3 term2:T4
+T6	expert_term 1082 1102	n-6 arachidonic acid
+T7	EXPLAINS 1104 1131	specific omega-6 fatty acid
+E3	EXPLAINS:T7 term:T6
+T8	expert_term 1452 1465	n-6/n-3 ratio
+T9	EXPLAINS 1467 1496	marker of inflammatory status
+E4	EXPLAINS:T9 term:T8

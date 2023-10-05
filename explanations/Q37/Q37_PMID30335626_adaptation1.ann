@@ -1,0 +1,39 @@
+T1	expert_term 62 72	Pregabalin
+T2	EXPLAINS 76 99	a nerve pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 152 166	opioid-sparing
+T4	EXPLAINS 133 150	reduce opioid use
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 193 202	analgesic
+T6	EXPLAINS 177 191	pain relieving
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 307 316	cognition
+T8	EXPLAINS 318 334	thinking ability
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 500 516	antihyperalgesic
+T10	EXPLAINS 518 547	reduction of pain sensitivity
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 696 703	control
+T12	EXPLAINS 705 717	no treatment
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 756 773	donor nephrectomy
+T14	EXPLAINS 775 805	removal of one or both kidneys
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 870 877	placebo
+T16	EXPLAINS 879 894	a harmless pill
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 900 912	administered
+T18	EXPLAINS 914 919	given
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1078 1091	acetaminophen
+T20	EXPLAINS 1093 1108	pain medication
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1182 1193	psychomotor
+T22	EXPLAINS 1195 1203	movement
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 1137 1147	inhibition
+T24	EXPLAINS 1149 1158	restraint
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 1845 1858	Perioperative
+T26	EXPLAINS 1860 1879	around surgery time
+E13	EXPLAINS:T26 term:T25

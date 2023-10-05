@@ -1,0 +1,30 @@
+T1	expert_term 90 105	Turner syndrome
+T2	EXPLAINS 109 169	a condition where there is an abnormal number of chromosomes
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 158 169	chromosomes
+T4	EXPLAINS 171 187	genetic material
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 190 204	Amniotic fluid
+T6	EXPLAINS 206 235	the fluid surrounding a fetus
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 366 369	RNA
+T8	EXPLAINS 371 406	genetic material to create proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 690 704	differentially
+T10	EXPLAINS 706 725	functionally unique
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 987 1001	down-regulated
+T12	EXPLAINS 1003 1024	decreased in activity
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1123 1134	hematologic
+T14	EXPLAINS 1136 1141	blood
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1473 1495	autoimmune dysfunction
+T16	EXPLAINS 1497 1551	in which infection-fighting cells attack healthy cells
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1646 1653	cardiac
+T18	expert_term 1591 1601	pathologic
+T19	EXPLAINS 1603 1610	harmful
+E9	EXPLAINS:T19 term:T18
+T20	EXPLAINS 1655 1660	heart
+E10	EXPLAINS:T20 term:T17

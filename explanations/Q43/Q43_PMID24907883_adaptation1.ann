@@ -1,0 +1,6 @@
+T1	expert_term 371 384	Cardiologists
+T2	EXPLAINS 386 399	heart doctors
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 500 526	cardioverter defibrillator
+T4	EXPLAINS 528 609	a battery powered device placed under the skin that keeps track of the heart rate
+E2	EXPLAINS:T4 term:T3

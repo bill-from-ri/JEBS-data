@@ -1,0 +1,21 @@
+T2	expert_term 291 320	gestational diabetes mellitus
+T3	expert_term 683 687	fast
+T4	expert_term 919 926	insulin
+T5	expert_term 1043 1054	fatty acids
+T6	expert_term 1125 1145	beta-hydroxybutyrate
+T7	expert_term 1268 1276	cortisol
+T8	expert_term 2554 2576	maternal and perinatal
+T9	EXPLAINS 2578 2600	before and after birth
+E1	EXPLAINS:T9 term:T8
+T10	EXPLAINS 1278 1341	a stress hormone that is bound to proteins or free in the blood
+E2	EXPLAINS:T10 term:T7
+T11	EXPLAINS 1147 1246	a chemical in the body that provides energy when not enough carbohydrates or sugars have been eaten
+E3	EXPLAINS:T11 term:T6
+T12	EXPLAINS 1056 1122	lipids from fats and oils that are a source of energy for the body
+E4	EXPLAINS:T12 term:T5
+T13	EXPLAINS 928 1035	a hormone in the body that allows cells in the muscles, fat, and liver to absorb sugar that is in the blood
+E5	EXPLAINS:T13 term:T4
+T14	EXPLAINS 689 696	no food
+E6	EXPLAINS:T14 term:T3
+T15	EXPLAINS 322 422	a type of diabetes first seen during pregnancy in a woman who did not have diabetes before pregnancy
+E7	EXPLAINS:T15 term:T2

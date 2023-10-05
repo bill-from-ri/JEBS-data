@@ -1,0 +1,9 @@
+T1	expert_term 61 71	Gabapentin
+T2	EXPLAINS 75 114	a new antiseizure or antiepileptic drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 96 109	antiepileptic
+T4	EXPLAINS 81 92	antiseizure
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1069 1077	epilepsy
+T6	EXPLAINS 1079 1112	a brain disorder causing seizures
+E3	EXPLAINS:T6 term:T5

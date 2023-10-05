@@ -1,0 +1,21 @@
+T1	expert_term 201 219	C-reactive protein
+T2	expert_term 300 312	inflammation
+T3	expert_term 764 774	meningitis
+T4	expert_term 821 827	sepsis
+T5	expert_term 918 927	pneumonia
+T6	expert_term 1817 1823	serial
+T7	expert_term 1784 1792	negative
+T8	EXPLAINS 1825 1833	multiple
+E1	EXPLAINS:T8 term:T6
+T9	EXPLAINS 1794 1806	no detection
+E2	EXPLAINS:T9 term:T7
+T10	EXPLAINS 929 943	lung infection
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 829 908	life-threatening condition when the body's response to infection damages itself
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 776 811	inflammation with intense headaches
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 314 358	redness and swelling from infection-fighting
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 223 312	a type of protein found in the blood that increases during times of internal inflammation
+E7	EXPLAINS:T14 term:T1

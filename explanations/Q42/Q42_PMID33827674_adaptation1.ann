@@ -1,0 +1,18 @@
+T1	expert_term 166 174	Histones
+T2	EXPLAINS 179 304	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 316 325	mutations
+T4	EXPLAINS 327 334	changes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 462 487	cartilage chondroblastoma
+T6	EXPLAINS 489 526	noncancerous bone tumors in cartilage
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 973 983	N-terminal
+T8	EXPLAINS 985 1004	nitrogen-containing
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1132 1144	Oncohistones
+T10	EXPLAINS 1146 1187	the mutant histones that can cause tumors
+E5	EXPLAINS:T10 term:T9
+T11	EXPLAINS 1654 1692	histone proteins that may cause cancer
+E6	EXPLAINS:T11 term:T12
+T12	expert_term 1694 1706	oncohistones

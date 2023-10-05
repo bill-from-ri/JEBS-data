@@ -1,0 +1,9 @@
+T1	expert_term 87 98	coronavirus
+T2	EXPLAINS 100 165	the virus that causes COVID-19 or the breathing-related infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 381 405	receptor-binding domains
+T4	EXPLAINS 407 475	parts of the cell that connect the virus and allow entry to the cell
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 613 634	Monoclonal antibodies
+T6	EXPLAINS 639 724	medicines that may block the virus that causes COVID-19 from attaching to human cells
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,33 @@
+T1	EXPLAINS 151 165	swollen joints
+E1	EXPLAINS:T1 term:T4
+T2	EXPLAINS 35 99	Specialists who treat diseases in the joints, muscles, and bones
+E2	EXPLAINS:T2 term:T3
+T3	expert_term 108 123	rheumatologists
+T4	expert_term 167 176	synovitis
+T5	expert_term 183 196	pitting edema
+T6	EXPLAINS 198 325	a condition where excess fluid builds up in one part of the body and pressing into the swollen area leaves a pit or indentation
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 331 411	remitting seronegative symmetrical synovitis with pitting edema (RS3PE) syndrome
+T8	EXPLAINS 415 467	a rare disease with swollen joints and pitting edema
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 534 556	polymyalgia rheumatica
+T10	EXPLAINS 558 640	a disorder that causes muscle pain and stiffness, mainly in the shoulders and hips
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 643 663	rheumatoid arthritis
+T12	EXPLAINS 665 716	arthritis whereby immune cells attack healthy cells
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 837 846	psoriasis
+T14	EXPLAINS 848 895	a skin disease causing red, itchy scaly patches
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 975 1003	systemic lupus erythematosus
+T16	EXPLAINS 1013 1106	a chronic disease where the body's immune system mistakenly attacks healthy cells and tissues
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1156 1161	edema
+T18	EXPLAINS 1163 1171	swelling
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1294 1306	inflammation
+T20	EXPLAINS 1308 1355	redness and swelling from fighting an infection
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1377 1384	tendons
+T22	EXPLAINS 1386 1399	tenosynovitis
+E11	EXPLAINS:T22 term:T21

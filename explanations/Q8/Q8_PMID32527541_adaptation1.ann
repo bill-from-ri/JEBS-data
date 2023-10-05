@@ -1,0 +1,9 @@
+T1	expert_term 33 51	Endometrial cancer
+T2	EXPLAINS 58 92	cancer of the lining of the uterus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 256 268	progesterone
+T4	EXPLAINS 270 279	a hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 368 380	Perphenazine
+T6	EXPLAINS 382 415	used to treat psychotic disorders
+E3	EXPLAINS:T6 term:T5

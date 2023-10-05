@@ -1,0 +1,18 @@
+T1	expert_term 121 142	acid-base homeostasis
+T2	EXPLAINS 144 219	having the right amount of acid and base in the blood and other body fluids
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 225 248	electrolyte homeostasis
+T4	EXPLAINS 250 335	the correct concentration of different ions in the body, such as sodium and potassium
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 398 405	Chronic
+T6	expert_term 609 614	renal
+T7	expert_term 908 923	pathophysiology
+T8	expert_term 994 1018	clinical characteristics
+T9	EXPLAINS 1020 1055	symptoms and results from lab tests
+E3	EXPLAINS:T9 term:T8
+T10	EXPLAINS 925 991	functional changes that come with a particular syndrome or disease
+E4	EXPLAINS:T10 term:T7
+T11	EXPLAINS 616 630	kidney-related
+E5	EXPLAINS:T11 term:T6
+T12	EXPLAINS 407 432	long-lasting or recurring
+E6	EXPLAINS:T12 term:T5

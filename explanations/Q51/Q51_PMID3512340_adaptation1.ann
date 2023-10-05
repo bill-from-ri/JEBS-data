@@ -1,0 +1,6 @@
+T1	expert_term 47 66	islet cell antibody
+T2	EXPLAINS 68 113	proteins made against insulin-producing cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 445 459	neuroendocrine
+T4	EXPLAINS 461 502	cells like nerve cells that make hormones
+E2	EXPLAINS:T4 term:T3

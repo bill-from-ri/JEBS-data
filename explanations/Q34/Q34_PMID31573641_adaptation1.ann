@@ -1,0 +1,21 @@
+T1	expert_term 221 233	primary care
+T2	EXPLAINS 235 241	family
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 897 923	glomerular filtration rate
+T4	EXPLAINS 925 983	a blood test that checks how well your kidneys are working
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 989 1000	albuminuria
+T6	EXPLAINS 1002 1058	which is too much albumin (a blood protein) in the urine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1020 1027	albumin
+T8	EXPLAINS 1029 1044	a blood protein
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1487 1498	parathyroid
+T10	EXPLAINS 1500 1518	calcium-regulating
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1533 1539	anemia
+T12	EXPLAINS 1541 1560	low red blood cells
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1691 1698	albumin
+T14	EXPLAINS 1700 1709	a protein
+E7	EXPLAINS:T14 term:T13

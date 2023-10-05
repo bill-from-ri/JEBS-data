@@ -1,0 +1,15 @@
+T1	expert_term 181 189	Covid-19
+T2	EXPLAINS 191 225	a viral, breathing-related illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 354 387	severe acute respiratory syndrome
+T4	EXPLAINS 396 448	which can cause fever, cough, and breathing problems
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1106 1117	antioxidant
+T6	expert_term 1215 1224	Quercetin
+T7	EXPLAINS 1186 1207	a plant-based vitamin
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 1095 1117	a powerful antioxidant
+E4	EXPLAINS:T8 term:T9
+T9	expert_term 1170 1181	Glutathione
+T10	EXPLAINS 1119 1161	a vitamin or mineral that can repair cells
+E5	EXPLAINS:T10 term:T5

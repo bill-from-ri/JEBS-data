@@ -1,0 +1,9 @@
+T1	expert_term 62 75	Herpes zoster
+T2	EXPLAINS 76 173	(shingles) is an immediate, painful, skin disease involved with reactivating the chickenpox virus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 194 204	meningitis
+T4	EXPLAINS 206 240	inflamation of the brain and spine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 243 253	Pregabalin
+T6	EXPLAINS 255 283	common nerve pain medication
+E3	EXPLAINS:T6 term:T5

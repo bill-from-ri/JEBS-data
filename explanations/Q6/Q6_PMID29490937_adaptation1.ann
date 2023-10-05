@@ -1,0 +1,6 @@
+T1	expert_term 32 51	Underactive thyroid
+T2	EXPLAINS 55 136	one of the most common conditions caused by a lack of specific hormones in adults
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 539 566	Central underactive thyroid
+T4	EXPLAINS 617 725	when an otherwise normal thyroid makes too little thyroid hormone due to lack of thyroid-stimulating hormone
+E2	EXPLAINS:T4 term:T3

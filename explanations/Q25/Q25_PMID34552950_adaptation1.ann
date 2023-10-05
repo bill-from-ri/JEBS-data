@@ -1,0 +1,21 @@
+T1	expert_term 162 174	glycoprotein
+T2	EXPLAINS 176 224	a molecule that has a carbohydrate and a protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 604 616	inflammation
+T4	expert_term 386 407	monoclonal antibodies
+T5	expert_term 337 344	COVID-1
+T6	EXPLAINS 346 380	a viral breathing-related disorder
+E2	EXPLAINS:T6 term:T5
+T7	EXPLAINS 412 497	medicines that may block the virus that causes COVID-19 from attaching to human cells
+E3	EXPLAINS:T7 term:T4
+T8	EXPLAINS 618 663	redness and swelling in response to infection
+E4	EXPLAINS:T8 term:T3
+T9	expert_term 850 861	Fc effector
+T10	EXPLAINS 873 939	which are the part of the antibody that interacts with other cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1065 1088	emergency authorization
+T12	EXPLAINS 1090 1128	where unapproved medicines may be used
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1798 1804	plasma
+T14	EXPLAINS 1806 1833	the liquid portion of blood
+E7	EXPLAINS:T14 term:T13

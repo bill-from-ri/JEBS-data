@@ -1,0 +1,3 @@
+T1	expert_term 352 361	inpatient
+T2	EXPLAINS 366 398	during a stay at a care facility
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,21 @@
+T1	expert_term 35 43	Lipedema
+T2	expert_term 169 176	puberty
+T3	EXPLAINS 178 224	when a child's body changes to become an adult
+E1	EXPLAINS:T3 term:T2
+T4	expert_term 273 288	lipo-lymphedema
+T5	EXPLAINS 290 344	which is a build up of fluid in addition to excess fat
+E2	EXPLAINS:T5 term:T4
+T6	expert_term 804 818	gastric bypass
+T7	EXPLAINS 824 913	involves a doctor placing a small pouch in the stomach and food only goes into that pouch
+E3	EXPLAINS:T7 term:T6
+T8	expert_term 966 971	trunk
+T9	EXPLAINS 973 997	chest, stomach, and back
+E4	EXPLAINS:T9 term:T8
+T10	expert_term 1194 1209	hypoalbuminemia
+T11	EXPLAINS 1215 1257	levels of the albumin protein in the blood
+E5	EXPLAINS:T11 term:T10
+T12	expert_term 1495 1500	edema
+T13	EXPLAINS 1502 1510	swelling
+E6	EXPLAINS:T13 term:T12
+T14	EXPLAINS 47 114	a common condition where there is too much fat in the arms and legs
+E7	EXPLAINS:T14 term:T1

@@ -1,0 +1,9 @@
+T1	expert_term 22 48	Pimary progressive aphasia
+T2	EXPLAINS 56 92	a language and speech brain disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 109 118	amyloid-β
+T4	EXPLAINS 125 184	a brain protein segment associated with Alzheimer's disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1144 1147	tau
+T6	EXPLAINS 1149 1200	a brain protein associated with Alzheimer's disease
+E3	EXPLAINS:T6 term:T5

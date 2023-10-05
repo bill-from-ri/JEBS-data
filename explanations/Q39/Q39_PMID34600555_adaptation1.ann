@@ -1,0 +1,24 @@
+T1	expert_term 22 35	Circular RNAs
+T3	expert_term 87 102	transcribe into
+T4	EXPLAINS 104 115	result into
+E1	EXPLAINS:T4 term:T3
+T5	expert_term 495 509	gastric cancer
+T6	EXPLAINS 516 537	cancer of the stomach
+E2	EXPLAINS:T6 term:T5
+T7	expert_term 567 581	differentially
+T8	EXPLAINS 583 591	uniquely
+E3	EXPLAINS:T8 term:T7
+T9	expert_term 1448 1471	prognostic significance
+T10	EXPLAINS 1473 1509	estimating the future disease course
+E4	EXPLAINS:T10 term:T9
+T11	expert_term 1732 1756	postoperative recurrence
+T12	expert_term 1779 1799	prognosis evaluation
+T13	EXPLAINS 1758 1773	disease relapse
+E5	EXPLAINS:T13 term:T11
+T14	EXPLAINS 1801 1825	likely course of disease
+E6	EXPLAINS:T14 term:T12
+T15	expert_term 1834 1843	circPanel
+T16	EXPLAINS 1709 1826	a predictive model for postoperative recurrence (disease relapse) and prognosis evaluation (likely course of disease)
+E7	EXPLAINS:T16 term:T15
+T2	EXPLAINS 51 125	a special class of RNAs that do not transcribe into (result into) proteins
+E8	EXPLAINS:T2 term:T1

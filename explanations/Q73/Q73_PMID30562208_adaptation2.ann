@@ -1,0 +1,6 @@
+T1	expert_term 1472 1480	tramadol
+T2	EXPLAINS 1482 1506	sold as Ultram or Zytram
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 2587 2606	nerves are disabled
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 2608 2627	peripheral blockade

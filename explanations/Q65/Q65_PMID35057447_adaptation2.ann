@@ -1,0 +1,12 @@
+T1	EXPLAINS 65 83	infection-fighting
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 85 97	inflammatory
+T3	expert_term 122 129	chronic
+T4	EXPLAINS 113 120	lasting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 269 288	25-hydroxyvitamin D
+T6	EXPLAINS 290 299	vitamin D
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 528 546	C-reactive protein
+T8	EXPLAINS 553 577	a marker of imflammation
+E4	EXPLAINS:T8 term:T7

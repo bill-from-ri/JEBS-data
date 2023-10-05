@@ -1,0 +1,24 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	expert_term 129 138	Potassium
+T3	expert_term 168 179	electrolyte
+T4	expert_term 407 412	acute
+T5	expert_term 438 445	chronic
+T6	expert_term 962 998	renin-angiotensin-aldosterone system
+T7	expert_term 1152 1173	cardiovascular system
+T8	expert_term 1575 1636	patiromer sorbitex calcium and sodium zirconium cyclosilicate
+T9	EXPLAINS 1550 1573	newer potassium-binders
+E1	EXPLAINS:T9 term:T8
+T10	EXPLAINS 1009 1083	a hormone system that manages blood pressure and fluid balance in the body
+E2	EXPLAINS:T10 term:T6
+T11	EXPLAINS 1175 1198	heart and blood vessels
+E3	EXPLAINS:T11 term:T7
+T12	EXPLAINS 414 431	coming on rapidly
+E4	EXPLAINS:T12 term:T4
+T13	EXPLAINS 447 459	long-lasting
+E5	EXPLAINS:T13 term:T5
+T14	EXPLAINS 142 192	a very important mineral (electrolyte) in the body
+E6	EXPLAINS:T14 term:T2
+T15	EXPLAINS 55 127	a condition where the potassium level in the blood is higher than normal
+E7	EXPLAINS:T15 term:T1
+T16	EXPLAINS 159 166	mineral
+E8	EXPLAINS:T16 term:T3

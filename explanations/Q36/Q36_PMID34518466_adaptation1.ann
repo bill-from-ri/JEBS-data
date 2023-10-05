@@ -1,0 +1,6 @@
+T1	expert_term 151 168	Spinal anesthesia
+T2	EXPLAINS 178 248	medicines that numbs the back of patients to reduce pain after surgery
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 264 274	urologists
+T4	EXPLAINS 276 350	doctors who specialize in conditions of the urinary or urine-related tract
+E2	EXPLAINS:T4 term:T3

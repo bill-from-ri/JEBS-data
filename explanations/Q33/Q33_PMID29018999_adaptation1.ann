@@ -1,0 +1,6 @@
+T1	EXPLAINS 446 451	mouth
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 453 459	orally
+T3	expert_term 1242 1252	creatinine
+T4	EXPLAINS 1254 1314	a waste product that comes from wear and tear of the muscles
+E2	EXPLAINS:T4 term:T3

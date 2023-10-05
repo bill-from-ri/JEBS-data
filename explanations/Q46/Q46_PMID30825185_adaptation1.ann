@@ -1,0 +1,21 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 72 218	a deadly disease inherited from both parents that is caused when the CF transmembrane conductance regulator (CFTR) protein does not work correctly
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 256 260	ions
+T4	expert_term 291 307	epithelial cells
+T5	EXPLAINS 309 366	cells that cover the outer surface of the internal organs
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 262 275	charged atoms
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 369 381	Anionophores
+T8	EXPLAINS 383 470	which are small human-made substances that move negative ions (anions) across membranes
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 446 452	anions
+T10	EXPLAINS 431 444	negative ions
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1031 1041	lumacaftor
+T12	EXPLAINS 1043 1111	corrector that helps the changed protein to move to the cell surface
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1116 1125	ivacaftor
+T14	EXPLAINS 1127 1225	potentiator that holds the gate to the channel open so chloride can flow through the cell membrane
+E7	EXPLAINS:T14 term:T13

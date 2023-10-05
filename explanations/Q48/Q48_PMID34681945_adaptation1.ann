@@ -1,0 +1,15 @@
+T1	expert_term 77 107	systematic lupus erythematosus
+T2	EXPLAINS 117 162	when your immune system attacks healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 307 319	inflammatory
+T4	EXPLAINS 321 339	infection-fighting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 526 542	interferon genes
+T6	expert_term 419 444	type I interferon pathway
+T7	EXPLAINS 446 478	a specific immune system pathway
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 544 618	genes that allow communication between cells to activate the immune system
+E4	EXPLAINS:T8 term:T5
+T9	expert_term 970 981	anifrolumab
+T10	EXPLAINS 924 968	type I interferon-blocking antibody medicine
+E5	EXPLAINS:T10 term:T9

@@ -1,0 +1,27 @@
+T1	expert_term 49 78	Sleep apnea-hypopnea syndrome
+T2	EXPLAINS 87 183	a sleep disorder of recurring episodes of partial or complete upper airway collapse during sleep
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 209 228	atrial fibrillation
+T4	EXPLAINS 235 308	a fluttery and irregular heartbeat that can lead to blood clots or stroke
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 368 387	Nocturnal hypoxemia
+T6	expert_term 455 477	pulmonary hypertension
+T7	expert_term 551 566	nocturnal death
+T8	expert_term 858 868	apnea test
+T9	expert_term 941 948	chronic
+T10	expert_term 1013 1046	bi-level positive airway pressure
+T11	expert_term 1284 1296	sinus rhythm
+T12	EXPLAINS 1298 1399	the pattern of your heartbeat based on the sinus node of your heart which sends out electrical pulses
+E3	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1056 1138	a ventilator used to maintain a consistent breathing pattern (often used at night)
+E4	EXPLAINS:T13 term:T10
+T14	EXPLAINS 930 939	recurring
+E5	EXPLAINS:T14 term:T9
+T15	EXPLAINS 870 904	monitoring of breathing and oxygen
+E6	EXPLAINS:T15 term:T8
+T16	EXPLAINS 568 613	death in sleep caused by sudden cardiac death
+E7	EXPLAINS:T16 term:T7
+T17	EXPLAINS 479 544	high blood pressure affecting the arteries in the lungs and heart
+E8	EXPLAINS:T17 term:T6
+T18	EXPLAINS 389 430	a temporary drop in oxygen while sleeping
+E9	EXPLAINS:T18 term:T5

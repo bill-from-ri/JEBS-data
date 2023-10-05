@@ -1,0 +1,12 @@
+T1	expert_term 36 63	Inborn errors of metabolism
+T2	EXPLAINS 69 144	inherited disorders in which the body cannot properly turn food into energy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 280 295	Phenylketonuria
+T4	EXPLAINS 303 341	a disorder inherited from both parents
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 631 656	phenylalanine hydroxylase
+T6	EXPLAINS 668 716	controls the L-phenylalanine hydroxylase protein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 681 708	L-phenylalanine hydroxylase
+T8	EXPLAINS 718 763	which helps convert phenylalanine into energy
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,9 @@
+T1	expert_term 29 43	Osteoarthritis
+T2	EXPLAINS 59 111	a common disease, often associated with Baker's cyst
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 99 111	Baker's cyst
+T4	EXPLAINS 113 206	which is an abnormal enlargement of the bursa (a protective fluid-filled sac) behind the knee
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 153 158	bursa
+T6	EXPLAINS 160 189	a protective fluid-filled sac
+E3	EXPLAINS:T6 term:T5

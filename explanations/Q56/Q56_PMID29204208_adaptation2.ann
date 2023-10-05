@@ -1,0 +1,6 @@
+T1	expert_term 252 275	Pallister-Hall syndrome
+T2	EXPLAINS 279 341	a rare condition associated with having extra fingers and toes
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 544 549	cleft
+T4	EXPLAINS 551 555	slit
+E2	EXPLAINS:T4 term:T3

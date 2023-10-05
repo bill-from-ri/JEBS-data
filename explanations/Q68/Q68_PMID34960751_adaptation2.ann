@@ -1,0 +1,12 @@
+T1	expert_term 87 95	COVID-19
+T2	EXPLAINS 97 119	a viral lung infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 737 748	transferrin
+T4	EXPLAINS 750 776	an iron-containing protein
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 892 926	monocyte chemoattractant protein 1
+T6	EXPLAINS 936 970	certain immune signaling molecules
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1239 1247	ferritin
+T8	EXPLAINS 1249 1272	iron-containing protein
+E4	EXPLAINS:T8 term:T7

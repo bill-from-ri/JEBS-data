@@ -1,0 +1,3 @@
+T1	expert_term 67 84	Venous leg ulcers
+T2	EXPLAINS 86 106	leg sores from veins
+E1	EXPLAINS:T2 term:T1

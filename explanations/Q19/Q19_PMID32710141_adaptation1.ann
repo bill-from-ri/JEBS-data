@@ -1,0 +1,27 @@
+T1	expert_term 146 163	dopamine agonists
+T2	expert_term 285 328	monoamine oxidase type-B (MAO-B) inhibitors
+T4	expert_term 870 884	single therapy
+T5	expert_term 948 956	outcomes
+T6	expert_term 971 1026	Unified Parkinson's Disease Rating Scale (UPDRS) scores
+T7	expert_term 1122 1144	serious adverse events
+T8	expert_term 1196 1207	withdrawals
+T9	expert_term 1475 1483	placebos
+T10	expert_term 1575 1589	single therapy
+T11	EXPLAINS 1591 1610	the only drug given
+E1	EXPLAINS:T11 term:T10
+T12	EXPLAINS 1485 1559	inactive substances that look like the drug being tested in the experiment
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1209 1252	symptoms after a person stops taking a drug
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1146 1189	unfavorable or unintended changes in health
+E4	EXPLAINS:T14 term:T7
+T15	EXPLAINS 1028 1119	rating tool used to measure the severity and progression of Parkinson's disease in patients
+E5	EXPLAINS:T15 term:T6
+T16	EXPLAINS 958 965	results
+E6	EXPLAINS:T16 term:T5
+T17	EXPLAINS 886 904	only one drug used
+E7	EXPLAINS:T17 term:T4
+T3	EXPLAINS 330 452	medications that prevent enzymes in the body from breaking down dopamine which allows more dopamine available in the brain
+E8	EXPLAINS:T3 term:T2
+T18	EXPLAINS 165 279	medication that imitates the actions of dopamine in the body to relieve symptoms related to low levels of dopamine
+E9	EXPLAINS:T18 term:T1

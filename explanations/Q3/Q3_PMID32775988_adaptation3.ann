@@ -1,0 +1,12 @@
+T1	EXPLAINS 66 79	long-standing
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 81 88	chronic
+T3	expert_term 230 242	Hyperkalemia
+T4	EXPLAINS 246 318	a condition where the potassium level in the blood is higher than normal
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 321 330	Potassium
+T6	EXPLAINS 334 370	a very important mineral in the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 693 729	renin-angiotensin-aldosterone system
+T8	EXPLAINS 740 814	a hormone system that manages blood pressure and fluid balance in the body
+E4	EXPLAINS:T8 term:T7

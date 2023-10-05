@@ -1,0 +1,12 @@
+T1	expert_term 155 163	COVID-19
+T2	EXPLAINS 165 199	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 273 289	public databases
+T4	EXAMPLE 296 333	PubMed, Europe PubMed Central, EMBASE
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 509 519	in culture
+T6	EXPLAINS 488 507	within a laboratory
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1021 1038	immunocompromised
+T8	EXPLAINS 1058 1088	with decreased immune function
+E4	EXPLAINS:T8 term:T7

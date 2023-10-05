@@ -1,0 +1,15 @@
+T1	expert_term 128 148	serumor blood folate
+T2	EXPLAINS 150 168	a specific vitamin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 191 258	methylenetetrahydrofolate reductase (MTHFR- a gene) C677T genotypes
+T4	EXPLAINS 263 324	inherited gene types for a protein involved in blood pressure
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 723 732	enalapril
+T6	expert_term 620 632	hypertensive
+T7	expert_term 1053 1061	baseline
+T8	EXPLAINS 734 766	common blood pressure medication
+E3	EXPLAINS:T8 term:T5
+T9	EXPLAINS 634 653	high blood pressure
+E4	EXPLAINS:T9 term:T6
+T10	EXPLAINS 1063 1071	starting
+E5	EXPLAINS:T10 term:T7

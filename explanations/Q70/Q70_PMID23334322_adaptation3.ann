@@ -1,0 +1,15 @@
+T1	expert_term 51 73	Pyridoxal-5'-phosphate
+T2	EXPLAINS 83 124	the active form of vitamin B6 in the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 339 349	antiquitin
+T4	EXPLAINS 351 393	a protein that appeared early in evolution
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 578 590	homocysteine
+T6	EXPLAINS 592 638	an amino acid involved in vitamin B metabolism
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 746 766	hyperhomocysteinemia
+T8	EXPLAINS 768 793	excess blood homocysteine
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1320 1336	pyridoxal kinase
+T10	EXPLAINS 1343 1378	a protein involved in producing PLP
+E5	EXPLAINS:T10 term:T9

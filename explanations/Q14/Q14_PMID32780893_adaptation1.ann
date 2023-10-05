@@ -1,0 +1,30 @@
+T1	expert_term 49 57	COVID-19
+T2	expert_term 122 131	pneumonia
+T3	expert_term 227 241	cytokine storm
+T4	expert_term 393 425	systematic inflammatory response
+T5	expert_term 589 615	oxidative stress imbalance
+T6	expert_term 749 761	antioxidants
+T7	expert_term 892 903	glutathione
+T8	expert_term 1159 1183	paracetamol intoxication
+T9	expert_term 1374 1380	orally
+T10	expert_term 1494 1507	intravenously
+T11	EXPLAINS 59 93	a viral breathing-related disorder
+E1	EXPLAINS:T11 term:T1
+T12	EXPLAINS 133 147	lung infection
+E2	EXPLAINS:T12 term:T2
+T13	EXPLAINS 243 388	an immune reaction where the body releases too many cytokines, which play a role in the body's normal immune response, into the blood too quickly
+E3	EXPLAINS:T13 term:T3
+T14	EXPLAINS 623 657	can lead to cell and tissue damage
+E4	EXPLAINS:T14 term:T5
+T15	EXPLAINS 763 832	vitamins, minerals, and other nutrients that protect and repair cells
+E5	EXPLAINS:T15 term:T6
+T16	EXPLAINS 911 960	a key antioxidant that protects tissues and cells
+E6	EXPLAINS:T16 term:T7
+T17	EXPLAINS 1185 1276	too much of a common oral medication called Acetaminophen used for pain and reducing fevers
+E7	EXPLAINS:T17 term:T8
+T18	EXPLAINS 1382 1390	by mouth
+E8	EXPLAINS:T18 term:T9
+T19	EXPLAINS 1509 1546	medication delivered through the vein
+E9	EXPLAINS:T19 term:T10
+T20	EXPLAINS 427 541	the body's natural reaction against injury and infection in which the immune system attacks the body's own tissues
+E10	EXPLAINS:T20 term:T4

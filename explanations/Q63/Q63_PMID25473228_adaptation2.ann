@@ -1,0 +1,15 @@
+T1	expert_term 92 100	alopecia
+T2	EXPLAINS 102 123	hair loss or thinning
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 544 556	chemotherapy
+T4	EXPLAINS 558 574	cancer treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 645 666	antiestrogenic agents
+T6	EXPLAINS 668 702	which influence levels of estrogen
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 694 702	estrogen
+T8	EXPLAINS 704 724	a female sex hormone
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1049 1061	chemotherapy
+T10	EXPLAINS 1063 1077	cancer therapy
+E5	EXPLAINS:T10 term:T9

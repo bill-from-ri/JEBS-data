@@ -1,0 +1,12 @@
+T1	expert_term 150 164	antihistamines
+T2	EXPLAINS 166 230	the drugs that are usually used to treat hives (itchy skin rash)
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 207 212	hives
+T4	EXPLAINS 214 229	itchy skin rash
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 527 533	ulcers
+T6	EXPLAINS 535 560	open sores in the stomach
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 942 949	placebo
+T8	EXPLAINS 951 975	did not contain any drug
+E4	EXPLAINS:T8 term:T7

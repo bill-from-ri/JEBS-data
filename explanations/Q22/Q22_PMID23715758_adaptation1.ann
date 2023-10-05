@@ -1,0 +1,9 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T2	EXPLAINS 61 176	a rare, genetic disorder associated with the development of hair follicle tumors, kidney tumors and pulmonary cysts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 161 176	pulmonary cysts
+T4	EXPLAINS 178 221	which are sacs filled with air in the lungs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 560 574	collapsed lung
+T6	EXPLAINS 576 637	when air leaks into the space between the lung and chest wall
+E3	EXPLAINS:T6 term:T5

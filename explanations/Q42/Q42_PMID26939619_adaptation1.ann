@@ -1,0 +1,9 @@
+T1	expert_term 304 326	inflammatory responses
+T2	EXPLAINS 328 377	the body's natural responses to disease or injury
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 408 438	neutrophil extracellular traps
+T4	EXPLAINS 440 490	net like structures that protect against infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 784 793	receptors
+T6	EXPLAINS 795 807	target sites
+E3	EXPLAINS:T6 term:T5

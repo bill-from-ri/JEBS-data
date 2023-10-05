@@ -1,0 +1,3 @@
+T1	expert_term 476 489	Pitting edema
+T2	EXPLAINS 491 618	a condition where excess fluid builds up in one part of the body and pressing into the swollen area leaves a pit or indentation
+E1	EXPLAINS:T2 term:T1

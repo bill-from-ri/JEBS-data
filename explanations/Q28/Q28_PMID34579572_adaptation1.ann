@@ -1,0 +1,15 @@
+T1	expert_term 50 58	COVID-19
+T2	EXPLAINS 60 94	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 571 596	convalescent-phase plasma
+T4	EXPLAINS 598 649	a specific of plasma often used to treat infections
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 678 691	Fcγ receptors
+T6	EXPLAINS 701 746	special receptors on infection-fighting cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 886 897	macrophages
+T8	EXPLAINS 899 917	a white blood cell
+E4	EXPLAINS:T8 term:T7
+T10	expert_term 1248 1256	pathways
+T9	EXPLAINS 1237 1246	receptors
+E5	EXPLAINS:T9 term:T10

@@ -1,0 +1,3 @@
+T1	expert_term 772 786	Graves disease
+T2	EXPLAINS 788 888	a disease in which infection-preventing cells attack healthy cells and lead to an overactive thyroid
+E1	EXPLAINS:T2 term:T1

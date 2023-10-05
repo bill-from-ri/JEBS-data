@@ -1,0 +1,3 @@
+T1	expert_term 205 219	anti-epileptic
+T2	EXPLAINS 189 201	anti-seizure
+E1	EXPLAINS:T2 term:T1

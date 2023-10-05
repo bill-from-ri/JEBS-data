@@ -1,0 +1,9 @@
+T2	expert_term 126 129	Cl-
+T1	EXPLAINS 116 124	chloride
+E1	EXPLAINS:T1 term:T2
+T3	expert_term 157 175	active transporter
+T4	EXPLAINS 177 206	requiring energy for movement
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 326 330	ions
+T6	EXPLAINS 332 345	charged atoms
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,9 @@
+T1	expert_term 53 65	inflammation
+T2	EXPLAINS 67 115	redness and swelling from fighting and infection
+E1	EXPLAINS:T2 term:T1
+T5	expert_term 185 193	Covid-19
+T6	EXPLAINS 195 217	a viral lung infection
+E3	EXPLAINS:T6 term:T5
+T3	expert_term 150 161	myocarditis
+T4	EXPLAINS 53 136	inflammation (redness and swelling from fighting and infection) of the heart muscle
+E2	EXPLAINS:T4 term:T3

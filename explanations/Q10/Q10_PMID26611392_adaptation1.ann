@@ -1,0 +1,12 @@
+T1	expert_term 208 224	neuropathic pain
+T2	EXPLAINS 115 197	Pain felt in the arm that is caused by damaged nerves or a weakening nervous sytem
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 490 512	spinal cord simulation
+T4	EXPLAINS 514 553	electrical treatment to the spinal cord
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 556 583	peripheral nerve simulation
+T6	EXPLAINS 585 619	electrical treatment to the nerves
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 626 670	dorsal root ganglion spinal cord stimulation
+T8	EXPLAINS 672 707	electrical treatment to spine cells
+E4	EXPLAINS:T8 term:T7

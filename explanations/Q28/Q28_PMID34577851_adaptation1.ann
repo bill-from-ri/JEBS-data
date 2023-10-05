@@ -1,0 +1,12 @@
+T1	expert_term 34 46	Mitochondria
+T2	EXPLAINS 48 72	the powerhouse of a cell
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 186 198	inflammation
+T4	EXPLAINS 200 247	redness and swelling from fighting an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 615 623	COVID-19
+T6	EXPLAINS 625 653	a viral, respiratory disease
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 986 1008	double-walled vesicles
+T8	EXPLAINS 1010 1101	a small chamber outside or within a cell, that evades detection by the host's immune system
+E4	EXPLAINS:T8 term:T7

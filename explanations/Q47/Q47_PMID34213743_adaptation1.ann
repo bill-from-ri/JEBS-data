@@ -1,0 +1,27 @@
+T1	expert_term 168 173	serum
+T2	EXPLAINS 175 180	blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 182 202	alkaline phosphatase
+T4	EXPLAINS 211 245	a protein that helps bone strength
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 691 701	pathogenic
+T6	EXPLAINS 703 710	harmful
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 735 741	benign
+T8	EXPLAINS 743 751	harmless
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 775 784	wild-type
+T10	EXPLAINS 786 792	normal
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1171 1180	tamoxifen
+T12	EXPLAINS 1182 1206	a drug for breast cancer
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1281 1300	phosphoethanolamine
+T14	EXPLAINS 1302 1343	a compound that can indicate bone disease
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1632 1644	osteoporosis
+T16	EXPLAINS 1646 1659	brittle bones
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1739 1757	hypophosphatasemia
+T18	EXPLAINS 1759 1772	low serum ALP
+E9	EXPLAINS:T18 term:T17

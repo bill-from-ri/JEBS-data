@@ -1,0 +1,3 @@
+T1	expert_term 929 942	noradrenaline
+T2	EXPLAINS 918 927	a hormone
+E1	EXPLAINS:T2 term:T1

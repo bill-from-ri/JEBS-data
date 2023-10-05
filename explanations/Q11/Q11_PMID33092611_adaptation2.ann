@@ -1,0 +1,6 @@
+T1	expert_term 99 107	pyruvate
+T2	expert_term 153 163	acetyl-CoA
+T3	EXPLAINS 165 208	another particle used for energy production
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 109 146	a particle used for energy-production
+E2	EXPLAINS:T4 term:T1

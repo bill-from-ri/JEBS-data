@@ -1,0 +1,21 @@
+T1	expert_term 90 109	atrial fibrillation
+T2	EXPLAINS 111 184	a fluttery and irregular heartbeat that can lead to blood clots or stroke
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 270 280	paroxysmal
+T4	EXPLAINS 282 362	when the heart rate returns to normal within 7 days on its own or with treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 372 382	persistent
+T6	EXPLAINS 384 403	greater than 7 days
+E3	EXPLAINS:T6 term:T5
+T9	expert_term 612 628	ventricular rate
+T10	EXPLAINS 630 640	heart rate
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1053 1072	submaximal exercise
+T12	EXPLAINS 1074 1161	any physical activity with increased intensity in which heart rate does not go above 85
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1167 1183	maximal exercise
+T14	EXPLAINS 1185 1237	physical activity increased to come close to fatigue
+E7	EXPLAINS:T14 term:T13
+T7	expert_term 49 60	Dronedarone
+T8	EXPLAINS 64 424	a new drug that can treat atrial fibrillation (a fluttery and irregular heartbeat that can lead to blood clots or stroke) or AF and is found to help control the heart rhythm and heart rate in patients with paroxysmal (when the heart rate returns to normal within 7 days on its own or with treatment) or with persistent (greater than 7 days) atrial fibrillation
+E4	EXPLAINS:T8 term:T7

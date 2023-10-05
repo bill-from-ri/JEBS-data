@@ -1,0 +1,6 @@
+T1	expert_term 367 374	placebo
+T2	EXPLAINS 376 405	a pill that contains no drugs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1060 1074	picolinic acid
+T4	EXPLAINS 1076 1117	a natural product found in many organisms
+E2	EXPLAINS:T4 term:T3

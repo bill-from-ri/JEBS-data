@@ -1,0 +1,21 @@
+T1	expert_term 79 96	Nutrition therapy
+T2	expert_term 184 213	gestational diabetes mellitus
+T3	expert_term 405 417	carbohydrate
+T4	expert_term 745 752	ketones
+T5	expert_term 1059 1078	fasting blood sugar
+T6	expert_term 1400 1409	glycaemia
+T7	expert_term 1465 1474	Ketonuria
+T8	EXPLAINS 1476 1512	high amounts of ketones in the urine
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1411 1439	concentration of blood sugar
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 1080 1138	blood sugar levels after not eating for set amount of time
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 754 822	substances that the body makes if cells don't get enough blood sugar
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 446 509	fuel for the body often found in sugary foods, pasta, and bread
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 221 286	women diagnosed with diabetes for the first time during pregnancy
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 98 153	treatment that uses food to prevent and reverse disease
+E7	EXPLAINS:T14 term:T1

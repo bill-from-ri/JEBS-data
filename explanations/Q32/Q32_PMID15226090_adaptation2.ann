@@ -1,0 +1,12 @@
+T1	expert_term 97 109	homocysteine
+T2	EXPLAINS 111 130	a specific chemical
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 222 257	methylenetetrahydrofolate reductase
+T4	EXPLAINS 267 305	a protein that transforms homocysteine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 326 346	hyperhomocysteinemia
+T6	EXPLAINS 351 384	high blood levels of homocysteine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 835 845	benazepril
+T8	EXPLAINS 847 863	an ACE inhibitor
+E4	EXPLAINS:T8 term:T7

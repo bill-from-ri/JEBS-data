@@ -1,0 +1,15 @@
+T1	expert_term 128 137	chromatin
+T2	EXPLAINS 139 251	which helps package the DNA in a compact form so it fits in the cell nucleus (chamber holding the DNA in a cell)
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 203 215	cell nucleus
+T4	EXPLAINS 217 250	chamber holding the DNA in a cell
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 585 592	encoded
+T6	EXPLAINS 594 635	given instructions on how to structure it
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 739 750	amino acids
+T8	EXPLAINS 687 727	Molecules that combine to build proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1011 1020	Mutations
+T10	EXPLAINS 1022 1029	changes
+E5	EXPLAINS:T10 term:T9

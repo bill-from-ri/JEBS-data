@@ -1,0 +1,9 @@
+T1	expert_term 125 140	pituitary gland
+T2	EXPLAINS 142 227	which regulates body functions and growth through chemical substances called hormones
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 254 273	hypothalamic tumors
+T4	EXPLAINS 275 323	noncancerous growths in the base of their brains
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 581 588	estriol
+T6	EXPLAINS 590 670	a hormone made during pregnancy that is used to measure the unborn baby's health
+E3	EXPLAINS:T6 term:T5

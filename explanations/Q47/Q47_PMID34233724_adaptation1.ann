@@ -1,0 +1,12 @@
+T1	expert_term 51 64	hypercalcemia
+T2	EXPLAINS 69 98	too high calcium blood levels
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 221 237	Hypophosphatemia
+T4	EXPLAINS 241 284	when the body has low levels of phosphorous
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 730 739	gestation
+T6	EXPLAINS 741 753	time in womb
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1283 1303	alkaline phosphatase
+T8	EXPLAINS 1311 1341	which removes phosphate groups
+E4	EXPLAINS:T8 term:T7

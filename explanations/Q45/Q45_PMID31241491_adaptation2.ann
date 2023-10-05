@@ -1,0 +1,6 @@
+T1	expert_term 93 103	nifedipine
+T2	EXPLAINS 105 162	a common vasodilator medication that widens blood vessels
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 182	pressure ulcers
+T4	EXPLAINS 192 200	bedsores
+E2	EXPLAINS:T4 term:T3

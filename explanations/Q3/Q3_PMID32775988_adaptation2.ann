@@ -1,0 +1,3 @@
+T1	EXPLAINS 880 908	new potassium-binding agents
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 910 954	patiromer and sodium zirconium cyclosilicate

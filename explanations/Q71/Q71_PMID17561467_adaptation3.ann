@@ -1,0 +1,3 @@
+T1	expert_term 87 101	achondroplasia
+T2	EXPLAINS 51 85	The most frequent type of dwarfism
+E1	EXPLAINS:T2 term:T1

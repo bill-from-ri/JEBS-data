@@ -1,0 +1,15 @@
+T1	expert_term 97 122	myalgic encephalomyelitis
+T2	EXPLAINS 166 188	long-lasting tiredness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 291 304	biosynthesize
+T4	EXPLAINS 306 312	create
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 329 339	inhibiting
+T6	EXPLAINS 341 349	blocking
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 467 481	cell membranes
+T8	EXPLAINS 483 498	cell boundaries
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 824 858	lipophilic pentacyclic triterpenes
+T10	EXPLAINS 860 885	specific fatty substances
+E5	EXPLAINS:T10 term:T9

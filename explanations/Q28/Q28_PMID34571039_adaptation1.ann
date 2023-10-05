@@ -1,0 +1,12 @@
+T1	expert_term 152 160	COVID-19
+T2	EXPLAINS 162 196	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 79 126	severe acute respiratory syndrome coronavirus 2
+T4	EXPLAINS 141 160	also known COVID-19
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 429 451	central nervous system
+T6	EXPLAINS 453 478	the brain and spinal cord
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 984 996	inflammation
+T8	EXPLAINS 998 1045	redness and swelling from fighting an infection
+E4	EXPLAINS:T8 term:T7

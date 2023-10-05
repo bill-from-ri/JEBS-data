@@ -1,0 +1,6 @@
+T1	expert_term 48 59	Blood clots
+T2	EXPLAINS 64 119	a well-known problem associated with Nephrotic Syndrome
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 101 119	Nephrotic Syndrome
+T4	EXPLAINS 126 160	a group of kidney-related symptoms
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,12 @@
+T1	expert_term 157 177	aromatase inhibitors
+T2	EXPLAINS 179 221	drugs commonly used to treat breast cancer
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 224 232	Alopecia
+T4	EXPLAINS 234 256	hair loss and thinning
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 398 419	androgenetic alopecia
+T6	EXPLAINS 421 449	common hair loss or thinning
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 482 493	anastrozole
+T8	EXPLAINS 495 537	a durg usually used to treat breast cancer
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,9 @@
+T1	expert_term 49 68	Circadian variation
+T2	EXPLAINS 70 145	a part of the natural, internal process that regulates the sleep–wake cycle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 150 169	atrial fibrillation
+T4	EXPLAINS 171 244	a fluttery and irregular heartbeat that can lead to blood clots or stroke
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 791 801	persistent
+T6	EXPLAINS 803 826	last longer than 7 days
+E3	EXPLAINS:T6 term:T5

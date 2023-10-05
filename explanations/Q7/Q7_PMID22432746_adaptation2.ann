@@ -1,0 +1,6 @@
+T1	expert_term 228 239	antibiotics
+T2	EXPLAINS 241 265	antibacterial medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 787 801	Zinc gluconate
+T4	EXPLAINS 803 823	a dietary supplement
+E2	EXPLAINS:T4 term:T3

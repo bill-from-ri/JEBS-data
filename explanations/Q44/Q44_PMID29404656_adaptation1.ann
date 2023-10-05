@@ -1,0 +1,27 @@
+T1	expert_term 81 86	Shock
+T2	EXPLAINS 100 136	life-threatening circulatory failure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 328 335	preload
+T4	expert_term 551 573	2,3-diphosphoglycerate
+T5	EXPLAINS 575 615	a chemical that controls oxygen movement
+E2	EXPLAINS:T5 term:T4
+T6	expert_term 870 881	coagulation
+T7	expert_term 901 914	hematopoietic
+T8	expert_term 1065 1077	transfusions
+T9	expert_term 1141 1152	homeostasis
+T10	expert_term 1190 1204	administration
+T11	expert_term 1233 1247	blood clothing
+T12	EXPLAINS 1249 1257	scabbing
+E3	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1206 1209	use
+E4	EXPLAINS:T13 term:T10
+T14	EXPLAINS 1154 1172	bodily equilibrium
+E5	EXPLAINS:T14 term:T9
+T15	EXPLAINS 1079 1088	transfers
+E6	EXPLAINS:T15 term:T8
+T16	EXPLAINS 337 386	volume of blood within the heart when its relaxed
+E7	EXPLAINS:T16 term:T3
+T17	EXPLAINS 916 935	blood cell creation
+E8	EXPLAINS:T17 term:T7
+T18	EXPLAINS 883 888	blood
+E9	EXPLAINS:T18 term:T6

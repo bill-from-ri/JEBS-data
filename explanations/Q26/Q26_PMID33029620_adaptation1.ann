@@ -1,0 +1,12 @@
+T1	expert_term 277 285	COVID-19
+T2	EXPLAINS 289 332	a harmful, breathing-related, viral disease
+E1	EXPLAINS:T2 term:T1
+T4	expert_term 477 487	quarantine
+T7	EXPLAINS 489 498	isolation
+E3	EXPLAINS:T7 term:T4
+T9	expert_term 837 847	contagious
+T10	EXPLAINS 849 862	easily spread
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1176 1193	immunocompromised
+T12	EXPLAINS 1195 1238	those with decreased immune system function
+E6	EXPLAINS:T12 term:T11

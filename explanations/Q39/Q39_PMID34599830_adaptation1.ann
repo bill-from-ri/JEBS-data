@@ -1,0 +1,15 @@
+T1	expert_term 80 88	mediator
+T2	EXPLAINS 90 99	regulator
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 104 152	diseases occurring with thoracic aortic aneurysm
+T4	EXAMPLE 168 183	Marfan syndrome
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 191 215	Thoracic aortic aneurysm
+T6	EXPLAINS 219 273	characterized by an abnormal bulge in the blood vessel
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 321 326	aorta
+T8	EXPLAINS 328 352	the largest human artery
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 764 777	dysregulation
+T10	EXPLAINS 782 793	dysfunction
+E5	EXPLAINS:T10 term:T9

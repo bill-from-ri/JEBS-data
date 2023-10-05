@@ -1,0 +1,9 @@
+T1	expert_term 239 247	biopsies
+T2	EXPLAINS 249 263	tissue samples
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 375 383	biopsies
+T4	EXPLAINS 385 399	tissue samples
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 940 952	prednisolone
+T6	EXPLAINS 954 988	which suppresses the immune system
+E3	EXPLAINS:T6 term:T5

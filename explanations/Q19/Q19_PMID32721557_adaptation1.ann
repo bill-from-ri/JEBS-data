@@ -1,0 +1,36 @@
+T1	expert_term 209 216	central
+T2	expert_term 245 255	peripheral
+T3	expert_term 265 277	inflammation
+T4	expert_term 424 445	dopaminergic agonists
+T5	expert_term 911 928	prospective study
+T6	expert_term 1046 1054	levodopa
+T7	expert_term 1161 1172	pramipexole
+T8	expert_term 1226 1242	pro-inflammatory
+T9	expert_term 1517 1522	Bregs
+T10	expert_term 1715 1724	monocytes
+T11	expert_term 1570 1585	tolerogenic DCs
+T12	EXPLAINS 1726 1780	molecules that produce antigens and fight inflammation
+E1	EXPLAINS:T12 term:T10
+T13	EXPLAINS 1587 1658	immune receptors and cells that direct and regulate the immune response
+E2	EXPLAINS:T13 term:T11
+T14	EXPLAINS 1244 1275	capable of causing inflammation
+E3	EXPLAINS:T14 term:T8
+T15	EXPLAINS 1174 1192	dopamine-promoting
+E4	EXPLAINS:T15 term:T7
+T16	EXPLAINS 1524 1556	a type of regulating immune cell
+E5	EXPLAINS:T16 term:T9
+T17	EXPLAINS 1056 1119	a drug that enters the brain and helps replace missing dopamine
+E6	EXPLAINS:T17 term:T6
+T18	EXPLAINS 930 1009	a study that takes a set number of subjects and follows them over a long period
+E7	EXPLAINS:T18 term:T5
+T19	EXPLAINS 447 563	a medication that imitates the actions of dopamine in the body to relieve symptoms related to low levels of dopamine
+E8	EXPLAINS:T19 term:T4
+T20	EXPLAINS 279 335	the body's natural reaction against injury and infection
+E9	EXPLAINS:T20 term:T3
+T21	EXPLAINS 257 263	nerves
+E10	EXPLAINS:T21 term:T2
+T22	EXPLAINS 218 239	brain and spinal cord
+E11	EXPLAINS:T22 term:T1
+T23	expert_term 1855 1869	tolerogenic DC
+T24	EXPLAINS 1881 1943	cells that regulate responses and may suppress immune response
+E12	EXPLAINS:T24 term:T23

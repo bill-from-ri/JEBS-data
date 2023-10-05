@@ -1,0 +1,9 @@
+T1	expert_term 56 74	Tardive dyskinesia
+T2	EXPLAINS 83 146	a common movement disorder in many people taking antipsychotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 440 497	vesicular monoamine transporter type 2 (VMAT2) inhibitors
+T4	EXPLAINS 499 525	drugs that reduce dopamine
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 527 594	a chemical messenger released when your brain is expecting a reward
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 517 525	dopamine

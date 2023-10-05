@@ -1,0 +1,18 @@
+T1	expert_term 105 121	hypophosphatasia
+T2	EXPLAINS 123 178	genetic disease that affects bone and tooth development
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 515 532	hyperphosphatemia
+T4	EXPLAINS 534 554	high serum phosphate
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 575 588	hypercalcemia
+T6	EXPLAINS 590 608	high blood calcium
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1002 1023	heterozygous mutation
+T8	EXPLAINS 1026 1079	which is a mutation only affecting one form of a gene
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1321 1326	serum
+T10	EXPLAINS 1328 1333	blood
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1671 1680	substrate
+T12	EXPLAINS 1682 1696	cell substance
+E6	EXPLAINS:T12 term:T11

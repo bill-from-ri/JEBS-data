@@ -1,0 +1,9 @@
+T1	expert_term 145 162	aortic dissection
+T2	EXPLAINS 164 211	a tear in the major blood vessel near the heart
+E1	EXPLAINS:T2 term:T1
+T4	EXPLAINS 551 576	a measure of inflammation
+E3	EXPLAINS:T4 term:T3
+T5	expert_term 1059 1069	dissection
+T6	EXPLAINS 1071 1075	tear
+E4	EXPLAINS:T6 term:T5
+T3	expert_term 531 549	C-reactive protein

@@ -1,0 +1,14 @@
+T1	expert_term 44 58	pressure ulcer
+T2	EXPLAINS 60 67	bedsore
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 72 175	a area-limited injury to the skin and neaby body parts, usually over a bone, due to unrelieved pressure
+E2	EXPLAINS:T3 term:T1
+T4	expert_term 197 206	intrinsic
+T5	EXAMPLE 214 269	limited movement, poor diet, other diseases, aging skin
+E3	EXAMPLE:T5 term:T4
+T6	expert_term 274 283	extrinsic
+T7	EXAMPLE 290 325	pressure, friction, strain, moisure
+E4	EXAMPLE:T7 term:T6
+T8	expert_term 989 1000	debridement
+T9	EXPLAINS 968 987	damaged body tissue
+E5	EXPLAINS:T9 term:T8

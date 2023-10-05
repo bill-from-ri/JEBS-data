@@ -1,0 +1,6 @@
+T1	EXPLAINS 1043 1067	inflammation of the nose
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 1069 1077	rhinitis
+T3	expert_term 1427 1442	atopic rhinitis
+T4	EXPLAINS 1413 1425	nose allergy
+E2	EXPLAINS:T4 term:T3

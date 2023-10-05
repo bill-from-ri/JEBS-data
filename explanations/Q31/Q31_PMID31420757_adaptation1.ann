@@ -1,0 +1,12 @@
+T1	expert_term 123 131	dopamine
+T2	EXPLAINS 133 200	a chemical messenger released when your brain is expecting a reward
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 209 227	tardive dyskinesia
+T4	EXPLAINS 235 254	a movement disorder
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 469 526	vesicular monoamine transporter type 2 (VMAT2) inhibitors
+T6	expert_term 546 554	dopamine
+T7	EXPLAINS 528 554	drugs that reduce dopamine
+E3	EXPLAINS:T7 term:T5
+T8	EXPLAINS 556 623	a chemical messenger released when your brain is expecting a reward
+E4	EXPLAINS:T8 term:T6

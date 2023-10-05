@@ -1,0 +1,6 @@
+T1	expert_term 697 707	fluoxetine
+T2	expert_term 2213 2224	vital signs
+T3	EXPLAINS 2226 2258	e.g. blood pressure, temperature
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 709 752	a type of antidepressant also called prozac
+E2	EXPLAINS:T4 term:T1

@@ -1,0 +1,21 @@
+T1	expert_term 54 59	edema
+T2	EXPLAINS 61 75	fluid swelling
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 258 267	geriatric
+T4	EXPLAINS 269 276	elderly
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1306 1314	varicose
+T6	EXPLAINS 1316 1333	twisted, enlarged
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1574 1594	irregular heart beat
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 1596 1615	atrial fibrillation
+T9	expert_term 1754 1774	Sedentary life style
+T10	EXPLAINS 1776 1806	no or little physical activity
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1972 1986	malnourishment
+T12	EXPLAINS 1988 2002	poor nutrition
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 2462 2473	sedentarism
+T14	EXPLAINS 2475 2485	inactivity
+E7	EXPLAINS:T14 term:T13

@@ -1,0 +1,39 @@
+T1	expert_term 84 88	oral
+T2	expert_term 109 119	prednisone
+T3	expert_term 258 275	mononuclear cells
+T4	expert_term 344 369	mixed lymphocyte reaction
+T5	expert_term 432 449	mitogen responses
+T6	expert_term 489 503	allogeneic MLR
+T7	expert_term 663 680	immunosuppressive
+T8	expert_term 807 814	T-cells
+T9	expert_term 885 894	monocytes
+T10	expert_term 1312 1349	Macrophage-enriched stimulating cells
+T11	expert_term 1568 1575	in vivo
+T12	expert_term 1680 1695	glucocorticoids
+T13	expert_term 1788 1799	suppressive
+T14	EXPLAINS 1801 1813	slowing down
+E1	EXPLAINS:T14 term:T13
+T15	EXPLAINS 1697 1763	medicines that fight inflammation and work with your immune system
+E2	EXPLAINS:T15 term:T12
+T16	EXPLAINS 1577 1620	experiments within a living human or animal
+E3	EXPLAINS:T16 term:T11
+T17	EXPLAINS 1351 1474	a type of white blood cell that surrounds and kills foreign organisms like bacteria and activates other immune system cells
+E4	EXPLAINS:T17 term:T10
+T18	EXPLAINS 896 978	an immune cell that attacks and breaks down germs and bacteria that enter the body
+E5	EXPLAINS:T18 term:T9
+T19	EXPLAINS 816 879	a type of immune cell that help protect the body from infection
+E6	EXPLAINS:T19 term:T8
+T20	EXPLAINS 682 761	drugs or medicines that lower the body's ability to reject a transplanted organ
+E7	EXPLAINS:T20 term:T7
+T21	EXPLAINS 505 611	grouping of white blood cells called lymphocytes from unrelated individuals resulting in T cell activation
+E8	EXPLAINS:T21 term:T6
+T22	EXPLAINS 451 482	to help measure immune response
+E9	EXPLAINS:T22 term:T5
+T23	EXPLAINS 377 429	the availability of non T-cells to stimulate T-cells
+E10	EXPLAINS:T23 term:T4
+T24	EXPLAINS 277 330	major cells in the body that signal the immune system
+E11	EXPLAINS:T24 term:T3
+T25	EXPLAINS 121 241	a type of man-made steroid drug that can help lower certain immune-related symptoms, including inflammation and swelling
+E12	EXPLAINS:T25 term:T2
+T26	EXPLAINS 90 98	by mouth
+E13	EXPLAINS:T26 term:T1

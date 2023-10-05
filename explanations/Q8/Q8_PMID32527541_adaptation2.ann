@@ -1,0 +1,9 @@
+T1	expert_term 33 44	Endometrial
+T2	EXPLAINS 46 56	outer womb
+E1	EXPLAINS:T2 
+T3	expert_term 167 179	progesterone
+T4	EXPLAINS 181 204	specific female hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 423 435	Perphenazine
+T6	EXPLAINS 437 454	an anti-psychotic
+E3	EXPLAINS:T6 term:T5

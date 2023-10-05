@@ -1,0 +1,12 @@
+T1	expert_term 174 180	ureter
+T2	EXPLAINS 182 240	the tube that carries urine from the kidney to the bladder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 412 424	open surgery
+T4	EXPLAINS 426 486	cutting tissues so the surgeon has a full view of the organs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 715 736	shockwave lithotripsy
+T6	EXPLAINS 738 833	where shockwaves are focused to one point in the body and used to crush kidney stones into dust
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 838 850	ureteroscopy
+T8	EXPLAINS 852 949	a procedure where a small telescope is inserted through the urethra and bladder and up the ureter
+E4	EXPLAINS:T8 term:T7

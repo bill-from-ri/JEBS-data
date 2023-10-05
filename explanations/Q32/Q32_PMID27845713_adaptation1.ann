@@ -1,0 +1,18 @@
+T1	expert_term 71 83	Hypertension
+T2	EXPLAINS 99 171	high blood pressure, is a major risk factor for heart disease and stroke
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 335 341	folate
+T4	EXPLAINS 343 359	specific vitamin
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 361 373	metabolizing
+T6	EXPLAINS 375 384	digesting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 636 646	Riboflavin
+T8	EXPLAINS 650 735	an essential co-factor, meaning it is needed for a biological process to be completed
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1013 1031	positive modulator
+T10	EXPLAINS 1033 1051	increases activity
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1671 1685	cardiovascular
+T12	EXPLAINS 1690 1703	heart-related
+E6	EXPLAINS:T12 term:T11

@@ -1,0 +1,9 @@
+T1	expert_term 187 200	antihistamine
+T2	EXPLAINS 202 214	allergy drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 258 266	ketamine
+T4	EXPLAINS 268 286	a pain relief drug
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 170 182	promethazine
+T6	EXPLAINS 184 200	an antihistamine
+E3	EXPLAINS:T6 term:T5

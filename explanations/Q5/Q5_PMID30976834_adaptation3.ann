@@ -1,0 +1,15 @@
+T1	expert_term 30 45	Popliteal cysts
+T2	EXPLAINS 69 151	abnormal enlargements of the bursa (a protective fluid-filled sac) behind the knee
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 98 103	bursa
+T4	EXPLAINS 105 134	a protective fluid-filled sac
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 954 987	removal of damaged or dead tissue
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 997 1008	debridement
+T7	expert_term 1011 1022	synovectomy
+T8	EXPLAINS 1024 1079	removal of fluid-producing tissue around the knee joint
+E4	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1085 1127	excision of the cyst valve, or entire cyst
+E5	EXPLAINS:T9 term:T10
+T10	expert_term 1129 1139	cystectomy

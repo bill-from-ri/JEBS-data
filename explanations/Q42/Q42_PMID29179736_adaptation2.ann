@@ -1,0 +1,9 @@
+T1	EXPLAINS 175 214	the core proteins that DNA wraps around
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 216 229	core histones
+T3	expert_term 697 707	eukaryotes
+T4	EXPLAINS 673 695	multi-celled organisms
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1232 1252	neofunctionalization
+T6	EXPLAINS 1210 1230	gained new functions
+E3	EXPLAINS:T6 term:T5

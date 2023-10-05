@@ -1,0 +1,9 @@
+T3	expert_term 94 133	Selective serotonin reuptake inhibitors
+T4	EXPLAINS 173 209	recent, notable antidepressant drugs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 780 791	fluvoxamine
+T6	EXPLAINS 793 815	an antidepressant SSRI
+E3	EXPLAINS:T6 term:T5
+T1	expert_term 1324 1363	selective serotonin reuptake inhibitors
+T2	EXAMPLE 1369 1394	sertraline and citalopram
+E1	EXAMPLE:T2 term:T1

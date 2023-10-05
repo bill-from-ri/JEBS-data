@@ -1,0 +1,3 @@
+T1	expert_term 171 190	antipsychotic drugs
+T2	EXAMPLE 196 208	perphenazine
+E1	EXAMPLE:T2 term:T1

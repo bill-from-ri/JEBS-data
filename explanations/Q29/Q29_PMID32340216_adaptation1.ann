@@ -1,0 +1,6 @@
+T1	expert_term 75 98	Public health practices
+T2	EXAMPLE 110 138	handwashing and vaccinations
+E1	EXAMPLE:T2 term:T1
+T3	expert_term 320 375	acute respiratory tract or breathing-related infections
+T4	EXPLAINS 277 306	Sudden infections in the lung
+E2	EXPLAINS:T4 term:T3

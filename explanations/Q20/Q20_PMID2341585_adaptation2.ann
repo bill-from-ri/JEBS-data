@@ -1,0 +1,3 @@
+T1	expert_term 184 194	fluoxetine
+T2	EXPLAINS 196 219	a common antidepressant
+E1	EXPLAINS:T2 term:T1

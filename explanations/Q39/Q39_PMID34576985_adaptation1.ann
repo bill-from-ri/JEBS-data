@@ -1,0 +1,21 @@
+T1	expert_term 184 203	physiological state
+T2	expert_term 267 276	assessing
+T3	expert_term 289 312	environmental exposures
+T4	expert_term 552 563	Metabolites
+T5	expert_term 494 506	Metabolomics
+T6	expert_term 1349 1360	prospective
+T7	EXPLAINS 1362 1368	future
+E1	EXPLAINS:T7 term:T6
+T8	EXPLAINS 568 633	small substances involved in cell metabolism or energy-production
+E2	EXPLAINS:T8 term:T4
+T9	expert_term 602 612	metabolism
+T10	EXPLAINS 616 633	energy-production
+E3	EXPLAINS:T10 term:T9
+T11	EXPLAINS 510 550	the study of metabolites within the body
+E4	EXPLAINS:T11 term:T5
+T12	EXPLAINS 317 367	things in the environment that can lead to disease
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 278 287	measuring
+E6	EXPLAINS:T13 term:T2
+T14	EXPLAINS 205 232	how the body is functioning
+E7	EXPLAINS:T14 term:T1

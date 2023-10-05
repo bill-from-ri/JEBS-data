@@ -1,0 +1,12 @@
+T1	expert_term 256 294	concomitant arterial occlusive disease
+T2	EXPLAINS 296 317	blockage of an artery
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 480 488	assessed
+T4	EXPLAINS 490 498	measured
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 626 643	ejection fraction
+T6	EXPLAINS 649 704	percentage of blood leaving the heart when it contracts
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1174 1180	venous
+T8	EXPLAINS 1182 1186	vein
+E4	EXPLAINS:T8 term:T7

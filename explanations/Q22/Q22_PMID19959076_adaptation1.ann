@@ -1,0 +1,12 @@
+T1	expert_term 34 57	Birt-Hogg-Dubé syndrome
+T3	expert_term 188 203	pulmonary cysts
+T4	EXPLAINS 204 238	which are sacs of air in the lungs
+E1	EXPLAINS:T4 term:T3
+T2	EXPLAINS 67 286	a genetic condition that is often accompanied by non-cancerous tumors in hair follicles around the face, neck and chest, pulmonary cysts which are sacs of air in the lungs, sudden collapse of the lung, and kidney cancer
+E2	EXPLAINS:T2 term:T1
+T5	EXPLAINS 337 374	a gene that helps control cell growth
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 382 386	FLCN
+T7	expert_term 550 564	collapsed lung
+T8	EXPLAINS 566 627	when air leaks into the space between the lung and chest wall
+E4	EXPLAINS:T8 term:T7

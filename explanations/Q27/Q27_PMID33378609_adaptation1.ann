@@ -1,0 +1,6 @@
+T1	expert_term 63 71	Covid-19
+T2	EXPLAINS 73 100	a viral respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 565 578	placebo group
+T4	EXPLAINS 580 632	people will be given a shot of an inactive substance
+E2	EXPLAINS:T4 term:T3

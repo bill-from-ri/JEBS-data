@@ -1,0 +1,6 @@
+T1	expert_term 200 211	Facial pain
+T2	EXPLAINS 215 299	nerve pain caused by nerves in the spinal cord and outside the spinal cord and brain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 375 399	Motor Cortex Stimulation
+T4	EXPLAINS 407 441	surgical stimulation of the nerves
+E2	EXPLAINS:T4 term:T3

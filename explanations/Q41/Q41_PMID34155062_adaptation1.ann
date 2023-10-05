@@ -1,0 +1,24 @@
+T1	expert_term 70 114	autosomal dominant polycystic kidney disease
+T2	EXPLAINS 124 188	an inherited disorder that causes cysts (growths) in the kidneys
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 158 163	cysts
+T4	EXPLAINS 165 172	growths
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 276 292	macrophage cells
+T6	EXPLAINS 294 421	a type of white blood cell that surrounds and kills microorganisms, removes dead cells, and activates other immune system cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 523 531	cytokine
+T8	EXPLAINS 533 551	chemical messenger
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 568 580	inflammatory
+T10	EXPLAINS 582 600	infection-fighting
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 800 817	nephron epithelia
+T12	EXPLAINS 749 792	a layer of outer lining cells in the kidney
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1202 1206	mRNA
+T14	EXPLAINS 1208 1259	genetic strands with instructions to build proteins
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1634 1644	antibodies
+T16	EXPLAINS 1646 1761	a protein used by the immune system to identify and neutralize foreign objects such as harmful bacteria and viruses
+E8	EXPLAINS:T16 term:T15

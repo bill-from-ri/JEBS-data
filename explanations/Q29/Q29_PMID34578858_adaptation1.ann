@@ -1,0 +1,9 @@
+T1	expert_term 120 128	Covid-19
+T2	EXPLAINS 130 164	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 204 213	pneumonia
+T4	EXPLAINS 170 196	a dangerous lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1606 1620	cytokine storm
+T6	EXPLAINS 1622 1706	when the body's immune system floods the blood stream with proteins called cytokines
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,15 @@
+T1	expert_term 102 125	islet cell autoimmunity
+T2	EXPLAINS 127 169	in which immune cells attack healthy cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 893 907	hemoglobin A1c
+T4	EXPLAINS 917 959	which indicates average blood sugar levels
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1522 1542	alanine transaminase
+T6	EXPLAINS 1544 1596	released into the blood when liver cells are damaged
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1635 1648	lipid profile
+T8	EXPLAINS 1650 1707	panel of blood tests used to find abnormalities in lipids
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1701 1707	lipids
+T10	EXAMPLE 1717 1746	cholesterol and triglycerides
+E5	EXAMPLE:T10 term:T9

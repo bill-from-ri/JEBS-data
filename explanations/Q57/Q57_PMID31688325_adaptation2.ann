@@ -1,0 +1,12 @@
+T1	expert_term 200 224	Orofacial pain syndromes
+T2	EXPLAINS 229 279	diseases known to cause pain in the face and mouth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 958 980	burning mouth syndrome
+T4	EXPLAINS 982 1035	a burning, scalding, or tingling feeling in the mouth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1041 1085	persistent idiopathic facial and dental pain
+T6	EXPLAINS 1087 1163	which is described as continuing pain in the face and teeth of unknown cause
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1332 1365	electrical signals in the muscles
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 1367 1388	electroneuromyography

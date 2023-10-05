@@ -1,0 +1,18 @@
+T1	expert_term 114 119	motor
+T2	expert_term 135 144	non-motor
+T3	expert_term 203 218	quality of life
+T4	expert_term 335 368	Levodopa-carbidopa intestinal gel
+T5	expert_term 1026 1036	caregivers
+T7	EXPLAINS 1038 1134	people who provide care to a person with short or long-term limitations due to disease or injury
+E1	EXPLAINS:T7 term:T5
+T8	EXPLAINS 379 463	a gel delivered to patients through a soft tube in the stomach to provide medication
+E2	EXPLAINS:T8 term:T4
+T10	EXPLAINS 220 332	patient's ability to enjoy normal, everyday activities including physical, social, and emotional aspects of life
+E4	EXPLAINS:T10 term:T3
+T11	EXPLAINS 146 180	unrelated to movement such as pain
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 121 129	movement
+E6	EXPLAINS:T12 term:T1
+T6	expert_term 589 619	health-related quality of life
+T9	EXPLAINS 621 666	how health impacts a person's quality of life
+E3	EXPLAINS:T9 term:T6

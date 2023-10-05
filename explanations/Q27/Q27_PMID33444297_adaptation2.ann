@@ -1,0 +1,9 @@
+T1	expert_term 135 159	coronavirus disease 2019
+T2	EXPLAINS 106 133	a breathing-related illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 639 683	Advisory Committee on Immunization Practices
+T4	EXPLAINS 692 717	a group of health experts
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1323 1334	Anaplylaxis
+T6	EXPLAINS 1338 1411	a life-threatening allergic reaction that occurs rarely after vaccination
+E3	EXPLAINS:T6 term:T5

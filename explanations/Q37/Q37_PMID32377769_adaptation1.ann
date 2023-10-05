@@ -1,0 +1,18 @@
+T1	expert_term 62 72	Pregabalin
+T2	EXPLAINS 74 113	a drug often used to treat nerve damage
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 192 206	nervous system
+T4	EXPLAINS 208 229	brain and spinal cord
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 626 634	assessed
+T6	EXPLAINS 636 644	measured
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 556 573	Neurotransmitters
+T8	EXPLAINS 578 609	chemical messengers in the body
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1097 1113	cortical neurons
+T10	EXPLAINS 1115 1143	nerve cells within the brain
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1748 1756	cortical
+T12	EXPLAINS 1758 1763	brain
+E6	EXPLAINS:T12 term:T11

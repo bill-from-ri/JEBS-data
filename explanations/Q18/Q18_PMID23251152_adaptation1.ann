@@ -1,0 +1,27 @@
+T1	expert_term 804 818	refined sugars
+T2	EXPLAINS 299 315	high blood sugar
+E1	EXPLAINS:T2 term:T3
+T3	expert_term 317 325	diabetes
+T4	EXPLAINS 820 850	processed sugars added to food
+E2	EXPLAINS:T4 term:T1
+T5	expert_term 984 993	ketonuria
+T6	EXPLAINS 995 1007	high ketones
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1000 1006	ketone
+T8	EXPLAINS 1018 1082	a chemical made in the liver that helps break down fat, in urine
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1442 1456	glycemic index
+T10	EXPLAINS 1458 1541	a rating system used to measure how much specific foods increase blood sugar levels
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1693 1700	refined
+T12	EXPLAINS 1702 1718	highly processed
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 2524 2535	prematurity
+T14	EXPLAINS 2537 2564	a baby born before 37 weeks
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 179 208	American Dietetic Association
+T16	EXPLAINS 210 261	an organization of food and nutrition professionals
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 267 287	gestational diabetes
+T18	EXPLAINS 289 399	a type of high blood sugar (diabetes) that develops during pregnancy in women who do not already have diabetes
+E9	EXPLAINS:T18 term:T17

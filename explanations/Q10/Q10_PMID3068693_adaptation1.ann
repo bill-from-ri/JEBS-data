@@ -1,0 +1,24 @@
+T1	expert_term 398 410	non-invasive
+T2	EXPLAINS 412 422	no surgery
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 496 505	infection
+T4	EXPLAINS 507 551	germs that build in the body causing illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1037 1059	Carpal tunnel syndrome
+T6	EXPLAINS 1061 1128	pain or tingling in the hand or arm caused by a pinched wrist nerve
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1282 1309	systemic rheumatic diseases
+T8	EXPLAINS 1182 1273	Diseases that can cause your immune system to attack your joints, muscles, bones and organs
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1424 1463	hypertrophic pulmonary osteoarthropathy
+T10	EXPLAINS 1465 1535	a rare disease with irritation around the bone and enlarged fingertips
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1538 1566	Reflex sympathetic dystrophy
+T12	EXPLAINS 1568 1624	a disease causing long-lasting pain in one or more limbs
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1928 1942	rheumatologist
+T14	EXPLAINS 1944 2014	doctor who treats arthritis and other joint, muscle, and bone diseases
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2022 2033	neurologist
+T16	EXPLAINS 2035 2057	brain and nerve doctor
+E8	EXPLAINS:T16 term:T15

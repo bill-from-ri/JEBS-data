@@ -1,0 +1,6 @@
+T1	expert_term 48 84	Steroid Resistant Nephrotic Syndrome
+T2	EXPLAINS 95 166	a group of kidney-related symptoms that cannot be treated with steroids
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 296 318	Calcineurin Inhibitors
+T4	EXPLAINS 257 288	Immune system suppressing drugs
+E2	EXPLAINS:T4 term:T3

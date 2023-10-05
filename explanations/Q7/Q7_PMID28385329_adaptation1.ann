@@ -1,0 +1,4 @@
+T1	expert_term 75 87	azithromycin
+T2	expert_term 98 119	benzathine penicillin
+T3	EXPLAINS 62 72	antibiotic
+E1	EXPLAINS:T3 term:T1 term2:T2

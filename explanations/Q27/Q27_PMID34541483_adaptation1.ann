@@ -1,0 +1,6 @@
+T1	expert_term 36 44	Covid-19
+T2	EXPLAINS 46 80	a breathing-related, viral disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 815 826	anaphylaxis
+T4	EXPLAINS 828 882	severe allergic reactions that may be life-threatening
+E2	EXPLAINS:T4 term:T3

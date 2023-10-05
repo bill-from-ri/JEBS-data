@@ -1,0 +1,27 @@
+T1	expert_term 727 744	Injection therapy
+T2	expert_term 896 910	Osteoarthritis
+T3	expert_term 1154 1169	hyaluronic acid
+T4	expert_term 1407 1420	ganglion cyst
+T5	expert_term 1540 1562	carpal tunnel syndrome
+T6	expert_term 1891 1903	inflammation
+T7	expert_term 2182 2186	gout
+T8	expert_term 2271 2296	De-Quervain tenosynovitis
+T9	expert_term 2431 2451	Raynaud's phenomenon
+T10	EXPLAINS 746 824	a treatment that involves inserting a needle into the skin to deliver medicine
+E1	EXPLAINS:T10 term:T1
+T11	EXPLAINS 912 967	the wearing down of flexible tissue at the end of bones
+E2	EXPLAINS:T11 term:T2
+T12	EXPLAINS 1171 1212	a natural lubricant that can relieve pain
+E3	EXPLAINS:T12 term:T3
+T13	EXPLAINS 1422 1459	a swelling or bump on the wrist joint
+E4	EXPLAINS:T13 term:T4
+T14	EXPLAINS 1564 1591	pinched nerves in the wrist
+E5	EXPLAINS:T14 term:T5
+T15	EXPLAINS 1905 1988	the body's response to injury or infection often causing swelling, pain, or redness
+E6	EXPLAINS:T15 term:T6
+T16	EXPLAINS 2188 2265	a type of arthritis that causes sudden pain or swelling, often in the big toe
+E7	EXPLAINS:T16 term:T7
+T17	EXPLAINS 2298 2330	pain in the tendons in the thumb
+E8	EXPLAINS:T17 term:T8
+T18	EXPLAINS 2453 2522	spasms caused by slow blood flow in the fingers and other extremities
+E9	EXPLAINS:T18 term:T9

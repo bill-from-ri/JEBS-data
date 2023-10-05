@@ -1,0 +1,12 @@
+T1	EXPLAINS 112 127	low blood sugar
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 141 153	hypoglycemia
+T3	expert_term 255 268	hyperglycemia
+T4	EXPLAINS 237 253	high blood sugar
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1221 1232	ventilation
+T6	EXPLAINS 1234 1243	breathing
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1255 1268	lactatic acid
+T8	EXPLAINS 1270 1298	waste build-up from exercise
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,6 @@
+T1	expert_term 115 134	Hand osteoarthritis
+T2	EXPLAINS 138 260	a common joint disease that may lead to pain, stiffness and problems in performing hand-related activities of daily living
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 642 704	the findings are difficult to interpret or are considered weak
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 620 640	low-quality evidence

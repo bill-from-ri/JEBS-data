@@ -1,0 +1,27 @@
+T1	expert_term 68 79	Sarcoidosis
+T3	expert_term 118 137	granuloma formation
+T4	EXPLAINS 141 211	the tiny growth collections of inflammation (infection-fighting) cells
+E1	EXPLAINS:T4 term:T3
+T5	expert_term 172 184	inflammation
+T6	EXPLAINS 186 204	infection-fighting
+E2	EXPLAINS:T6 term:T5
+T7	expert_term 507 514	hepatic
+T8	EXPLAINS 516 521	liver
+E3	EXPLAINS:T8 term:T7
+T9	expert_term 656 668	inflammation
+T10	EXPLAINS 670 714	redness and swelling from infection-fighting
+E4	EXPLAINS:T10 term:T9
+T11	expert_term 717 722	Serum
+T12	EXPLAINS 724 729	blood
+E5	EXPLAINS:T12 term:T11
+T13	expert_term 929 941	tuberculosis
+T14	EXPLAINS 943 967	a serious lung infection
+E6	EXPLAINS:T14 term:T13
+T15	expert_term 1080 1088	negative
+T16	EXPLAINS 1090 1102	no detection
+E7	EXPLAINS:T16 term:T15
+T17	expert_term 1245 1253	positive
+T18	EXPLAINS 1255 1267	was detected
+E8	EXPLAINS:T18 term:T17
+T2	EXPLAINS 83 137	a disease that is characterized by granuloma formation
+E9	EXPLAINS:T2 term:T1

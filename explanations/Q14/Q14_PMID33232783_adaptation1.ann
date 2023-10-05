@@ -1,0 +1,6 @@
+T1	expert_term 143 153	SARS-CoV-2
+T2	EXPLAINS 155 211	the virus leading to the respiratory disease of COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 440 452	inflammation
+T4	EXPLAINS 454 521	the body's response to infection causing swelling, pain, or redness
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,15 @@
+T1	expert_term 232 242	amino acid
+T2	EXPLAINS 244 271	building blocks of proteins
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 687 704	neurotransmitters
+T4	expert_term 732 743	cell lipids
+T5	EXPLAINS 706 729	nerve impulse chemicals
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 745 749	fats
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 1132 1144	Homocysteine
+T8	EXPLAINS 1146 1241	an amino acid that is both needed to make methionine as well as made from methionine metabolism
+E4	EXPLAINS:T8 term:T7
+T9	EXPLAINS 2035 2072	not having enough acid in the stomach
+E5	EXPLAINS:T9 term:T10
+T10	expert_term 2074 2086	achlorhydria

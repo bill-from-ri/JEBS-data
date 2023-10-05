@@ -1,0 +1,6 @@
+T1	expert_term 66 82	Covid-19 disease
+T2	EXPLAINS 84 118	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 378 385	placebo
+T4	EXPLAINS 387 421	a shot that does not have medicine
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,9 @@
+T1	expert_term 296 302	asthma
+T2	EXPLAINS 304 338	a disease that restricts breathing
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 375 395	rhino-conjunctivitis
+T4	EXPLAINS 397 431	long-lasting nose and eye problems
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 608 621	immunotherapy
+T6	EXPLAINS 623 679	treatment of disease by modifying immune system activity
+E3	EXPLAINS:T6 term:T5

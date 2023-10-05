@@ -1,0 +1,6 @@
+T1	expert_term 34 49	Littre's hernia
+T2	EXPLAINS 58 223	characterized by Meckel's diverticulum (MD; a pouch on the wall of the lower part of the small intestine present at birth) in any kind of hernia or bulging organ sac
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 75 96	Meckel's diverticulum
+T4	EXPLAINS 102 179	a pouch on the wall of the lower part of the small intestine present at birth
+E2	EXPLAINS:T4 term:T3

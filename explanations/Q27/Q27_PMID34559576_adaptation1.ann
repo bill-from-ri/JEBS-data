@@ -1,0 +1,15 @@
+T1	expert_term 48 56	Covid-19
+T2	EXPLAINS 58 92	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 227 249	ocular adverse effects
+T4	EXPLAINS 251 320	which are side effects that impact the eyes or the face near the eyes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 779 791	inflammation
+T6	EXPLAINS 793 839	redness or swelling from fighting an infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 959 974	Graves' Disease
+T8	EXPLAINS 976 1076	a condition that increases thyroid (metabolism-regulating) hormones and can impact the skin and eyes
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1003 1010	thyroid
+T10	EXPLAINS 1011 1043	(metabolism-regulating) hormones
+E5	EXPLAINS:T10 term:T9

@@ -1,0 +1,3 @@
+T1	expert_term 42 65	Wound pressure injuries
+T2	EXPLAINS 142 189	pressure ulvers, decubitus ulcers, or bed sores
+E1	EXPLAINS:T2 term:T1

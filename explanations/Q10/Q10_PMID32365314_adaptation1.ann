@@ -1,0 +1,12 @@
+T1	expert_term 300 318	nighttime orthosis
+T2	EXPLAINS 322 422	a device or brace worn at night that supports weak or damaged muscles and limits motion of the wrist
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 664 691	randomized controlled trial
+T4	EXPLAINS 693 868	a type of study that randomly assigns participants to one of two groups: the intervention group that is receiving the treatment or the comparison group not receiving treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1014 1019	nodes
+T6	EXPLAINS 990 1000	bony bumps
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 2339 2362	occupational therapists
+T8	EXPLAINS 2364 2499	people who help patients with injuries, illnesses, and disabilities build or restore their abilities to perform the daily tasks of life
+E4	EXPLAINS:T8 term:T7

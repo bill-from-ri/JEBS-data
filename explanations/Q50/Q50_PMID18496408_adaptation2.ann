@@ -1,0 +1,12 @@
+T1	expert_term 120 133	procalcitonin
+T2	EXPLAINS 135 189	a prototype molecule for a calcium-regulating molecule
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 195 213	C-reactive protein
+T4	EXPLAINS 215 239	a marker of inflammation
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 325 333	systemic
+T6	EXPLAINS 312 321	full-body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 325 364	systemic inflammatory response syndrome
+T8	EXPLAINS 373 425	an exaggerated immune response to a harmful stressor
+E4	EXPLAINS:T8 term:T7

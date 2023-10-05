@@ -1,0 +1,12 @@
+T1	expert_term 21 74	Pyruvate dehydrogenase complex deficiency or shortage
+T2	EXPLAINS 78 162	a rare disorder that can impact metabolism and lead to problems in the nervous sytem
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 275 284	ketogenic
+T4	EXPLAINS 286 303	low carb/high fat
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 499 533	magnetic resonance imagings (MRIs)
+T6	EXPLAINS 538 543	scans
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1206 1219	basal ganglia
+T8	EXPLAINS 1221 1271	a part of the brain that helps coordinate movement
+E4	EXPLAINS:T8 term:T7

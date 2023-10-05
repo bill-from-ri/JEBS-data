@@ -1,0 +1,12 @@
+T1	expert_term 363 376	transmembrane
+T2	EXPLAINS 378 397	trans-cell-boundary
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 541 552	metabolites
+T4	EXPLAINS 554 581	energy-regulating molecules
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 720 745	adenosine-5'-triphosphate
+T6	EXPLAINS 753 790	the main currency of energy in a cell
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 958 962	oral
+T8	EXPLAINS 964 972	by mouth
+E4	EXPLAINS:T8 term:T7

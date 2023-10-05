@@ -1,0 +1,15 @@
+T1	expert_term 78 83	serum
+T2	EXPLAINS 85 90	blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 366 382	hypophosphatasia
+T4	EXPLAINS 384 445	an inherited disorder that affects bone and tooth development
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 517 535	hypophosphatasemia
+T6	EXPLAINS 537 567	low serum alkaline phosphatase
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 706 718	radiographic
+T8	EXPLAINS 720 738	seen through x-ray
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1892 1899	inverse
+T10	EXPLAINS 1901 1909	opposite
+E5	EXPLAINS:T10 term:T9

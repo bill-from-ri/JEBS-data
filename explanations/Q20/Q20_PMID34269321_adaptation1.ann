@@ -1,0 +1,15 @@
+T1	expert_term 130 140	misophonia
+T2	expert_term 635 645	fluoxetine
+T3	expert_term 782 797	quality of life
+T4	expert_term 1145 1171	Amsterdam Misophonia Scale
+T5	EXPLAINS 1179 1228	a rating scale to measure how severe symptoms are
+E1	EXPLAINS:T5 term:T4
+T6	expert_term 1268 1297	global assessment scale score
+T7	EXPLAINS 1300 1350	a score that measures overall level of functioning
+E2	EXPLAINS:T7 term:T6
+T8	EXPLAINS 799 855	a patient's ability to enjoy normal, everyday activities
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 647 690	a type of antidepressant also called prozac
+E4	EXPLAINS:T9 term:T2
+T10	EXPLAINS 142 185	having a strong reaction to specific sounds
+E5	EXPLAINS:T10 term:T1

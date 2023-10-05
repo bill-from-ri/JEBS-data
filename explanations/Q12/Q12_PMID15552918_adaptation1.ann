@@ -1,0 +1,3 @@
+T1	expert_term 77 103	infrequent types of asthma
+T2	EXAMPLE 110 140	job or asprin-activated asthma
+E1	EXAMPLE:T2 term:T1

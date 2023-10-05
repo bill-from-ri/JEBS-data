@@ -1,0 +1,6 @@
+T1	expert_term 153 188	methylenetetrahydrofolate reductase
+T2	EXPLAINS 198 215	a certain protein
+E1	EXPLAINS:T2 
+T3	expert_term 283 293	riboflavin
+T4	EXPLAINS 295 328	a molecule that attaches to MTHFR
+E2	EXPLAINS:T4 

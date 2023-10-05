@@ -1,0 +1,18 @@
+T1	expert_term 205 215	amino acid
+T2	EXPLAINS 217 243	building blocks of protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 257 269	carbohydrate
+T4	expert_term 282 287	lipid
+T5	EXPLAINS 271 276	sugar
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 289 292	fat
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 329 345	neurotransmitter
+T8	EXPLAINS 347 383	chemicals involved in nerve impulses
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1333 1343	suboptimal
+T10	EXPLAINS 1313 1331	less than adequate
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1624 1636	homocysteine
+T12	EXPLAINS 1638 1648	amino acid
+E6	EXPLAINS:T12 term:T11

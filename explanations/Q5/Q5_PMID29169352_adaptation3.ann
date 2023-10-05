@@ -1,0 +1,21 @@
+T1	expert_term 42 57	Popliteal cysts
+T2	EXPLAINS 81 163	abnormal enlargements of the bursa (a protective fluid-filled sac) behind the knee
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 110 115	bursa
+T4	EXPLAINS 117 146	a protective fluid-filled sac
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 228 240	arthroscopic
+T6	EXPLAINS 242 291	minimally-invasive surgery using fine instruments
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 339 350	debridement
+T8	EXPLAINS 352 384	removing damaged and dead tissue
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 600 620	posteromedial portal
+T10	EXPLAINS 622 686	small holes, or portals, made in the middle  side of their knees
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 735 764	superior posteromedial portal
+T12	EXPLAINS 766 805	a portal above the posteromedial portal
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 638 645	portals
+T14	EXPLAINS 622 633	small holes
+E7	EXPLAINS:T14 term:T13

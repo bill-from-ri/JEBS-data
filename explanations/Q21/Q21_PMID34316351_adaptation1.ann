@@ -1,0 +1,3 @@
+T1	expert_term 32 69	Acute traumatic abdominal wall hernia
+T2	EXPLAINS 80 178	a rare type of hernia that happens when the stomach wall hits a smooth object at low or high speed
+E1	EXPLAINS:T2 term:T1

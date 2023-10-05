@@ -1,0 +1,6 @@
+T1	expert_term 1239 1246	placebo
+T2	EXPLAINS 1248 1262	sham treatment
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1478 1497	femoral nerve block
+T4	EXPLAINS 1499 1572	a type of local anesthetic applied directly to a large nerve in the thigh
+E2	EXPLAINS:T4 term:T3

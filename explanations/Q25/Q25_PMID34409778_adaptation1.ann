@@ -1,0 +1,15 @@
+T1	expert_term 120 128	COVID-19
+T2	expert_term 298 307	cytokines
+T3	expert_term 567 581	nervous system
+T4	expert_term 729 750	Monoclonal antibodies
+T5	expert_term 964 976	mavrilimumab
+T6	EXPLAINS 895 960	One type of monoclonal antibody that may help some COVID-19 cases
+E1	EXPLAINS:T6 term:T5
+T7	EXPLAINS 755 840	medicines that may block the virus that causes COVID-19 from attaching to human cells
+E2	EXPLAINS:T7 term:T4
+T8	EXPLAINS 583 617	the spinal cord, brain, and nerves
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 130 163	a viral breathing-related disease
+E4	EXPLAINS:T9 
+T10	EXPLAINS 282 290	proteins
+E5	EXPLAINS:T10 term:T2

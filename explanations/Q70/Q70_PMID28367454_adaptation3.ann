@@ -1,0 +1,6 @@
+T1	expert_term 335 343	cytokine
+T2	EXPLAINS 344 375	chemical marker of inflammation
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 706 718	T lymphocyte
+T4	EXPLAINS 720 744	type of white blood cell
+E2	EXPLAINS:T4 term:T3

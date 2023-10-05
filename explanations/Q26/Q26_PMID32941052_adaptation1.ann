@@ -1,0 +1,9 @@
+T1	expert_term 36 83	Severe acute respiratory syndrome coronavirus 2
+T2	EXPLAINS 114 163	the cause of coronavirus disease 2019 or COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 155 163	COVID-19
+T4	EXPLAINS 165 187	a viral lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1018 1025	airways
+T6	EXPLAINS 1027 1057	lungs, throat, nose, and mouth
+E3	EXPLAINS:T6 term:T5

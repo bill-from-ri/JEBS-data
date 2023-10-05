@@ -1,0 +1,12 @@
+T3	expert_term 142 176	lower respiratory tract infections
+T4	EXPLAINS 178 202	infection in the airways
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 444 455	neutrophils
+T6	EXPLAINS 457 495	white blood cells that fight infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 532 545	bronchiolitis
+T8	EXPLAINS 547 594	a common lung infection in children and infants
+E4	EXPLAINS:T8 term:T7
+T1	expert_term 30 57	Respiratory syncytial virus
+T2	EXPLAINS 67 203	a contagious virus that infects the lungs and airway tubes and can lead to lower respiratory tract infections (infection in the airways)
+E1	EXPLAINS:T2 term:T1

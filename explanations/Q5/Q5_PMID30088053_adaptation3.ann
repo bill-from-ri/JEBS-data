@@ -1,0 +1,12 @@
+T1	expert_term 109 120	arthroscopy
+T2	EXPLAINS 122 196	minimally-invasive surgery using fine instruments for removal of popliteal
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 260 265	bursa
+T4	EXPLAINS 267 296	a protective fluid-filled sac
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 571 594	figure-of-four position
+T6	EXPLAINS 596 649	lying on back with opposite leg crossed over the knee
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1041 1048	lesions
+T8	EXPLAINS 1050 1074	damaged tissue and cysts
+E4	EXPLAINS:T8 term:T7

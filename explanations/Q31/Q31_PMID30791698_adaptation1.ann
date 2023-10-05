@@ -1,0 +1,15 @@
+T1	expert_term 56 74	Tardive dyskinesia
+T2	EXPLAINS 78 187	characterized by possibly irreversible, abnormal, uncontrolled movements related to the use of antipsychotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 729 745	first-generation
+T4	expert_term 759 776	second-generation
+T5	EXPLAINS 778 783	newer
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 747 752	older
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 906 955	vesicular monoamine transporter (VMAT) inhibitors
+T8	EXPLAINS 957 983	drugs that reduce dopamine
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 975 983	dopamine
+T10	EXPLAINS 985 1052	a chemical messenger released when your brain is expecting a reward
+E5	EXPLAINS:T10 term:T9

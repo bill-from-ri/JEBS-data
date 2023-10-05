@@ -1,0 +1,24 @@
+T1	expert_term 115 124	ketonemia
+T2	expert_term 234 241	control
+T3	expert_term 318 338	gestational diabetes
+T4	expert_term 643 665	glucose tolerance test
+T5	expert_term 797 806	glycaemia
+T6	expert_term 1366 1373	Fasting
+T7	expert_term 1410 1419	ketonuria
+T8	expert_term 1562 1569	chronic
+T9	EXPLAINS 1571 1580	recurring
+E1	EXPLAINS:T9 term:T8
+T10	EXPLAINS 1421 1457	high amounts of ketones in the urine
+E2	EXPLAINS:T10 term:T7
+T11	EXPLAINS 1375 1382	no food
+E3	EXPLAINS:T11 term:T6
+T12	EXPLAINS 808 826	blood sugar levels
+E4	EXPLAINS:T12 term:T5
+T13	EXPLAINS 675 746	a test that measures how the body moves sugar from blood to the tissues
+E5	EXPLAINS:T13 term:T4
+T14	EXPLAINS 340 405	women diagnosed with diabetes for the first time during pregnancy
+E6	EXPLAINS:T14 term:T3
+T15	EXPLAINS 243 253	comparison
+E7	EXPLAINS:T15 term:T2
+T16	EXPLAINS 126 227	amount of ketones, a substance that the body makes if cells don't get enough blood sugar, in the body
+E8	EXPLAINS:T16 term:T1

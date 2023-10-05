@@ -1,0 +1,9 @@
+T1	expert_term 207 212	cysts
+T2	EXPLAINS 214 244	which are sacs of air or fluid
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 616 631	pulmonary cysts
+T4	EXPLAINS 633 674	cysts filled with air located on the lung
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1087 1095	fusiform
+T6	EXPLAINS 1097 1137	wide in the middle and taper at the ends
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,9 @@
+T1	expert_term 31 41	epilepsies
+T2	expert_term 269 288	developmental delay
+T3	expert_term 383 397	ketogenic diet
+T4	EXPLAINS 401 423	low-carb/high-fat diet
+E1	EXPLAINS:T4 term:T3
+T5	EXPLAINS 290 352	delays in reaching language, thinking, social, or motor skills
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 43 51	seizures
+E3	EXPLAINS:T6 term:T1

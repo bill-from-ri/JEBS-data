@@ -1,0 +1,6 @@
+T1	expert_term 40 63	Pallister-Hall syndrome
+T2	EXPLAINS 73 130	a rare disorder caused by changes in the gene called GLI3
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 834 849	embryonic cells
+T4	EXPLAINS 851 892	cells that forms when eggs are fertilized
+E2	EXPLAINS:T4 term:T3

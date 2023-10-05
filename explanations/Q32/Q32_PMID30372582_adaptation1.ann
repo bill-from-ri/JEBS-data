@@ -1,0 +1,33 @@
+T1	expert_term 219 229	folic acid
+T2	EXPLAINS 231 249	a specific vitamin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 254 272	arterial stiffness
+T4	EXPLAINS 274 320	hardness of arteries or specific blood vessels
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 421 462	methylenetetrahydrofolate reductase-MTHFR
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 404 419	a specific gene
+T7	expert_term 489 501	hypertension
+T8	EXPLAINS 503 522	high blood pressure
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 551 563	hypertensive
+T10	EXPLAINS 565 584	high blood pressure
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 683 692	enalapril
+T12	EXPLAINS 694 726	common blood pressure medication
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 757 791	Brachial-ankle pulse wave velocity
+T14	EXPLAINS 801 837	a measurement of  arterial stiffness
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1011 1019	baseline
+T16	EXPLAINS 1021 1037	before treatment
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1043 1047	exit
+T18	EXPLAINS 1049 1065	end of treatment
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1212 1218	folate
+T20	EXPLAINS 1220 1239	vitamin in the body
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1333 1341	genotype
+T22	EXPLAINS 1343 1382	a person's collection of specific genes
+E11	EXPLAINS:T22 term:T21

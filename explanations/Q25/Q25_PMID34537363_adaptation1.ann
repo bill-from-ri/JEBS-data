@@ -1,0 +1,6 @@
+T1	expert_term 171 179	COVID-19
+T2	expert_term 534 544	viral load
+T3	EXPLAINS 546 567	quantity of the virus
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 181 203	a viral lung infection
+E2	EXPLAINS:T4 term:T1

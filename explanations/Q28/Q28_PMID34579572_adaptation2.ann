@@ -1,0 +1,9 @@
+T1	expert_term 50 85	coronavirus disease 2019 (COVID-19)
+T2	EXPLAINS 87 114	a viral respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 146 156	antibodies
+T4	EXPLAINS 158 202	body molecules that combat foreign organisms
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 307 365	severe acute respiratory syndrome coronavirus (SARS-CoV-2)
+T6	EXPLAINS 367 388	which causes COVID-19
+E3	EXPLAINS:T6 term:T5

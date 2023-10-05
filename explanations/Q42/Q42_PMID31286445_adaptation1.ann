@@ -1,0 +1,9 @@
+T1	expert_term 249 281	post-translational modifications
+T2	EXPLAINS 181 230	Changes to the properties and make-up of proteins
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 41 49	Histones
+T4	EXPLAINS 54 179	proteins that provide structural support to a chromosome and sometimes act as the spool that the thread-like DNA wraps around
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 319 328	chromatin
+T6	EXPLAINS 330 388	a substance within a chromosome made up of DNA and protein
+E3	EXPLAINS:T6 term:T5

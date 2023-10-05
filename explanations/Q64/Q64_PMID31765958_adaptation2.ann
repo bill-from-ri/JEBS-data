@@ -1,0 +1,6 @@
+T1	expert_term 96 104	epilepsy
+T2	EXPLAINS 106 138	a brain disease causing seizures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 220 235	Dravet syndrome
+T4	EXPLAINS 242 259	lifelong epilepsy
+E2	EXPLAINS:T4 term:T3

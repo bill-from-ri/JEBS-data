@@ -1,0 +1,3 @@
+T1	expert_term 94 104	Fluoxetine
+T2	EXPLAINS 108 159	a type of antidepressant that is also called prozac
+E1	EXPLAINS:T2 term:T1

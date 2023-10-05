@@ -1,0 +1,3 @@
+T1	expert_term 48 54	SCN1 A
+T2	EXPLAINS 58 106	one of the most important epilepsy-related genes
+E1	EXPLAINS:T2 term:T1

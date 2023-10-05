@@ -1,0 +1,15 @@
+T1	expert_term 139 155	bradyarrhythmias
+T2	EXPLAINS 121 137	slow heart rates
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 183 210	the lower part of the heart
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 212 240	ventricular tachyarrhythmias
+T5	EXPLAINS 247 282	when the heart does not pump enough
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 284 315	advanced systolic heart failure
+T7	expert_term 573 577	pace
+T8	EXPLAINS 579 590	send pulses
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 721 729	chambers
+T10	EXPLAINS 714 719	parts
+E5	EXPLAINS:T10 term:T9

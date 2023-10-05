@@ -1,0 +1,6 @@
+T1	expert_term 61 71	Gabapentin
+T2	EXPLAINS 75 94	an antiseizure drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 370 382	hemodialysis
+T4	EXPLAINS 327 366	maintained on artifical kidney machines
+E2	EXPLAINS:T4 term:T3

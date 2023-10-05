@@ -1,0 +1,9 @@
+T1	expert_term 105 130	belimumab and anifrolumab
+T2	EXPLAINS 132 162	common immunosuppressive drugs
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 195 223	systemic lupus erythematosus
+T4	EXPLAINS 231 328	an inflammatory disease in which immune cells mistakely attack joints, skin, brain cells and more
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 195 203	systemic
+T6	EXPLAINS 182 191	full-body
+E3	EXPLAINS:T6 term:T5

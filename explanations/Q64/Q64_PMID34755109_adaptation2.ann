@@ -1,0 +1,9 @@
+T1	expert_term 156 166	epilepsies
+T2	EXPLAINS 168 204	a brain disorder leading to seizures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 424 448	epileptic encephalopathy
+T4	EXPLAINS 450 482	epilepsy leading to brain damage
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 679 694	Dravet syndrome
+T6	EXPLAINS 696 713	lifelong epilepsy
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,6 @@
+T1	expert_term 26 36	Pacemakers
+T2	EXPLAINS 41 117	adjustable artificial electrical pulse generators commonly to aid heart rate
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 780 819	implantable cardioverter-defibrillators
+T4	EXPLAINS 828 864	which corrects irregular heart beats
+E2	EXPLAINS:T4 term:T3

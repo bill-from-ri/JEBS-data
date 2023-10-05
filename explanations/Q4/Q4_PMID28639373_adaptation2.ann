@@ -1,0 +1,9 @@
+T1	expert_term 82 96	hemoglobin A1C
+T2	EXPLAINS 98 123	a simple blood sugar test
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 128 132	oral
+T4	EXPLAINS 134 142	by-mouth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 152 163	sensitivity
+T6	EXPLAINS 165 174	tolerance
+E3	EXPLAINS:T6 term:T5

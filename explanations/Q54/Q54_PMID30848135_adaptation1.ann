@@ -1,0 +1,6 @@
+T1	expert_term 168 196	human chorionic gonadotropin
+T2	EXPLAINS 204 223	a pregnancy hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1578 1589	correlating
+T4	EXPLAINS 1591 1598	linking
+E2	EXPLAINS:T4 term:T3

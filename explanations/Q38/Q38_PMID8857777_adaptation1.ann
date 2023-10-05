@@ -1,0 +1,12 @@
+T1	expert_term 134 149	pressure ulcers
+T2	EXPLAINS 151 161	skin sores
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 176 195	Moist wound healing
+T4	EXPLAINS 199 248	when an injury is kept damp to prevent drying out
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 938 947	incidence
+T6	EXPLAINS 949 958	frequency
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1015 1025	assessment
+T8	EXPLAINS 1027 1038	measurement
+E4	EXPLAINS:T8 term:T7

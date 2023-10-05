@@ -1,0 +1,3 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	EXPLAINS 53 73	high blood potassium
+E1	EXPLAINS:T2 term:T1

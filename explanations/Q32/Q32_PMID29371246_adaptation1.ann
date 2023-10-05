@@ -1,0 +1,21 @@
+T1	expert_term 286 296	folic acid
+T2	EXPLAINS 301 317	specific vitamin
+E1	EXPLAINS:T2 
+T3	expert_term 328 340	Homocysteine
+T4	EXPLAINS 344 395	a chemical your body produces to help make proteins
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 570 579	genotypes
+T6	EXPLAINS 581 633	a person's specific gene type for a specific protein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 648 660	blood folate
+T8	EXPLAINS 662 686	derivative of folic acid
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 974 983	enalapril
+T10	EXPLAINS 985 1017	common blood pressure medication
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1144 1152	baseline
+T12	expert_term 1172 1176	exit
+T13	EXPLAINS 1154 1166	before study
+E6	EXPLAINS:T13 term:T11
+T14	EXPLAINS 1178 1190	end of study
+E7	EXPLAINS:T14 term:T12

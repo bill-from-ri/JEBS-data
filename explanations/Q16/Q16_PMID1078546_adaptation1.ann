@@ -1,0 +1,30 @@
+T1	expert_term 151 161	prednisone
+T2	expert_term 299 320	inflammatory diseases
+T3	expert_term 391 419	Total circulating lymphocyte
+T4	expert_term 489 498	monocytes
+T5	expert_term 596 621	lymphocyte subpopulations
+T6	expert_term 949 970	major lymphocytopenia
+T7	expert_term 1085 1098	monocytopenia
+T8	expert_term 1177 1184	T-cells
+T9	expert_term 1823 1839	hypersensitivity
+T10	expert_term 2076 2087	lymphocytes
+T11	EXPLAINS 2089 2141	white blood cells that are part of the immune system
+E1	EXPLAINS:T11 term:T10
+T12	EXPLAINS 1841 1890	showing a reaction in the skin after several days
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1186 1249	a type of immune cell that help protect the body from infection
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1100 1161	a reduction of monocytes, a type of immune cell, in the blood
+E4	EXPLAINS:T14 term:T7
+T16	EXPLAINS 623 664	parts of lymphocytes or white blood cells
+E5	EXPLAINS:T16 term:T5
+T17	EXPLAINS 500 582	an immune cell that attacks and breaks down germs and bacteria that enter the body
+E6	EXPLAINS:T17 term:T4
+T18	EXPLAINS 421 473	the total number of white blood cells in body fluids
+E7	EXPLAINS:T18 term:T3
+T19	EXPLAINS 322 388	diseases in which the immune system attacks the body's own tissues
+E8	EXPLAINS:T19 term:T2
+T20	EXPLAINS 163 242	a type of steroid drug that works by lowering the activity of the immune system
+E9	EXPLAINS:T20 term:T1
+T15	EXPLAINS 972 1082	a condition where there is a lower-than-normal number of lymphocytes, a type of white blood cell, in the blood
+E10	EXPLAINS:T15 term:T6

@@ -1,0 +1,18 @@
+T1	expert_term 34 49	Senescent cells
+T2	EXPLAINS 54 114	cells that are no longer able to divide but are still active
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 368 380	inflammatory
+T4	EXPLAINS 382 400	infection-fighting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 514 522	COVID-19
+T6	EXPLAINS 524 558	a viral, breathing-related disease
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 585 593	cultured
+T8	EXPLAINS 595 613	grown within a lab
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1340 1358	pseudo-typed virus
+T10	EXPLAINS 1360 1396	a virus manipulated to not replicate
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1948 1958	senolytics
+T12	EXPLAINS 1960 1996	drugs that only kill senescent cells
+E6	EXPLAINS:T12 term:T11

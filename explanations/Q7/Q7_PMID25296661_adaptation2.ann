@@ -1,0 +1,6 @@
+T1	expert_term 617 624	pharynx
+T2	EXPLAINS 626 646	specific throat area
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 492 526	moderate-to-severe throat symptoms
+T4	EXAMPLE 528 586	sore throat pain, difficulty swallowing and swollen throat
+E2	EXAMPLE:T4 term:T3

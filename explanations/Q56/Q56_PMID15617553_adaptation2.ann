@@ -1,0 +1,6 @@
+T1	expert_term 40 63	Pallister-Hall syndrome
+T2	EXPLAINS 73 122	a rare disease caused by changes in a single gene
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 118 122	gene
+T4	EXPLAINS 124 153	the basic unit of inheritance
+E2	EXPLAINS:T4 term:T3

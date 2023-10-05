@@ -1,0 +1,12 @@
+T1	expert_term 67 92	Polycystic kidney disease
+T2	EXPLAINS 102 225	an inherited disorder of abnormal kidney cell growth and development of many fluid-filled cysts or swellings in the kidneys
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 192 197	cysts
+T4	EXPLAINS 201 210	swellings
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 302 307	Notch
+T6	EXPLAINS 277 300	a specific cell pathway
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 398 410	Quinomycin A
+T8	EXPLAINS 412 438	a specific protein segment
+E4	EXPLAINS:T8 term:T7

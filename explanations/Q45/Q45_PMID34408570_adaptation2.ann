@@ -1,0 +1,9 @@
+T1	expert_term 88 104	decubitus ulcers
+T2	EXPLAINS 106 114	bedsores
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 313 334	specialized dressings
+T4	EXAMPLE 342 358	ointments, gauze
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 801 809	paraffin
+T6	EXPLAINS 811 885	a waxy substance commonly used for coating and sealing candles and rubbers
+E3	EXPLAINS:T6 term:T5

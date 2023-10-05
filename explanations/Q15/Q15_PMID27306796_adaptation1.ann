@@ -1,0 +1,30 @@
+T1	expert_term 61 66	Renal
+T2	expert_term 137 158	potassium homeostasis
+T3	EXPLAINS 398 468	the potassium channel that is located at the base or sides of the cell
+E1	EXPLAINS:T3 term:T4
+T4	expert_term 480 491	basolateral
+T5	expert_term 675 699	distal convoluted tubule
+T7	expert_term 872 890	NaCl cotransporter
+T8	EXPLAINS 898 993	the carrier protein that helps reabsorb sodium and chloride ions from tube fluid into the cells
+E2	EXPLAINS:T8 term:T7
+T9	EXPLAINS 160 262	processes used by the body to maintain a normal potassium concentration in the fluid outside the cells
+E3	EXPLAINS:T9 term:T2
+T10	EXPLAINS 68 82	kidney-related
+E4	EXPLAINS:T10 term:T1
+T6	EXPLAINS 707 798	which connects to the duct system in the kidneys and helps with salt and water reabsorption
+E5	EXPLAINS:T6 term:T5
+T11	expert_term 1189 1209	basolateral membrane
+T12	EXPLAINS 1211 1285	the thin layer surrounding a cell located at the base or sides of the cell
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1587 1598	depolarizes
+T14	EXPLAINS 1600 1658	changes the internal charge to make the cell less negative
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1886 1907	epithelial Na channel
+T16	EXPLAINS 1909 1958	the lining of the outer part of the kidney tubule
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2064 2078	hypomagnesemia
+T18	expert_term 2140 2151	hypokalemia
+T19	EXPLAINS 2158 2181	low levels of potassium
+E9	EXPLAINS:T19 term:T18
+T20	EXPLAINS 2085 2134	a low level of the magnesium mineral in the blood
+E10	EXPLAINS:T20 term:T17

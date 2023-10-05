@@ -1,0 +1,12 @@
+T1	expert_term 225 229	ions
+T2	expert_term 260 276	epithelial cells
+T3	expert_term 173 185	CFTR protein
+T4	expert_term 392 402	ΔF508 CFTR
+T5	EXPLAINS 404 496	a specific gene sequence change seen in the CFTR gene which slightly alters the CFTR protein
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 278 335	cells that cover the outer surface of the internal organs
+E2	EXPLAINS:T6 term:T2
+T7	EXPLAINS 231 244	charged atoms
+E3	EXPLAINS:T7 term:T1
+T8	EXPLAINS 189 336	a channel involved with movement of ions (charged atoms) and fluids in epithelial cells (cells that cover the outer surface of the internal organs)
+E4	EXPLAINS:T8 term:T3

@@ -1,0 +1,6 @@
+T1	expert_term 822 843	liposomal bupivacaine
+T2	EXPLAINS 845 871	a type of local anesthetic
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 413 427	gabapentinoids
+T4	EXAMPLE 437 456	Lyrica or Neurontin
+E2	EXAMPLE:T4 term:T3

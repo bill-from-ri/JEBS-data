@@ -1,0 +1,12 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 72 209	a common life-shortening inherited condition caused by a change in the cystic fibrosis transmembrane conductance regulator (CFTR) protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 235 242	F508del
+T4	EXPLAINS 247 274	a protein processing change
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 434 450	epithelial cells
+T6	EXPLAINS 452 505	cells that cover outer surface of the internal organs
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 781 791	modulators
+T8	EXPLAINS 793 804	influencers
+E4	EXPLAINS:T8 term:T7

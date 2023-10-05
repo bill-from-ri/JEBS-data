@@ -1,0 +1,12 @@
+T1	expert_term 49 74	Natural killer (NK) cells
+T2	EXPLAINS 76 131	white blood cells that kill cells infected with a virus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 201 211	metabolism
+T4	EXPLAINS 213 255	the process that creates fuel for the body
+E2	EXPLAINS:T4 term:T3
+T6	EXPLAINS 515 546	the earliest stage of infection
+E4	EXPLAINS:T6 term:T5
+T5	expert_term 487 513	acute retroviral infection
+T7	expert_term 817 828	viral loads
+T8	EXPLAINS 830 859	quantity of virus in a person
+E3	EXPLAINS:T8 term:T7

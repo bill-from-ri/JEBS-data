@@ -1,0 +1,6 @@
+T1	expert_term 36 60	Coronavirus disease 2019
+T2	EXPLAINS 89 178	a highly contagious, viral, breathing-related disease that has caused world-wide distress
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 402 412	quarantine
+T4	EXPLAINS 414 423	isolation
+E2	EXPLAINS:T4 term:T3

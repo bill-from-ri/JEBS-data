@@ -1,0 +1,12 @@
+T1	expert_term 48 66	Sickle Cell Anemia
+T2	EXPLAINS 76 162	a genetic blood disease that causes abnormal red blood cell flow through blood vessels
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 256 273	alpha-thalassemia
+T4	EXPLAINS 275 304	another genetic blood disease
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 442 465	quantitative trait loci
+T6	EXPLAINS 471 494	special sections of DNA
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 628 649	cerebral vasculopathy
+T8	EXPLAINS 651 689	diseases of blood vessels in the brain
+E4	EXPLAINS:T8 term:T7

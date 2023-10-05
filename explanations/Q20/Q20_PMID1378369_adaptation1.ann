@@ -1,0 +1,18 @@
+T3	expert_term 227 234	placebo
+T4	EXPLAINS 236 312	a type of substance that looks like a real pill but is not the real medicine
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1076 1086	fluoxetine
+T6	EXPLAINS 1088 1131	a type of antidepressant also called prozac
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 2332 2353	personality disorders
+T8	EXAMPLE 2360 2380	anger, impulsiveness
+E4	EXAMPLE:T8 term:T7
+T9	expert_term 2386 2401	substance abuse
+T10	EXAMPLE 2408 2418	alcoholism
+E5	EXAMPLE:T10 term:T9
+T11	expert_term 2293 2299;2344 2353	eating disorders
+T12	EXAMPLE 2306 2326	anorexia and bulimia
+E6	EXAMPLE:T12 term:T11
+T1	expert_term 94 133	Selective serotonin reuptake inhibitors
+T2	EXPLAINS 146 234	a recently developed type of drugs that works better as an antidepressant than a placebo
+E1	EXPLAINS:T2 term:T1

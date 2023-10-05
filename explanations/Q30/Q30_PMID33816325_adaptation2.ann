@@ -1,0 +1,6 @@
+T1	expert_term 117 127	antibodies
+T2	EXPLAINS 129 157	which combat foreign viruses
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 162 222	severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+T4	EXPLAINS 224 271	which causes a breathing-related viral disorder
+E2	EXPLAINS:T4 term:T3

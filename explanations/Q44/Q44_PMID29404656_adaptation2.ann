@@ -1,0 +1,6 @@
+T1	expert_term 90 95	shock
+T2	EXPLAINS 109 221	life-threatening blood-flow-related failure caused by an imbalance between supply and demand of oxygen for cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 623 629	organs
+T4	EXAMPLE 637 686	kidneys, hormonal system, and blood vessel tubing
+E2	EXAMPLE:T4 term:T3

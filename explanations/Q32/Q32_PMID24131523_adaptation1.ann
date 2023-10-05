@@ -1,0 +1,18 @@
+T1	expert_term 71 106	Methylenetetrahydrofolate reductase
+T2	EXPLAINS 118 217	a critical folate (specific vitamin)-metabolizing enzyme which requires riboflavin as its co-factor
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 129 135	folate
+T4	EXPLAINS 137 153	specific vitamin
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 245 252	enzymes
+T6	EXPLAINS 254 298	catalysts for chemical reactions in the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 492 504	Homocysteine
+T8	EXPLAINS 508 559	a chemical your body produces to help make proteins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1297 1309	hypertension
+T12	EXPLAINS 1311 1329	hig blood pressure
+E6	EXPLAINS:T12 term:T9
+T10	expert_term 2086 2096	conception
+T11	EXPLAINS 2101 2114	having a baby
+E5	EXPLAINS:T11 term:T10

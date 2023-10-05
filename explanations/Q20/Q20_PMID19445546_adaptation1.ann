@@ -1,0 +1,12 @@
+T1	expert_term 107 135	generalized anxiety disorder
+T2	EXPLAINS 151 346	having more than normal and uncontrollable worry about different events and is also includes physical symptoms such as headaches, tension, restlessness, digestive problems, and a racing heartbeat
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 958 965	somatic
+T4	EXPLAINS 967 975	physical
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1528 1555	Cognitive-behavioral therap
+T6	EXPLAINS 1558 1669	which is a type of therapy that focuses on challenging negative thoughts that can worsen emotional difficulties
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1988 1998	sertraline
+T8	EXPLAINS 2000 2018	an SSRI medication
+E4	EXPLAINS:T8 term:T7

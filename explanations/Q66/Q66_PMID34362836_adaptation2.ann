@@ -1,0 +1,6 @@
+T1	expert_term 48 66	Nephrotic Syndrome
+T2	EXPLAINS 75 124	a combination of symptoms relating to the kidneys
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 508 519	proteinuria
+T4	EXPLAINS 521 550	too much protein in the urine
+E2	EXPLAINS:T4 term:T3

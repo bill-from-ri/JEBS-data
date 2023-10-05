@@ -1,0 +1,6 @@
+T1	expert_term 95 109	cephalosporins
+T2	EXPLAINS 111 136	antibacterial antibiotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 142 152	penicillin
+T4	EXPLAINS 154 172	another antibiotic
+E2	EXPLAINS:T4 term:T3

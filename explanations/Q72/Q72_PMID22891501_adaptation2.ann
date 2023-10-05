@@ -1,0 +1,6 @@
+T1	expert_term 73 107	Newborn dried blood spot screening
+T2	EXPLAINS 143 248	an essential public health service and is the largest application of genetic testing in the United States
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1340 1355	false positives
+T4	EXPLAINS 1357 1432	when the test is positive but the person does not actually have the disease
+E2	EXPLAINS:T4 term:T3

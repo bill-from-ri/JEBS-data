@@ -1,0 +1,18 @@
+T2	expert_term 150 179	gestational diabetes mellitus
+T3	expert_term 373 378	fetus
+T4	expert_term 413 438	stable blood sugar levels
+T5	expert_term 465 472	ketones
+T6	expert_term 738 751	carbohydrates
+T7	expert_term 911 934	low-glycemic index diet
+T8	EXPLAINS 936 986	a diet that helps control blood sugar from spiking
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 753 801	foods that provide sugar and energy for the body
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 474 533	alternative fuels for the body made when blood sugar is low
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 440 450	euglycemia
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 380 391	unborn baby
+E5	EXPLAINS:T12 term:T3
+T13	EXPLAINS 181 232	a type of high blood sugar affecting pregnant women
+E6	EXPLAINS:T13 term:T2

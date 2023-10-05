@@ -1,0 +1,21 @@
+T1	expert_term 38 48	lymphedema
+T2	EXPLAINS 50 126	an imbalance of a fluid called lymph causes a build up of protein-rich fluid
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 404 413	inherited
+T4	EXPLAINS 415 447	passed down from parent to child
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 464 488	Congestive heart failure
+T6	EXPLAINS 490 515	inefficient heart pumping
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 625 656	elephantiasis nostras verrucosa
+T8	EXPLAINS 671 830	a rare chronic condition caused by ongoing infections with bacteria and causes a part of the body, usually the lower part of the body, to be extremely enlarged
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1040 1047	puberty
+T10	EXPLAINS 1049 1095	when a child's body changes to become an adult
+E5	EXPLAINS:T10 term:T9
+T12	EXPLAINS 1260 1321	there was no indentation when the area of swelling is pressed
+E7	EXPLAINS:T12 term:T11
+T13	expert_term 1527 1532	ulcer
+T14	EXPLAINS 1534 1538	sore
+E8	EXPLAINS:T14 term:T13
+T11	expert_term 1241 1258	non-pitting edema

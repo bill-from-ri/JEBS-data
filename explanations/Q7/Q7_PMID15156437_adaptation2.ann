@@ -1,0 +1,9 @@
+T1	expert_term 93 107	cephalosporins
+T2	EXPLAINS 109 134	antibacterial antibiotics
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 141 151	penicillin
+T4	EXPLAINS 153 171	another antibiotic
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 186 243	group A beta -hemolytic streptococcal tonsillopharyngitis
+T6	EXPLAINS 245 273	a bacterial throat infection
+E3	EXPLAINS:T6 term:T5

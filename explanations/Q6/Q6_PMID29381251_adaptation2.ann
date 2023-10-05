@@ -1,0 +1,9 @@
+T1	expert_term 110 123	Levothyroxine
+T2	EXPLAINS 131 154	a thyroid hormonal drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 637 651	hypothyroidism
+T4	EXPLAINS 654 674	low thyroid function
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 681 709	triiodothyronine combination
+T6	EXPLAINS 732 761	thyroid hormonal drug therapy
+E3	EXPLAINS:T6 term:T5

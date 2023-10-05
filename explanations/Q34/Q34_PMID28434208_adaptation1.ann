@@ -1,0 +1,21 @@
+T1	expert_term 405 426	dietary interventions
+T2	EXPLAINS 428 482	changing diet and diet behavior to reach a health goal
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 586 594	dialysis
+T4	EXPLAINS 596 680	a process that uses a machine to clean the blood because the kidneys are not working
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 2162 2169	Adverse
+T6	EXPLAINS 2171 2194	unexpected and negative
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 2278 2301	systolic blood pressure
+T8	EXPLAINS 2303 2328	top blood pressure number
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 2334 2358	diastolic blood pressure
+T10	EXPLAINS 2360 2381	bottom blood pressure
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2663 2670	albumin
+T12	EXPLAINS 2672 2721	liver proteins that keep fluid in the bloodstream
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 2773 2776	LDL
+T14	EXPLAINS 2778 2781	bad
+E7	EXPLAINS:T14 term:T13

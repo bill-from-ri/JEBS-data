@@ -1,0 +1,12 @@
+T1	expert_term 118 129	noninvasive
+T2	EXPLAINS 131 142	nonsurgical
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 320 325	serum
+T4	EXPLAINS 327 332	blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 339 370	β-human chorionic gonadotrophin
+T6	EXPLAINS 385 405	a preganancy hormone
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 480 499	nuchal translucency
+T8	EXPLAINS 506 557	area of tissue at the back of an unborn baby's neck
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,12 @@
+T1	expert_term 64 99	Endocrine therapy-induced hair loss
+T2	EXPLAINS 109 140	hair loss from hormonal therapy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 154 174	aromatase inhibitors
+T4	EXPLAINS 176 209	drugs used to treat breast cancer
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 215 224	tamoxifen
+T6	EXPLAINS 226 257	estrogen-influencing medication
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 815 843	5-alpha reductase inhibitors
+T8	EXPLAINS 845 873	drugs for treating hair loss
+E4	EXPLAINS:T8 term:T7

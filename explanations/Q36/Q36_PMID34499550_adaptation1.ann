@@ -1,0 +1,30 @@
+T1	expert_term 151 184	Mini percutaneous nephrolithotomy
+T2	EXPLAINS 200 304	when a doctor makes a small incision in the patient and uses a small camera to help remove kidney stones
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 620 634	prone position
+T4	expert_term 570 585	supine position
+T5	EXPLAINS 552 568	flat on the back
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 590 618	on the stomach and face down
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 752 760	catheter
+T8	EXPLAINS 762 801	a clean tube that goes into the bladder
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 886 900	foley catheter
+T10	EXPLAINS 902 961	soft tube that is inserted into your bladder to drain urine
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 992 1002	ultrasound
+T12	EXPLAINS 1004 1076	a technology that uses sound waves to take images of the inside the body
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1198 1206	incision
+T14	EXPLAINS 1208 1211	cut
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1399 1410	nephroscope
+T16	EXPLAINS 1412 1433	telescope with camera
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1764 1771	ureters
+T18	EXPLAINS 1773 1834	tubes that carry urine from the kidney to the urinary bladder
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 2191 2203	ureteroscopy
+T20	EXPLAINS 2205 2307	a procedure where a small telescope is inserted through the urethra and bladder and up the ureter tube
+E10	EXPLAINS:T20 term:T19

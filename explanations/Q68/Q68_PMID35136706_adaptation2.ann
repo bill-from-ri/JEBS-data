@@ -1,0 +1,18 @@
+T1	expert_term 88 96	ferritin
+T2	EXPLAINS 98 124	an iron-containing protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 219 227	Covid-19
+T4	EXPLAINS 229 251	a viral lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 310 327	white blood cells
+T6	EXPLAINS 335 356	specific immune cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 359 377	C-reactive protein
+T8	EXPLAINS 385 409	a marker of inflammation
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 416 437	lactate dehydrogenase
+T10	EXPLAINS 444 476	an enzyme that helps make energy
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 723 735	Corona virus
+T12	EXPLAINS 737 758	which causes COVID-19
+E6	EXPLAINS:T12 term:T11

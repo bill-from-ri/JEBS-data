@@ -1,0 +1,21 @@
+T1	expert_term 114 122	ferritin
+T2	EXPLAINS 124 150	an iron-containing protein
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 189 201	inflammation
+T4	EXPLAINS 203 244	an infection-fighting process in the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 377 387	phlebotomy
+T6	EXPLAINS 389 404	vein puncturing
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 423 450	peripheral arterial disease
+T8	EXPLAINS 452 482	blockage of veins to the blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 682 703	necrosis factor-alpha
+T10	EXPLAINS 705 731	immune signaling molecules
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 755 773	C-reactive protein
+T12	EXPLAINS 775 799	a marker of inflammation
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1088 1108	SARS-CoV-2 infection
+T14	EXPLAINS 1110 1155	infection from a virus causing a lung disease
+E7	EXPLAINS:T14 term:T13

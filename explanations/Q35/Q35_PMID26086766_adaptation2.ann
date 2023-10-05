@@ -1,0 +1,12 @@
+T1	expert_term 74 86	osteoporosis
+T2	EXPLAINS 91 105	bone weakening
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 233 248	mineral density
+T4	EXPLAINS 258 266	hardness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 855 866	sensitivity
+T6	expert_term 919 930	specificity
+T7	EXPLAINS 868 913	accuracy of detecting people with the disease
+E3	EXPLAINS:T7 term:T5
+T8	EXPLAINS 932 981	accuracy of detecting  people without the disease
+E4	EXPLAINS:T8 term:T6

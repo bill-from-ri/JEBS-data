@@ -1,0 +1,18 @@
+T1	expert_term 126 134	COVID-19
+T2	EXPLAINS 138 172	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 174 185	Tocilizumab
+T4	EXPLAINS 187 230	a type of drug called monoclonal antibodies
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 334 355	Monoclonal antibodies
+T6	EXPLAINS 360 445	medicines that may block the virus that causes COVID-19 from attaching to human cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1253 1255	IV
+T8	EXPLAINS 1257 1299	medicine is delivered in a vein in the arm
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1123 1135	inflammation
+T10	EXPLAINS 1137 1184	redness and swelling from fighting an infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2452 2461	intubated
+T12	EXPLAINS 2463 2533	a tube is inserted through the nose or throat to help a person breathe
+E6	EXPLAINS:T12 term:T11

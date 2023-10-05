@@ -1,0 +1,24 @@
+T1	expert_term 119 146	pediatric medical societies
+T2	EXPLAINS 148 253	which are groups that represent medical professionals that focus on pediatric or child-concerned medicine
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 358 363	cysts
+T4	EXPLAINS 365 372	growths
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 449 456	abdomen
+T6	EXPLAINS 440 447	stomach
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 826 840	amniotic fluid
+T8	EXPLAINS 842 887	the fluid that surrounds the baby in the womb
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1589 1634	autosomal recessive polycystic kidney disease
+T10	EXPLAINS 1637 1675	an inherited kidney disease with cysts
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1678 1694	nephronophthisis
+T12	EXPLAINS 1696 1711	kidney scarring
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1718 1739	Bardet-Biedl syndrome
+T14	EXPLAINS 1741 1771	a full-body, inherited disease
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1907 1933	tuberous sclerosis complex
+T16	EXPLAINS 1941 2009	a rare disease that leads to noncancerous tumors forming in the body
+E8	EXPLAINS:T16 term:T15

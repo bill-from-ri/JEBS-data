@@ -1,0 +1,6 @@
+T1	expert_term 71 99	Human chorionic gonadotropin
+T2	EXPLAINS 109 128	a pregnancy hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 584 589	Serum
+T4	EXPLAINS 591 596	blood
+E2	EXPLAINS:T4 term:T3

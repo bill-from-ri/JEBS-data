@@ -1,0 +1,3 @@
+T1	expert_term 102 114	glioblastoma
+T2	EXPLAINS 116 138	a type of brain cancer
+E1	EXPLAINS:T2 term:T1

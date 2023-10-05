@@ -1,0 +1,30 @@
+T1	expert_term 44 58	pressure ulcer
+T2	EXPLAINS 62 176	an injury to the skin or underlying tissue, usually over a bony portion of the body, caused by unrelieved pressure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 259 268	intrinsic
+T4	expert_term 291 300	extrinsic
+T5	EXPLAINS 270 286	internal factors
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 302 318	external factors
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 457 462	shear
+T8	EXPLAINS 464 478	vertical force
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 846 855	assessing
+T10	EXPLAINS 857 866	measuring
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1119 1131	sinus tracts
+T12	EXPLAINS 1133 1153	channels in the skin
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1603 1613	Mechanical
+T14	expert_term 1625 1634	enzymatic
+T15	expert_term 1658 1679	autolytic debridement
+T16	EXPLAINS 1681 1710	body's natural defense system
+E7	EXPLAINS:T16 term:T15
+T17	EXPLAINS 1636 1651	chemical agents
+E8	EXPLAINS:T17 term:T14
+T18	EXPLAINS 1615 1622	surgery
+E9	EXPLAINS:T18 term:T13
+T19	expert_term 1786 1792	saline
+T20	EXPLAINS 1794 1804	salt water
+E10	EXPLAINS:T20 term:T19

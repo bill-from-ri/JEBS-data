@@ -1,0 +1,6 @@
+T1	expert_term 216 228	hypoglycemia
+T2	EXPLAINS 230 250	very low blood sugar
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 318 331	hyperglycemia
+T4	EXPLAINS 333 349	high blood sugar
+E2	EXPLAINS:T4 term:T3

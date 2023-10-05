@@ -1,0 +1,18 @@
+T1	expert_term 69 79	arrhythmia
+T2	expert_term 106 119	beta-blockers
+T3	expert_term 246 281	drugs with an antiarrhythmic effect
+T4	expert_term 368 388	sympathetic activity
+T5	expert_term 628 635	diurnal
+T6	expert_term 653 683	paroxysmal atrial fibrillation
+T11	EXPLAINS 637 651	during the day
+E3	EXPLAINS:T11 term:T5
+T12	EXPLAINS 685 774	an irregular heart rate that returns to normal within 7 days on its own or with treatment
+E4	EXPLAINS:T12 term:T6
+T13	EXPLAINS 390 489	the part of the nervous system that increases heart rate, blood pressure, and other heart functions
+E5	EXPLAINS:T13 term:T4
+T14	EXPLAINS 283 340	drugs that slow down the electrical impulses of the heart
+E6	EXPLAINS:T14 term:T3
+T15	EXPLAINS 121 159	medications that reduce blood pressure
+E7	EXPLAINS:T15 term:T2
+T16	EXPLAINS 81 103	an irregular heartbeat
+E8	EXPLAINS:T16 term:T1

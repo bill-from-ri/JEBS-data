@@ -1,0 +1,3 @@
+T1	expert_term 48 66	Nephrotic Syndrome
+T2	EXPLAINS 75 125	one of the most common kidney diseases in children
+E1	EXPLAINS:T2 term:T1

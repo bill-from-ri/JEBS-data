@@ -1,0 +1,18 @@
+T1	expert_term 74 101	anti-viral immune responses
+T2	EXPLAINS 106 164	the response their body creates when infected with a virus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 215 223	cytokine
+T4	EXPLAINS 231 307	proteins that control activity of immune and blood cells that flood the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 679 686	T cells
+T6	EXPLAINS 688 709	an immune system cell
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 815 835	neutrophil expansion
+T8	EXPLAINS 840 872	the suppression of immune system
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1016 1027	neutrophils
+T10	EXPLAINS 1029 1075	cells that sweep humans for signs of infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1273 1281	COVID-19
+T12	EXPLAINS 1283 1318	a viral, breathing-related disorder
+E6	EXPLAINS:T12 term:T11

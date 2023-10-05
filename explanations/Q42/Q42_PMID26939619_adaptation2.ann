@@ -1,0 +1,9 @@
+T1	expert_term 41 49	Histones
+T2	EXPLAINS 54 104	proteins that bind to and influence DNA expression
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 602 608	sepsis
+T4	EXPLAINS 610 676	life-threatening self-attack from immune cells due to an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 692 706	blood platelet
+T6	EXPLAINS 708 735	which help make blood clots
+E3	EXPLAINS:T6 term:T5

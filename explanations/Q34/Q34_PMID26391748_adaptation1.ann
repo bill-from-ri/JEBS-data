@@ -1,0 +1,21 @@
+T1	expert_term 191 200	diagnosis
+T2	EXPLAINS 179 189	assessment
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 307 333	glomerular filtration rate
+T4	EXPLAINS 335 393	a blood test that checks how well your kidneys are working
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 616 626	creatinine
+T6	EXPLAINS 628 684	a waste product from the normal wear and tear on muscles
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 712 719	albumin
+T8	EXPLAINS 721 736	a blood protein
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1303 1313	hemoglobin
+T10	EXPLAINS 1322 1337	red blood cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1726 1737	albuminuria
+T12	EXPLAINS 1739 1764	too much protein in urine
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1771 1790	acute kidney injury
+T14	EXPLAINS 1792 1826	a sudden episode of kidney failure
+E7	EXPLAINS:T14 term:T13

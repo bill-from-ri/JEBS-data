@@ -1,0 +1,3 @@
+T1	expert_term 52 103	cystic fibrosis transmembrane conductance regulator
+T2	EXPLAINS 114 201	a chloride transporter that apparently has evolved from an ancestral active transporter
+E1	EXPLAINS:T2 term:T1

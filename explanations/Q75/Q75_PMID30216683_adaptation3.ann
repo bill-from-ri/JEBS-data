@@ -1,0 +1,9 @@
+T1	expert_term 48 64	Fetal hemoglobin
+T2	EXPLAINS 74 143	an important protein that affects the severity of Sickle Cell Disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 192 215	quantitative trail loci
+T4	EXPLAINS 221 244	special sections of DNA
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 836 856	lactic dehydrogenase
+T6	EXPLAINS 858 886	an enzyme from tissue damage
+E3	EXPLAINS:T6 term:T5

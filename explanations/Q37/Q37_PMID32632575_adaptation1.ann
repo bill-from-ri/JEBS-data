@@ -1,0 +1,12 @@
+T1	expert_term 62 75	Herpes zoster
+T2	EXPLAINS 79 117	an acute, painful, herpes skin disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 189 199	meningitis
+T4	EXPLAINS 203 244	inflammation of the brain and spinal cord
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 450 464	nervous system
+T6	EXPLAINS 466 487	brain and spinal cord
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 392 405	neurotoxicity
+T8	EXPLAINS 409 464	alteration of the normal acitivty of the nervous system
+E4	EXPLAINS:T8 term:T7

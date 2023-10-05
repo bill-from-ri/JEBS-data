@@ -1,0 +1,9 @@
+T1	expert_term 97 118	islet cell antibodies
+T2	EXPLAINS 125 170	proteins made against insulin-producing cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 596 600	oral
+T4	EXPLAINS 602 610	by mouth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 762 769	ketones
+T6	EXPLAINS 743 754	blood acids
+E3	EXPLAINS:T6 term:T5

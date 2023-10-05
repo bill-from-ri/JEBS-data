@@ -1,0 +1,27 @@
+T1	expert_term 522 529	glucose
+T2	EXPLAINS 531 545	a simple sugar
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 591 610	glycated hemoglobin
+T4	EXPLAINS 618 665	an iron-rich protein in blood joined to a sugar
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1014 1034	diabetic retinopathy
+T6	expert_term 934 942	glycemic
+T7	EXPLAINS 944 955	blood sugar
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 1036 1058	eye-affecting diabetes
+E4	EXPLAINS:T8 term:T5
+T9	expert_term 1398 1401	A1c
+T10	EXPLAINS 1403 1428	another test for diabetes
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1325 1327	PG
+T12	EXPLAINS 1329 1362	a type of blood sugar measurement
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1598 1601	FPG
+T14	EXPLAINS 1603 1618	a diabetes test
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1651 1655	OGTT
+T16	EXPLAINS 1657 1672	a diabetes test
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2173 2186	hyperglycemia
+T18	EXPLAINS 2188 2204	high blood sugar
+E9	EXPLAINS:T18 term:T17

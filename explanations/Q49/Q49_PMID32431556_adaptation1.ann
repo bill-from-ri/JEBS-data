@@ -1,0 +1,12 @@
+T1	expert_term 35 55	May-Thurner syndrome
+T2	EXPLAINS 65 202	a clinical condition where the left iliac vein located in the abdomen that goes into the left leg is compressed by the right iliac artery
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 184 202	right iliac artery
+T4	EXPLAINS 203 247	which is a vein that goes into the right leg
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 314 336	deep venous thrombosis
+T6	EXPLAINS 344 400	a serious condition where a blood clot forms in the vein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 611 624	pitting edema
+T8	EXPLAINS 641 768	a condition where excess fluid builds up in one part of the body and pressing into the swollen area leaves a pit or indentation
+E4	EXPLAINS:T8 term:T7

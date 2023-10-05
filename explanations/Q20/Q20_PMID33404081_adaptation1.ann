@@ -1,0 +1,9 @@
+T1	EXPLAINS 178 208	the amount of a medicine given
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 210 214	dose
+T3	expert_term 1346 1367	maximum efficacy dose
+T4	EXPLAINS 1369 1437	the dose where an increased dose given would not lead to improvement
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 266 305	selective serotonin reuptake inhibitors
+T6	EXPLAINS 234 258	a type of antidepressant
+E3	EXPLAINS:T6 term:T5

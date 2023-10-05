@@ -1,0 +1,27 @@
+T1	expert_term 44 60	Hypophosphatasia
+T2	EXPLAINS 70 120	a disease caused by mutations within the gene ALPL
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 213 233	alkaline phosphatase
+T4	EXPLAINS 241 275	an enzyme that helps bone strength
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 574 582	variants
+T6	EXPLAINS 584 594	gene types
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 740 749	endocrine
+T8	EXPLAINS 751 759	hormonal
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 786 804	hypophosphatasemia
+T10	EXPLAINS 806 832	low body phosphorus levels
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1422 1430	missense
+T12	EXPLAINS 1432 1444	gene-altered
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1633 1641	negative
+T14	EXPLAINS 1643 1655	no-detection
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2113 2128	bisphosphonates
+T16	EXPLAINS 2130 2155	drugs that slow bone loss
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2543 2555	osteoporosis
+T18	EXPLAINS 2557 2570	brittle bones
+E9	EXPLAINS:T18 term:T17

@@ -1,0 +1,18 @@
+T1	expert_term 221 229	COVID-19
+T2	EXPLAINS 231 265	a viral, breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 395 407	inflammation
+T4	EXPLAINS 409 456	redness and swelling from fighting an infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 588 602	virus proteins
+T6	EXPLAINS 604 658	small molecules within the virus that help it function
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 965 976	Simvastatin
+T8	EXPLAINS 929 954	a prescription medication
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1322 1339	clinical research
+T10	EXPLAINS 1341 1365	research within patients
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2805 2816	simvastatin
+T12	EXPLAINS 2818 2851	an FDA-approved fat-lowering drug
+E6	EXPLAINS:T12 term:T11

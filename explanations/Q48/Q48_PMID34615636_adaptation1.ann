@@ -1,0 +1,12 @@
+T1	expert_term 175 190	lupus nephritis
+T2	EXPLAINS 192 224	a kidney disease caused by lupus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 219 224	lupus
+T4	EXPLAINS 226 271	when your immune system attacks healthy cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 457 464	placebo
+T6	EXPLAINS 466 511	inactive substance that looks like a medicine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1382 1390	infusion
+T8	EXPLAINS 1392 1401	injection
+E4	EXPLAINS:T8 term:T7

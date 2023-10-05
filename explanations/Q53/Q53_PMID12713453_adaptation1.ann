@@ -1,0 +1,6 @@
+T1	expert_term 725 733	controls
+T2	EXPLAINS 735 751	comparison group
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 799 806	fasting
+T4	EXPLAINS 808 815	no food
+E2	EXPLAINS:T4 term:T3

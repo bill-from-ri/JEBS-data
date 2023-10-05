@@ -1,0 +1,18 @@
+T1	expert_term 80 87	Ectopic
+T2	EXPLAINS 89 115	outer-uterus or outer-womb
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 162 170	Beta hCG
+T4	EXPLAINS 172 191	a pregnancy hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1012 1018	titers
+T6	EXPLAINS 1020 1033	concentration
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1303 1320	contraindications
+T8	EXPLAINS 1322 1355	unable to take certain treatments
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1521 1531	modalities
+T10	EXPLAINS 1533 1543	treatments
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1638 1644	serial
+T12	EXPLAINS 1646 1654	multiple
+E6	EXPLAINS:T12 term:T11

@@ -1,0 +1,27 @@
+T1	expert_term 104 115	nephrogenic
+T2	EXPLAINS 117 131	kidney-related
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 187 197	polydipsia
+T4	expert_term 133 151	diabetes insipidus
+T5	EXPLAINS 153 173	constantly-urinating
+E2	EXPLAINS:T5 term:T4
+T6	expert_term 28 56	Polyuria-polydipsia syndrome
+T7	EXPLAINS 199 211	great thirst
+E3	EXPLAINS:T7 term:T3
+T8	EXPLAINS 57 212	consists of the three main effects: central or nephrogenic (kidney-related) diabetes insipidus (constantly-urinating) and primary polydipsia (great thirst)
+E4	EXPLAINS:T8 term:T6
+T9	expert_term 610 630	arginine vasopressin
+T10	EXPLAINS 632 657	blood vessel constriction
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 759 767	copeptin
+T12	EXPLAINS 769 785	specific protein
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1016 1026	hypertonic
+T14	EXPLAINS 1028 1038	very salty
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1337 1354	arginine infusion
+T16	EXPLAINS 1356 1384	adding a specific protein in
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1777 1790	sellar region
+T18	EXPLAINS 1792 1811	an area of the head
+E9	EXPLAINS:T18 term:T17

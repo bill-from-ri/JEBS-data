@@ -1,0 +1,12 @@
+T1	expert_term 41 56	Linker histones
+T2	EXPLAINS 61 225	proteins that play a major role in organizing DNA and proteins to create the nucleus (chamber holding the DNA) inside cells and how instructions from genes are used
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 138 145	nucleus
+T4	EXPLAINS 147 170	chamber holding the DNA
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 501 508	binding
+T6	EXPLAINS 510 519	attaching
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 528 538	nucleosome
+T8	EXPLAINS 540 598	a section of DNA that is wrapped around a core of proteins
+E4	EXPLAINS:T8 term:T7

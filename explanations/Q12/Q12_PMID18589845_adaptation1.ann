@@ -1,0 +1,21 @@
+T1	expert_term 30 36	Asthma
+T2	EXPLAINS 38 123	which usually begins in childhood and is the most common chronic disease of childhood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 400 421	environmental factors
+T4	EXAMPLE 431 464	food, pollutants, and temperature
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 520 536	biologic factors
+T6	EXAMPLE 546 607	brain chemistry, genes, nutrition, gender, and hormone levels
+E3	EXAMPLE:T6 term:T5
+T7	expert_term 620 638	sociologic factors
+T8	EXAMPLE 648 679	education and economic activity
+E4	EXAMPLE:T8 term:T7
+T9	expert_term 786 794	allergen
+T10	EXPLAINS 796 842	any substance that causes an allergic reaction
+E5	EXPLAINS:T10 
+T11	expert_term 1227 1239	inflammatory
+T12	EXPLAINS 1241 1287	when the body reacts to an injury or infection
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1293 1312	autoimmune diseases
+T14	EXPLAINS 1314 1350	where the body attacks healthy cells
+E7	EXPLAINS:T14 term:T13

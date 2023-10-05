@@ -1,0 +1,3 @@
+T1	expert_term 472 487	Quinine sulfate
+T2	EXPLAINS 489 509	an antimalarial drug
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,6 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	expert_term 129 138	Potassium
+T3	EXPLAINS 142 178	a very important mineral in the body
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 55 127	a condition where the potassium level in the blood is higher than normal
+E2	EXPLAINS:T4 term:T1

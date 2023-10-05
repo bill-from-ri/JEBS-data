@@ -1,0 +1,9 @@
+T1	expert_term 124 129	cysts
+T2	expert_term 144 175	clear cell renal cell carcinoma
+T3	expert_term 646 690	phosphatidylinositol-3-kinase (PI3K) pathway
+T4	EXPLAINS 692 727	which regulates key cells processes
+E1	EXPLAINS:T4 term:T3
+T5	EXPLAINS 185 208	a type of kidney cancer
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 131 138	growths
+E3	EXPLAINS:T6 term:T1

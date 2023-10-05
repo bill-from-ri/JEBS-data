@@ -1,0 +1,24 @@
+T1	expert_term 25 55	pyruvate dehydrogenase complex
+T2	expert_term 304 326	central nervous system
+T3	expert_term 398 409	biochemical
+T4	expert_term 664 674	PDHA1 gene
+T5	expert_term 893 897	PDHX
+T7	expert_term 1183 1198	pyruvate plasma
+T8	expert_term 1307 1326	developmental delay
+T9	expert_term 1539 1553	ketogenic diet
+T12	EXPLAINS 1555 1577	low-carb/high-fat diet
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 1328 1394	delays or slowness in reaching language, thinking, or motor skills
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1200 1284	a molecule that helps change sugar in the blood to energy when oxygen levels are low
+E4	EXPLAINS:T14 term:T7
+T16	EXPLAINS 908 962	another gene that helps encode a building block of PDC
+E6	EXPLAINS:T16 term:T5
+T17	EXPLAINS 676 724	a gene that helps encode a building block of PDC
+E7	EXPLAINS:T17 term:T4
+T18	EXPLAINS 411 453	the chemical processes in living organisms
+E8	EXPLAINS:T18 term:T3
+T19	EXPLAINS 328 353	the spinal cord and brain
+E9	EXPLAINS:T19 term:T2
+T20	EXPLAINS 65 173	a chemical process in the body that converts molecules and links cells to the final stage of creating energy
+E10	EXPLAINS:T20 term:T1

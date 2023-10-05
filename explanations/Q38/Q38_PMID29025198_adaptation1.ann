@@ -1,0 +1,39 @@
+T1	expert_term 42 57	Pressure ulcers
+T2	EXPLAINS 59 178	also known as pressure injuries and bed sores, are localized areas of injury to the skin or underlying tissues, or both
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 425 430	suite
+T4	EXPLAINS 432 437	group
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 451 458	Reviews
+T6	EXPLAINS 460 479	scientific articles
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 635 641	assess
+T8	EXPLAINS 643 650	measure
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1272 1283	imprecision
+T10	EXPLAINS 1285 1310	low confidence in results
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1319 1337	small sample sizes
+T12	EXPLAINS 1339 1363	small participant groups
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1783 1792	incidence
+T14	EXPLAINS 1794 1803	frequency
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2046 2058	hydrocolloid
+T16	EXPLAINS 2060 2071	gel-forming
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 2108 2118	short-term
+T18	EXPLAINS 2087 2106	eight weeks or less
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 2904 2915	probability
+T20	EXPLAINS 2917 2927	likelihood
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 3962 3972	recurrence
+T22	EXPLAINS 3974 3985	reappearing
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 3232 3242	short-term
+T24	EXPLAINS 3244 3259	8 weeks or less
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 3264 3275	medium-term
+T26	EXPLAINS 3277 3290	8 to 24 weeks
+E13	EXPLAINS:T26 term:T25

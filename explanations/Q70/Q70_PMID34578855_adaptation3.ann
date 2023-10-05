@@ -1,0 +1,12 @@
+T1	expert_term 141 150	mortality
+T2	EXPLAINS 152 162	death rate
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 708 717	deficient
+T4	expert_term 732 744	insufficient
+T5	expert_term 756 766	sufficient
+T6	EXPLAINS 719 729	not enough
+E2	EXPLAINS:T6 term:T3
+T7	EXPLAINS 746 749	low
+E3	EXPLAINS:T7 term:T4
+T8	EXPLAINS 768 774	enough
+E4	EXPLAINS:T8 term:T5

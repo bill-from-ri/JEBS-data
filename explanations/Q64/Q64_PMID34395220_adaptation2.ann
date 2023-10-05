@@ -1,0 +1,30 @@
+T1	expert_term 308 332	epileptic encephalopathy
+T2	EXPLAINS 339 370	epilepsy that damages the brain
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 373 395	Developmental disorder
+T4	EXPLAINS 402 433	impairments in a child's growth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 859 881	electroencephalography
+T6	EXPLAINS 883 925	measuring electrical acitvity of the brain
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 931 943	neuroimaging
+T8	EXPLAINS 945 962	imaging the brain
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1663 1675	mitochondria
+T10	EXPLAINS 1679 1705	the powerhouse of the cell
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1732 1746	Gibbs syndrome
+T12	EXPLAINS 1748 1784	brain disorder with weak muscle tone
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1787 1815	KohlschÃ¼tter-TÃ¶nz syndrome
+T14	EXPLAINS 1817 1847	genetic disorder with seizures
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1850 1867	Cockayne syndrome
+T16	EXPLAINS 1869 1897	delayed development disorder
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1900 1921	Pitt-Hopkins syndrome
+T18	EXPLAINS 1923 1949	child development disorder
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1955 1983	cerebral creatine deficiency
+T20	EXPLAINS 1985 2015	creatine-metabolizing disorder
+E10	EXPLAINS:T20 term:T19

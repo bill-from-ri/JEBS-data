@@ -1,0 +1,15 @@
+T1	expert_term 39 50	Hypokalemia
+T2	expert_term 126 135	Potassium
+T3	expert_term 439 446	symptom
+T4	expert_term 480 488	symptoms
+T5	EXPLAINS 54 124	a condition where the potassium level in the blood is less than normal
+E1	EXPLAINS:T5 term:T1
+T6	EXPLAINS 139 175	a very important mineral in the body
+E2	EXPLAINS:T6 term:T2
+T8	expert_term 1279 1292	beta-agonists
+T7	EXPLAINS 1240 1270	medicines given by an inhalers
+E3	EXPLAINS:T7 term:T8
+T9	EXPLAINS 471 478	effects
+E4	EXPLAINS:T9 term:T4
+T10	EXPLAINS 431 437	effect
+E5	EXPLAINS:T10 term:T3

@@ -1,0 +1,15 @@
+T1	expert_term 268 276	microbes
+T2	EXPLAINS 278 292	microorganisms
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 400 421	Ceratothoa oestroides
+T4	EXPLAINS 423 436	fish parasite
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 512 518	ulcers
+T6	EXPLAINS 520 525	sores
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 714 725	antibiotics
+T8	expert_term 749 760	antiseptics
+T9	EXPLAINS 727 740	kill bacteria
+E4	EXPLAINS:T9 term:T7
+T10	EXPLAINS 762 782	slow bacteria growth
+E5	EXPLAINS:T10 term:T8

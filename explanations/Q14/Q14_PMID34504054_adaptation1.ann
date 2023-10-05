@@ -1,0 +1,18 @@
+T1	expert_term 278 290	mRNA vaccine
+T2	EXPLAINS 292 401	a vaccine that introduces or copies a piece of messenger RNA - genetic material - that corresponds to a virus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 429 452	receptor-binding domain
+T4	EXPLAINS 460 563	part of the virus located on the spike protein which is involved in introducing a virus into host cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 685 701	humoral immunity
+T6	EXPLAINS 703 834	immunity in which molecules create antibodies against a specific antigen and involve substances found in the humors, or body fluids
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 849 866	cellular response
+T8	EXPLAINS 868 941	using white blood cells that are part of the body's natural immune system
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1206 1229	neutralizing antibodies
+T10	EXPLAINS 1231 1323	antibodies that defends a cell from an infectious particle by neutralizing any effect it has
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 581 587	TF-RBD
+T12	EXPLAINS 589 648	tiny molecules that protect the copies called nanoparticles
+E6	EXPLAINS:T12 term:T11

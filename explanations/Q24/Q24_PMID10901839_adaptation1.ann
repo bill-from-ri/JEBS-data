@@ -1,0 +1,3 @@
+T1	expert_term 128 136	clobazam
+T2	EXPLAINS 138 180	a benzodiazepine which helps treat anxiety
+E1	EXPLAINS:T2 term:T1

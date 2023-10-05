@@ -1,0 +1,6 @@
+T1	expert_term 172 184	Hyperkalemia
+T2	EXPLAINS 199 256	a potassium level in the blood that is higher than normal
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 105 116	maintenance
+T4	EXPLAINS 87 103	regular, ongoing
+E2	EXPLAINS:T4 term:T3

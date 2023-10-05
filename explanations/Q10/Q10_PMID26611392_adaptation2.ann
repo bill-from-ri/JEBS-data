@@ -1,0 +1,3 @@
+T1	expert_term 480 524	dorsal root ganglion spinal cord stimulation
+T2	EXPLAINS 526 584	electrical treatment for specific cells in the spinal cord
+E1	EXPLAINS:T2 term:T1

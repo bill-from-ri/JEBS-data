@@ -1,0 +1,12 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 72 193	a disease inherited from both parents caused by genetic changes in the CF transmembrane conductance Regulator (CFTR) gene
+E1	EXPLAINS:T2 term:T1
+T4	EXPLAINS 195 274	which produces a compound (chloride) channel at the surface of epithelial cells
+E3	EXPLAINS:T4 term:T3
+T5	expert_term 258 274	epithelial cells
+T6	EXPLAINS 276 329	cells that cover outer surface of the internal organs
+E4	EXPLAINS:T6 term:T5
+T7	expert_term 780 796	lipointoxication
+T8	EXPLAINS 694 769	changes in the biological and physical characteristics of the cell membrane
+E5	EXPLAINS:T8 term:T7
+T3	expert_term 143 193	CF transmembrane conductance Regulator (CFTR) gene

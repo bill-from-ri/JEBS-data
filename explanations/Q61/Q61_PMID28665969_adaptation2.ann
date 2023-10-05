@@ -1,0 +1,6 @@
+T1	expert_term 636 647	Punicalagin
+T2	EXPLAINS 649 686	a chemical extracted from pomegranate
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 767 778	Punicalagin
+T4	EXPLAINS 780 817	a chemical extracted from pomegranate
+E2	EXPLAINS:T4 term:T3

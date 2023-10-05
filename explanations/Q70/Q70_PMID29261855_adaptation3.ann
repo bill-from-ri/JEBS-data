@@ -1,0 +1,18 @@
+T1	expert_term 51 61	Vitamin B6
+T2	EXPLAINS 65 133	one of the most important molecules in the cells of living organisms
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 403 419	active chemicals
+T4	EXPLAINS 421 429	vitamers
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 770 782	bioavailable
+T6	EXPLAINS 784 843	the amount of the substance taken up by the living organism
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 986 998	carbohydrate
+T8	expert_term 1019 1029	amino acid
+T9	expert_term 1058 1063	lipid
+T10	EXPLAINS 1000 1005	sugar
+E4	EXPLAINS:T10 term:T7
+T11	EXPLAINS 1031 1038	protein
+E5	EXPLAINS:T11 term:T8
+T12	EXPLAINS 1065 1068	fat
+E6	EXPLAINS:T12 term:T9

@@ -1,0 +1,15 @@
+T1	expert_term 82 122	attention deficit hyperactivity disorder
+T2	EXPLAINS 133 231	a harmful behavioural disorder affecting daily ability to function, learn, and interact with peers
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 786 807	eicosapentaenoic acid
+T4	EXPLAINS 809 816	omega-3
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 820 840	docosahexaenoic acid
+T6	EXPLAINS 842 849	omega-3
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 853 873	gamma linolenic acid
+T8	EXPLAINS 875 882	omega-6
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1135 1150	methylphenidate
+T10	EXPLAINS 1152 1175	stimulant to treat ADHD
+E5	EXPLAINS:T10 term:T9

@@ -1,0 +1,12 @@
+T1	expert_term 63 75	glioblastoma
+T2	EXPLAINS 77 91	a brain cancer
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 180 192	perphenazine
+T4	EXPLAINS 194 222	an anti-psychotic medication
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 680 692	temozolomide
+T6	EXPLAINS 694 713	an anti-cancer drug
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 937 949	Perphenazine
+T8	EXPLAINS 953 993	an old, common, cheap antipsychotic drug
+E4	EXPLAINS:T8 term:T7

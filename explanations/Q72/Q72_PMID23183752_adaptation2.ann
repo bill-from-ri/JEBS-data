@@ -1,0 +1,12 @@
+T1	expert_term 73 100	Inborn Errors of Metabolism
+T2	EXPLAINS 111 175	hereditary diseases that affect how the body processes nutrients
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 177 194	Newborn screening
+T4	EXPLAINS 205 240	a coordinated, comprehensive system
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1312 1323	amino acids
+T6	EXPLAINS 1325 1351	building blocks of protein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1357 1370	acylcarnitine
+T8	EXPLAINS 1372 1419	a chemical in the body important for metabolism
+E4	EXPLAINS:T8 term:T7

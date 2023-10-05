@@ -1,0 +1,6 @@
+T1	expert_term 32 48	Internal hernias
+T2	EXPLAINS 50 120	bulging of digestive organs which cannot be seen from outside the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 546 554	ligament
+T4	EXPLAINS 560 577	connecting tissue
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,12 @@
+T1	EXPLAINS 231 256	disease-causing organisms
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 258 267	pathogens
+T3	expert_term 288 296	hepcidin
+T4	EXPLAINS 274 287	liver protein
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 317 326	defensins
+T6	EXPLAINS 328 375	bacteria-fighting proteins of the immune system
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 856 873	COVID-19 pandemic
+T8	EXPLAINS 875 917	caused by a virus causing a lung infection
+E4	EXPLAINS:T8 term:T7

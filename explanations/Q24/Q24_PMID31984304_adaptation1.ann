@@ -1,0 +1,12 @@
+T1	expert_term 147 158	lamotrigine
+T2	EXPLAINS 160 172	anti-seizure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 175 184	bupropion
+T4	expert_term 203 212	trazodone
+T5	expert_term 231 240	buspirone
+T6	EXPLAINS 242 254	anti-anxiety
+E2	EXPLAINS:T6 term:T5
+T7	EXPLAINS 214 228	antidepressant
+E3	EXPLAINS:T7 term:T4
+T8	EXPLAINS 186 200	antidepressant
+E4	EXPLAINS:T8 term:T3

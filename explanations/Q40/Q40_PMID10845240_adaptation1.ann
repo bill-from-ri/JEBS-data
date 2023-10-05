@@ -1,0 +1,24 @@
+T1	expert_term 67 73	Venous
+T2	EXPLAINS 75 88	gravitational
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 90 100	leg ulcers
+T4	EXPLAINS 102 111	leg sores
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 263 282	venous hypertension
+T6	EXPLAINS 284 312	high blood pressure in veins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 529 543	varicose veins
+T8	EXPLAINS 545 568	twisted, enlarged veins
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 571 588	postural drainage
+T10	EXPLAINS 590 647	elevation of the legs when the patient is lying or seated
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 696 703	hosiery
+T12	EXPLAINS 705 712	legwear
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 717 729	intermittent
+T14	EXPLAINS 731 739	periodic
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 741 750	pneumatic
+T16	EXPLAINS 752 762	inflatable
+E8	EXPLAINS:T16 term:T15

@@ -1,0 +1,9 @@
+T1	expert_term 59 80	Monoclonal antibodies
+T2	EXPLAINS 85 219	medicines that can make the coronavirus ineffective and have shown to be beneficial in cases of mild to moderate coronavirus infection
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 350 358	COVID-19
+T4	EXPLAINS 360 397	the viral breathing-related infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 665 667	Fc
+T6	EXPLAINS 669 734	the part of the antibody that helps interactions with other cells
+E3	EXPLAINS:T6 term:T5

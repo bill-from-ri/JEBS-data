@@ -1,0 +1,9 @@
+T1	expert_term 227 241	Nigella sativa
+T2	EXPLAINS 243 269	a powerful herbal medicine
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 501 535	Vascular Endothelial Growth Factor
+T4	EXPLAINS 548 589	a protein that promotes new blood vessels
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 592 602	Nesfatin-1
+T6	EXPLAINS 604 646	a chain of amino acids that affects hunger
+E3	EXPLAINS:T6 term:T5

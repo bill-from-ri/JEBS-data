@@ -1,0 +1,6 @@
+T1	expert_term 318 332	immune evasion
+T2	EXPLAINS 268 299	become resistant to the vaccine
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 753 761	BNT162b2
+T4	EXPLAINS 737 743	Pfizer
+E2	EXPLAINS:T4 term:T3

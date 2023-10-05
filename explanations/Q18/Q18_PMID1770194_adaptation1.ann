@@ -1,0 +1,39 @@
+T1	expert_term 88 107	caloric restriction
+T2	expert_term 164 179	glycemic status
+T3	expert_term 205 227	increase ketone bodies
+T4	expert_term 306 332	gestational diabetic women
+T5	expert_term 791 798	glucose
+T6	expert_term 957 964	fasting
+T7	expert_term 998 1005	insulin
+T8	expert_term 1135 1157	oral glucose tolerance
+T9	expert_term 1280 1300	Beta-hydroxybutyrate
+T10	expert_term 1496 1503	ketones
+T11	expert_term 1916 1929	insulin clamp
+T12	expert_term 2029 2049	Prophylactic insulin
+T13	EXPLAINS 2051 2086	insulin administered to the patient
+E1	EXPLAINS:T13 term:T12
+T14	EXPLAINS 1931 1962	used to maintain glucose levels
+E2	EXPLAINS:T14 term:T11
+T15	EXPLAINS 1505 1579	substances that your body makes if your cells don't get enough blood sugar
+E3	EXPLAINS:T15 term:T10
+T16	EXPLAINS 1302 1401	a chemical in the body that provides energy when not enough carbohydrates or sugars have been eaten
+E4	EXPLAINS:T16 term:T9
+T17	EXPLAINS 1159 1230	a test that measures how the body moves sugar from blood to the tissues
+E5	EXPLAINS:T17 term:T8
+T18	EXPLAINS 1007 1114	a hormone in the body that allows cells in the muscles, fat, and liver to absorb sugar that is in the blood
+E6	EXPLAINS:T18 term:T7
+T19	EXPLAINS 966 973	no food
+E7	EXPLAINS:T19 term:T6
+T20	EXPLAINS 800 811	blood sugar
+E8	EXPLAINS:T20 term:T5
+T21	EXPLAINS 334 399	women diagnosed with diabetes for the first time during pregnancy
+E9	EXPLAINS:T21 term:T4
+T22	EXPLAINS 229 301	substances that the body makes if the cells don't get enough blood sugar
+E10	EXPLAINS:T22 term:T3
+T23	EXPLAINS 181 199	blood sugar levels
+E11	EXPLAINS:T23 term:T2
+T24	EXPLAINS 109 150	reducing the amount of calories consumed)
+E12	EXPLAINS:T24 term:T1
+T25	expert_term 1469 1478	ketonuria
+T26	EXPLAINS 1480 1593	high amounts of ketones (substances that your body makes if your cells don't get enough blood sugar) in the urine
+E13	EXPLAINS:T26 term:T25

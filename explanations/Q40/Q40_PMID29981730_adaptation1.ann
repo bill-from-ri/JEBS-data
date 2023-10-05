@@ -1,0 +1,12 @@
+T1	expert_term 169 187	clinical tolerance
+T2	EXPLAINS 189 218	how much a patient could take
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 284 290	ulcers
+T4	EXPLAINS 292 297	sores
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1258 1270	Hypertension
+T6	EXPLAINS 1272 1291	high blood pressure
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1957 1966	adversely
+T8	EXPLAINS 1968 1978	negatively
+E4	EXPLAINS:T8 term:T7

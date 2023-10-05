@@ -1,0 +1,9 @@
+T1	expert_term 55 75	Intermittent fasting
+T2	EXPLAINS 79 165	a type of eating schedule where a person doesn't eat any calories for a period of time
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 167 190	Time-restricted feeding
+T4	EXPLAINS 194 275	a form of intermittent fasting that involves having a longer daily fasting period
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1286 1293	ketones
+T6	EXPLAINS 1295 1363	substances that the body makes if cells don't get enough blood sugar
+E3	EXPLAINS:T6 term:T5

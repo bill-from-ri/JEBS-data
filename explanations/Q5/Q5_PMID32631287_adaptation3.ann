@@ -1,0 +1,12 @@
+T1	expert_term 30 45	Popliteal cysts
+T2	EXPLAINS 69 151	abnormal enlargements of the bursa (a protective fluid-filled sac) behind the knee
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 105 134	a protective fluid-filled sac
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 98 103	bursa
+T5	expert_term 212 223	arthroscopy
+T6	EXPLAINS 225 274	minimally-invasive surgery using fine instruments
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 305 322	cyst wall removal
+T8	EXPLAINS 324 333	resection
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,15 @@
+T1	expert_term 26 36	Pacemakers
+T2	EXPLAINS 41 91	devices that generate artificial electrical pulses
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 285 293	external
+T4	EXPLAINS 295 326	main device is outside the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 331 339	internal
+T6	EXPLAINS 341 372	device is implanted in the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 729 768	implantable cardioverter-defibrillators
+T8	EXPLAINS 777 839	which are devices designed to directly treat a slow heart rate
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1274 1290	anti-bradycardia
+T10	EXPLAINS 1292 1312	anti-slow-heart-rate
+E5	EXPLAINS:T10 term:T9

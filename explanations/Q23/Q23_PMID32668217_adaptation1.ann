@@ -1,0 +1,9 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 136 321	the most common disorder inherited from both parents in which the degree the body can properly turn food (and the protein phenylalanine) into energy can be predicted from genetic makeup
+E1	EXPLAINS:T2 
+T3	expert_term 1542 1554	heterozygous
+T4	expert_term 1615 1625	homozygous
+T5	EXPLAINS 1556 1603	both forms of the gene have different mutations
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 1627 1672	both forms of the gene have the same mutation
+E3	EXPLAINS:T6 term:T4

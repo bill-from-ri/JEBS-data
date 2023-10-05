@@ -1,0 +1,23 @@
+T1	expert_term 153 163	Biomarkers
+T2	EXPLAINS 168 215	measurable substances that can indicate illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 364 377	carbohydrates
+T4	EXPLAINS 381 405	sugar-carrying molecules
+E2	EXPLAINS:T4 term:T3
+T5	EXAMPLE 415 450	tetraspanins, integrins, and mucins
+E3	EXAMPLE:T5 term:T3
+T6	expert_term 660 665	assay
+T7	EXPLAINS 667 673	device
+E4	EXPLAINS:T7 term:T6
+T8	expert_term 781 793	purification
+T9	EXPLAINS 795 805	filtration
+E5	EXPLAINS:T9 term:T8
+T10	expert_term 1007 1012	serum
+T11	EXPLAINS 1014 1019	blood
+E6	EXPLAINS:T11 term:T10
+T12	expert_term 1090 1096	benign
+T13	EXPLAINS 1098 1104	normal
+E7	EXPLAINS:T13 term:T12
+T14	expert_term 1376 1385	induction
+T15	EXPLAINS 1387 1396	causation
+E8	EXPLAINS:T15 term:T14

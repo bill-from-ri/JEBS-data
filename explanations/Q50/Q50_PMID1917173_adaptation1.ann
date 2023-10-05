@@ -1,0 +1,15 @@
+T1	expert_term 173 202	Distal type aortic dissection
+T2	EXPLAINS 206 340	when an injury occurs to the inner layer of the aorta (main artery of the body), and blood flows between the layers of the aortic wall
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 254 259	aorta
+T4	EXPLAINS 261 284	main artery of the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 670 678	negative
+T6	EXPLAINS 680 691	no detected
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 824 836	inflammation
+T8	EXPLAINS 838 882	redness and swelling from infection-fighting
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1114 1125	bradycardia
+T10	EXPLAINS 1127 1141	low heart rate
+E5	EXPLAINS:T10 term:T9

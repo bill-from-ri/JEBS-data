@@ -1,0 +1,24 @@
+T1	expert_term 53 88	coronavirus-disease 2019 (COVID-19)
+T2	EXPLAINS 90 123	a viral breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 238 251	immune system
+T4	EXPLAINS 253 350	a complex network of tissues, organs, cells, and proteins that defends the body against infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 537 547	antibodies
+T6	EXPLAINS 549 623	a protective protein used by the immune system in response to an infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 636 645	nutrients
+T8	EXPLAINS 647 668	vitamins and minerals
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 824 836	inflammation
+T10	EXPLAINS 838 921	the body's response to injury or infection often causing swelling, pain, or redness
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 927 943	oxidative stress
+T12	EXPLAINS 945 1024	a condition that happens when nutrients and minerals that protect cells are low
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1113 1125	antioxidants
+T14	EXPLAINS 1127 1196	vitamins, minerals, and other nutrients that protect and repair cells
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1229 1243	phytochemicals
+T16	EXPLAINS 1245 1285	compounds found in fruits and vegetables
+E8	EXPLAINS:T16 term:T15

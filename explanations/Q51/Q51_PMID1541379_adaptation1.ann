@@ -1,0 +1,6 @@
+T1	expert_term 83 102	islet-cell antibody
+T2	EXPLAINS 104 148	protein made against insulin-producing cells
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 337 341	I.V.
+T4	EXPLAINS 343 351	injected
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,6 @@
+T1	expert_term 35 50	Phenylketonuria
+T2	EXPLAINS 60 170	a model of a disorder controlled by a single gene in which the body cannot properly turn some food into energy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 714 729	l-phenylalanine
+T4	EXPLAINS 731 784	a substance transformed by the missing protein in PKU
+E2	EXPLAINS:T4 term:T3

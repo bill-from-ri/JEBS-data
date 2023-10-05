@@ -1,0 +1,24 @@
+T1	expert_term 92 112	aromatase inhibitors
+T2	EXPLAINS 123 234	common hormone therapy (HT) for the secondary treatment of postmenopausal hormone-sensitive early breast cancer
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 694 706	chemotherapy
+T4	EXPLAINS 708 729	cancer-specific drugs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 850 860	exemestane
+T6	EXPLAINS 862 890	breast cancer-treating drugs
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 986 996	arthralgia
+T8	EXPLAINS 998 1013	joint stiffness
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1186 1194	alopecia
+T10	EXPLAINS 1196 1217	hair loss or thinning
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1297 1307	xerostomia
+T12	EXPLAINS 1309 1318	dry mouth
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1321 1334	xerophthalmia
+T14	EXPLAINS 1336 1347	eye dryness
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1537 1546	tamoxifen
+T16	EXPLAINS 1549 1577	an estrogen-influencing drug
+E8	EXPLAINS:T16 term:T15

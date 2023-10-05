@@ -1,0 +1,12 @@
+T3	expert_term 656 668	tender point
+T4	EXPLAINS 670 691	specific area of pain
+E2	EXPLAINS:T4 term:T3
+T9	expert_term 1536 1558	carpal tunnel syndrome
+T10	EXPLAINS 1560 1586	pinched nerve in the wrist
+E6	EXPLAINS:T10 term:T9
+T1	EXPLAINS 265 407	a laser light used at a low level and applied to the skin of the body to reduce pain or inflammation and help heal wounds, tissues, and nerves
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 233 263	low level laser therapy (LLLT)
+T5	EXPLAINS 1167 1200	how patients described their pain
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 1155 1165	VAS scores

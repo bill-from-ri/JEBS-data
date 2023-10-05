@@ -1,0 +1,12 @@
+T1	expert_term 107 114	fatigue
+T2	EXPLAINS 116 125	tiredness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 453 460	placebo
+T4	EXPLAINS 462 476	sham treatment
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 925 938	phospholipids
+T6	EXPLAINS 940 975	building blocks for the cell's wall
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1523 1530	adverse
+T8	EXPLAINS 1532 1536	side
+E4	EXPLAINS:T8 term:T7

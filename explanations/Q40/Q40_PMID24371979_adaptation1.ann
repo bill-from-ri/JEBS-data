@@ -1,0 +1,12 @@
+T1	expert_term 67 86	Compression therapy
+T2	EXPLAINS 90 181	the basic therapy when treating the circulatory (blood) or lymphatic (body drainage) system
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 126 137	circulatory
+T4	expert_term 149 158	lymphatic
+T5	EXPLAINS 139 144	blood
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 160 173	body drainage
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 407 419	hypertension
+T8	EXPLAINS 421 445	excess pressure in veins
+E4	EXPLAINS:T8 term:T7

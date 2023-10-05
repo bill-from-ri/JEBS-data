@@ -1,0 +1,3 @@
+T1	expert_term 48 67	Sickle Cell Disease
+T2	EXPLAINS 77 144	a genetic disorder due to a single mutation in the Beta-globin gene
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,12 @@
+T1	expert_term 63 81	Phosphatidylserine
+T2	EXPLAINS 88 105	a fatty substance
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 138 147	cognitive
+T4	EXPLAINS 152 168	thinking-related
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 451 458	placebo
+T6	EXPLAINS 460 474	sham treatment
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 578 617	Clinicians' Global Impression of Change
+T8	EXPLAINS 619 669	a point scale to determine if illness has improved
+E4	EXPLAINS:T8 term:T7

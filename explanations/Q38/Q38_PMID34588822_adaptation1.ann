@@ -1,0 +1,15 @@
+T1	expert_term 42 57	Pressure injury
+T2	EXPLAINS 83 128	skin damage not caused by underlying diseases
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 407 418	therapeutic
+T4	EXPLAINS 420 427	medical
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 509 518	platelets
+T6	EXPLAINS 520 531	blood cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 653 663	resolution
+T8	EXPLAINS 665 672	healing
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 681 687	lesion
+T10	EXPLAINS 689 694	wound
+E5	EXPLAINS:T10 term:T9

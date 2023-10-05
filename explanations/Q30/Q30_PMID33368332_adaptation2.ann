@@ -1,0 +1,3 @@
+T1	expert_term 75 135	severe acute respiratory syndrome coronavirus 2 (SARS-COV-2)
+T2	EXPLAINS 137 183	which causes a breathing-related viral disease
+E1	EXPLAINS:T2 term:T1

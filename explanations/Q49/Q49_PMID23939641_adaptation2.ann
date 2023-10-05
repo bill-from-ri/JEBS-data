@@ -1,0 +1,15 @@
+T1	expert_term 35 40	Edema
+T2	EXPLAINS 44 135	a buildup of fluid in the body that occurs as the filtration rate exceeds the drainage rate
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 646 668	deep venous thrombosis
+T4	EXPLAINS 670 694	deep vein blood clotting
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 964 987	Obstructuve sleep apnea
+T6	EXPLAINS 989 1071	disorder in which breathing is consistently interrupted during sleep by a blockage
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1192 1202	lymphedema
+T8	EXPLAINS 1204 1260	fluid buildup when the body's drainage system is blocked
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1392 1402	lymph node
+T10	EXPLAINS 1404 1423	immune system organ
+E5	EXPLAINS:T10 term:T9

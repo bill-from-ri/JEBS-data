@@ -1,0 +1,9 @@
+T1	expert_term 295 307	fibrillation
+T2	EXPLAINS 309 332	an irregular heart beat
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 669 687	the lead pacemaker
+T4	EXPLAINS 689 768	device with wires that run between the part that generates pulses and the heart
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 36 73	cardiac implantable electronic device
+T6	EXPLAINS 82 106	the electronic pacemaker
+E3	EXPLAINS:T6 term:T5

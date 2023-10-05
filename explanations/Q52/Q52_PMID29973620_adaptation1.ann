@@ -1,0 +1,9 @@
+T1	expert_term 90 105	Turner Syndrome
+T2	EXPLAINS 114 158	a condition where several genes are affected
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 270 281	chromosomes
+T4	EXPLAINS 283 299	genetic material
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 922 931	conserved
+T6	EXPLAINS 933 937	kept
+E3	EXPLAINS:T6 term:T5

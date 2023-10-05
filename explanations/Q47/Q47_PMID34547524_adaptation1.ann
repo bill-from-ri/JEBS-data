@@ -1,0 +1,21 @@
+T1	expert_term 44 60	Hypophosphatasia
+T2	EXPLAINS 70 107	the heritable, tooth and bone disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 234 240	TNSALP
+T4	EXPLAINS 244 300	an enzyme that assists in breaking down phosphate groups
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 954 963	pyridoxal
+T6	EXPLAINS 970 1056	an alternate form of PLP that enters cells to cofactor (help) many enzymatic reactions
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1016 1024	cofactor
+T8	EXPLAINS 1026 1030	help
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1405 1422	dephosphorylation
+T10	EXPLAINS 1424 1451	removal of phosphate groups
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1647 1655	assessed
+T12	EXPLAINS 1657 1665	measured
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1975 1984	pediatric
+T14	EXPLAINS 1986 1991	child
+E7	EXPLAINS:T14 term:T13

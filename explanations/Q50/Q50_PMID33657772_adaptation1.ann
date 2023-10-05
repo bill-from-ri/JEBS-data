@@ -1,0 +1,15 @@
+T1	expert_term 179 187	systemic
+T2	EXPLAINS 189 198	full-body
+E1	EXPLAINS:T2 term:T1
+T4	EXPLAINS 289 334	kidney cancer that has spread to other organs
+E2	EXPLAINS:T4 term:T3
+T3	expert_term 241 272	metastatic renal cell carcinoma
+T5	expert_term 1086 1096	metastasis
+T6	EXPLAINS 1098 1114	cancer spreading
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1159 1177	C-reactive protein
+T8	EXPLAINS 1181 1270	a type of protein found in the blood that increases during times of internal inflammation
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1258 1270	inflammation
+T10	EXPLAINS 1272 1316	redness and swelling from infection-fighting
+E5	EXPLAINS:T10 term:T9

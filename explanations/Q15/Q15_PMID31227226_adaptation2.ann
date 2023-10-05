@@ -1,0 +1,6 @@
+T1	expert_term 315 322	insulin
+T2	EXPLAINS 324 356	a blood sugar-monitoring protein
+E1	EXPLAINS:T2 term:T1
+T4	expert_term 82 84	K+
+T3	EXPLAINS 71 80	potassium
+E2	EXPLAINS:T3 term:T4

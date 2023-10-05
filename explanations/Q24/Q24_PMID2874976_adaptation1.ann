@@ -1,0 +1,6 @@
+T1	expert_term 56 79	Buspirone hydrochloride
+T2	EXPLAINS 90 144	a new anti-anxiety drug with a unique molecular makeup
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 265 279	anxioselective
+T4	EXPLAINS 291 387	it relieves anxiety without the side effects of benzodiazepines (sedation and muscle relaxation)
+E2	EXPLAINS:T4 term:T3

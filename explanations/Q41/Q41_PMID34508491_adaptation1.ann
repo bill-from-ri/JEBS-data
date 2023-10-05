@@ -1,0 +1,18 @@
+T1	expert_term 67 88	Cystic Echinococcosis
+T2	EXPLAINS 90 239	also called Hydatid disease, is caused by the infection of a long tapeworm called Echinococcus granulosus, after it has hatched into the larval stage
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 172 195	Echinococcus granulosus
+T4	EXPLAINS 149 164	a long tapeworm
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 318 322	cyst
+T6	EXPLAINS 324 330	growth
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 478 500	central nervous system
+T8	EXPLAINS 502 523	spinal cord and brain
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 630 653	urinary tract infection
+T10	EXPLAINS 661 678	bladder infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 805 822	lower pole cortex
+T12	EXPLAINS 824 834	lower part
+E6	EXPLAINS:T12 term:T11

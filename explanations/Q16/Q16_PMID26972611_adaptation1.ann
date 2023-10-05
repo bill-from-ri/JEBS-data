@@ -1,0 +1,36 @@
+T1	expert_term 62 77	Corticosteroids
+T2	expert_term 422 430	systemic
+T3	expert_term 591 599	baseline
+T4	expert_term 642 653	intravenous
+T5	expert_term 694 708	hydrocortisone
+T6	expert_term 808 827	lymphocytes subsets
+T7	expert_term 1183 1202	natural killer cell
+T8	expert_term 1360 1365	NF-κB
+T9	expert_term 1444 1453	apoptosis
+T10	expert_term 1606 1630	glucocorticoid receptors
+T11	expert_term 2535 2544	monocytes
+T12	expert_term 2614 2618	mRNA
+T13	EXPLAINS 2620 2694	a strand of genetic code that provides instructions for building a protein
+E1	EXPLAINS:T13 term:T12
+T14	EXPLAINS 2546 2608	an immune cell that attacks and breaks down germs and bacteria
+E2	EXPLAINS:T14 term:T11
+T15	EXPLAINS 1632 1719	receptors that regulates genes controlling development, metabolism, and immune response
+E3	EXPLAINS:T15 term:T10
+T16	EXPLAINS 1455 1472	normal cell death
+E4	EXPLAINS:T16 term:T9
+T17	EXPLAINS 1367 1441	proteins involved in different cell functions including immunity responses
+E5	EXPLAINS:T17 term:T8
+T18	EXPLAINS 1212 1267	white blood cells that kill cells infected with a virus
+E6	EXPLAINS:T18 term:T7
+T19	EXPLAINS 829 898	parts of a type of white blood cell that is part of the immune system
+E7	EXPLAINS:T19 term:T6
+T20	EXPLAINS 710 728	steroid medication
+E8	EXPLAINS:T20 term:T5
+T21	EXPLAINS 655 692	medication delivered through the vein
+E9	EXPLAINS:T21 term:T4
+T22	EXPLAINS 601 623	the start of the study
+E10	EXPLAINS:T22 term:T3
+T23	EXPLAINS 432 498	affecting the entire body, rather than a single organ or body part
+E11	EXPLAINS:T23 term:T2
+T24	EXPLAINS 79 176	an anti-inflammatory drug or supplement to help relieve pain and swelling, also known as steroids
+E12	EXPLAINS:T24 term:T1

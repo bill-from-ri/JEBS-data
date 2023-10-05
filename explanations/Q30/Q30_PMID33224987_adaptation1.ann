@@ -1,0 +1,27 @@
+T1	expert_term 110 121	coronavirus
+T2	EXPLAINS 123 174	which causes Covid-19 - a breathing-related illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 201 214	positive case
+T4	EXPLAINS 216 251	which signals presence of the virus
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 677 687	antibodies
+T6	EXPLAINS 689 742	proteins used by the immune system to fight infection
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 764 815	electrochemiluminescence assay (ECLIA) test formats
+T8	EXPLAINS 816 875	that can look for multiple types of antibodies in the blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 879 926	enzyme-linked immunosorbent assay (ELISA) tests
+T10	EXPLAINS 927 1031	that test for antibodies for the coronavirus and can provide information about past exposure to Covid-19
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1039 1082	lateral flow immunoassay (LFIA) test format
+T12	EXPLAINS 1083 1117	that can detect active coronavirus
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1248 1256	negative
+T14	expert_term 1746 1771	positive predictive value
+T15	EXPLAINS 1773 1825	percentage of positive tests that are true positives
+E7	EXPLAINS:T15 term:T14
+T16	EXPLAINS 2263 2300	patients who probably had the disease
+E8	EXPLAINS:T16 term:T17
+T17	expert_term 2308 2328	symptomatic patients
+T18	EXPLAINS 1258 1266	no virus
+E9	EXPLAINS:T18 term:T13

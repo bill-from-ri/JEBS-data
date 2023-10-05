@@ -1,0 +1,3 @@
+T1	expert_term 70 78	Prostate
+T2	EXPLAINS 82 139	a small gland below the bladder that helps men make semen
+E1	EXPLAINS:T2 term:T1

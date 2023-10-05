@@ -1,0 +1,6 @@
+T1	expert_term 53 63	SARS-CoV-2
+T2	EXPLAINS 65 109	the virus that causes coronavirus disease-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 473 485	memory cells
+T4	EXPLAINS 487 554	immune cells that "remember" having encountered an infection before
+E2	EXPLAINS:T4 term:T3

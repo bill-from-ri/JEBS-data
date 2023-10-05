@@ -1,0 +1,12 @@
+T1	expert_term 139 146	tremors
+T2	expert_term 281 289	dopamine
+T3	expert_term 435 447	bradykinesia
+T4	expert_term 501 509	levodopa
+T5	EXPLAINS 511 535	a Parkinson's medication
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 449 470	a slowing of movement
+E2	EXPLAINS:T6 term:T3
+T7	EXPLAINS 291 311	a chemical messenger
+E3	EXPLAINS:T7 term:T2
+T8	EXPLAINS 151 162	body shakes
+E4	EXPLAINS:T8 term:T1

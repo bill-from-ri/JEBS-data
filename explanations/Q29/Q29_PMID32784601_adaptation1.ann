@@ -1,0 +1,9 @@
+T1	expert_term 83 91	Covid-19
+T2	EXPLAINS 93 121	a viral, respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 233 245	inflammation
+T4	EXPLAINS 247 281	how the body responds to infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 531 539	selenium
+T6	EXPLAINS 541 575	a mineral found in water and foods
+E3	EXPLAINS:T6 term:T5

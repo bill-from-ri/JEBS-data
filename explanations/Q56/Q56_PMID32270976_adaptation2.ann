@@ -1,0 +1,6 @@
+T1	expert_term 40 63	Pallister-Hall syndrome
+T2	EXPLAINS 73 123	a rare disease passed down from one of the parents
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 815 831	endocrine system
+T4	EXPLAINS 833 921	which includes the glands that regulate body functions through chemicals called hormones
+E2	EXPLAINS:T4 term:T3

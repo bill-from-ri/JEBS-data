@@ -1,0 +1,9 @@
+T1	expert_term 26 36	Pacemakers
+T2	EXPLAINS 41 151	electronic devices that stimulate the heart with electrical impulses to maintain or restore a normal heartbeat
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 630 656	cardiac electrical failure
+T4	EXPLAINS 661 712	which the heart cannot maintain a normal heart rate
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 785 796	implantable
+T6	EXPLAINS 798 824	permanently under the skin
+E3	EXPLAINS:T6 term:T5

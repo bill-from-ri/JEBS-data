@@ -1,0 +1,6 @@
+T1	expert_term 191 204	levothyroxine
+T2	EXPLAINS 212 239	a common thyroid medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 473 493	levotriiodothyronine
+T4	EXPLAINS 509 527	thryoid medication
+E2	EXPLAINS:T4 term:T3

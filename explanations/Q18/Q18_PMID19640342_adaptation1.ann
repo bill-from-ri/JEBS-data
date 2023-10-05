@@ -1,0 +1,9 @@
+T1	expert_term 119 136	nutrition therapy
+T2	expert_term 202 210	diabetes
+T3	expert_term 765 772	ketones
+T4	EXPLAINS 774 842	substances that the body makes if cells don't get enough blood sugar
+E1	EXPLAINS:T4 term:T3
+T5	EXPLAINS 212 287	a chronic health condition that affects how the body turns food into energy
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 138 161	treatment based on food
+E3	EXPLAINS:T6 term:T1

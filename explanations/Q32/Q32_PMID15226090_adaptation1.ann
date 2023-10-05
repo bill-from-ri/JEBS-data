@@ -1,0 +1,30 @@
+T1	expert_term 80 86	plasma
+T2	EXPLAINS 91 96	blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 152 164	hypertension
+T4	EXPLAINS 166 185	high blood pressure
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 188 200	Homocysteine
+T6	EXPLAINS 204 255	a chemical your body produces to help make proteins
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 378 398	Hyperhomocysteinemia
+T8	EXPLAINS 402 451	a condition with excess homocysteine in the blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 481 504	endothelial dysfunction
+T10	EXPLAINS 509 574	a heart disease where the blood vessels narrow instead of opening
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 576 622	Angiotensin-converting enzyme (ACE) inhibitors
+T12	EXPLAINS 627 684	a type of drug commonly used to treat high blood pressure
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 719 730	endothelial
+T14	EXPLAINS 735 754	blood vessel lining
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1069 1079	Benazepril
+T16	EXPLAINS 1051 1067	an ACE inhibitor
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1419 1427	baseline
+T18	EXPLAINS 1398 1417	the study beginning
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 2166 2174	systolic
+T20	EXPLAINS 2191 2220	when the heart is contracting
+E10	EXPLAINS:T20 term:T19

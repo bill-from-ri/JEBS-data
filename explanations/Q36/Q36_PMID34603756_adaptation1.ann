@@ -1,0 +1,15 @@
+T1	expert_term 163 174	lithotripsy
+T2	EXPLAINS 176 244	a non-surgical method to break masses like kidney stones into pieces
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 899 913	urinary stones
+T4	expert_term 647 675	continuous-wave diode laser,
+T5	EXPLAINS 676 808	which is a constant stream of laser light that can also reduce the scattering of stones by using a hot-spot or energy-focused effect
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 915 953	hard masses of minerals in the bladder
+E3	EXPLAINS:T6 term:T3
+T7	expert_term 1185 1237	percutaneous nephrolithotripsy/nephrolithoextraction
+T8	EXPLAINS 1239 1331	removal of stones by a small incision through the skin and stones pulled out of the incision
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1337 1373	ureterolithotripsy/ureteroextraction
+T10	EXPLAINS 1375 1528	when a flexible tube is inserted through the bladder and the ureter which connects the kidneys and bladder and stones are found with a camera and removed
+E5	EXPLAINS:T10 term:T9

@@ -1,0 +1,9 @@
+T1	expert_term 68 87	atrial fibrillation
+T2	EXPLAINS 89 162	a fluttery and irregular heartbeat that can lead to blood clots or stroke
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 193 216	obstructive sleep apnea
+T4	EXPLAINS 218 323	where muscles in the throat relax, the airway is narrowed or closed, and breathing is momentarily cut off
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 559 572	paroxysmal AF
+T6	EXPLAINS 574 654	when the heart rate returns to normal within 7 days on its own or with treatment
+E3	EXPLAINS:T6 term:T5

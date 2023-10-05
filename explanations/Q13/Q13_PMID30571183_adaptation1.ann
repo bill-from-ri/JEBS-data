@@ -1,0 +1,30 @@
+T1	expert_term 49 79	Paroxysmal atrial fibrillation
+T2	expert_term 836 850	repolarization
+T3	expert_term 920 943	cardiac action potental
+T4	expert_term 1090 1103	plateau phase
+T5	expert_term 1304 1341	potassium channel's inactivation time
+T6	expert_term 1715 1738	gain-of-function effect
+T7	expert_term 1918 1943	arrhythmogenic substrates
+T8	expert_term 1997 2026	nocturnal atrial fibrillation
+T9	expert_term 2195 2214	circadian variation
+T10	expert_term 2414 2444	paroxysmal atrial fibrillation
+T11	EXPLAINS 2446 2535	an irregular heart rate that returns to normal within 7 days on its own or with treatment
+E1	EXPLAINS:T11 term:T10
+T12	EXPLAINS 2216 2316	the natural, internal process that regulates the sleep–wake cycle and repeats roughly every 24 hours
+E2	EXPLAINS:T12 term:T9
+T13	EXPLAINS 2028 2134	an irregular and often very rapid heart rhythm occuring at night that can lead to blood clots in the heart
+E3	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1945 1991	factors that can produce or lead to arrhythmia
+E4	EXPLAINS:T14 term:T7
+T15	EXPLAINS 1740 1785	changes the activity or function of a protein
+E5	EXPLAINS:T15 term:T6
+T16	EXPLAINS 1343 1419	the time when the channel no longer allows potassium to be passed through it
+E6	EXPLAINS:T16 term:T5
+T17	EXPLAINS 1105 1230	the time that allows for longer muscle contraction and allows the heart to contract in a steady, uniform, and forceful manner
+E7	EXPLAINS:T17 term:T4
+T18	EXPLAINS 945 1046	where unique properties necessary for function of the electrical conduction system of the heart occur
+E8	EXPLAINS:T18 term:T3
+T19	EXPLAINS 852 911	when the outward current of ions exceeds the inward current
+E9	EXPLAINS:T19 term:T2
+T20	EXPLAINS 86 175	an irregular heart rate that returns to normal within 7 days on its own or with treatment
+E10	EXPLAINS:T20 term:T1

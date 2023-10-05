@@ -1,0 +1,12 @@
+T1	EXPLAINS 70 158	blood plasma from people who have recovered from the viral, respiratory illness Covid-19
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 172 191	convalescent plasma
+T3	expert_term 491 501	antibodies
+T4	EXPLAINS 506 533	infection-fighting proteins
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 858 866	positive
+T6	expert_term 802 810	negative
+T7	EXPLAINS 812 834	with no virus detected
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 868 887	with virus detected
+E4	EXPLAINS:T8 term:T5

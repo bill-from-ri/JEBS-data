@@ -1,0 +1,6 @@
+T1	expert_term 450 467	allergic rhinitis
+T2	EXPLAINS 469 508	irritation of the nose due to allergies
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 658 675	laryngopharyngeal
+T4	EXPLAINS 636 656	throat and voice box
+E2	EXPLAINS:T4 term:T3

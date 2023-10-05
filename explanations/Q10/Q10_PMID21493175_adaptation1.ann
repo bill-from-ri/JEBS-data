@@ -1,0 +1,18 @@
+T3	EXPLAINS 305 355	a form of ongoing pain that affects the arm or leg
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 273 303	complex regional pain syndrome
+T5	expert_term 388 414	stellate ganglion blockade
+T6	EXPLAINS 416 501	an injection of medication into nerves at the front of the neck that can relieve pain
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 137 148	case report
+T8	EXPLAINS 150 221	a summary of an individual patient's symptoms, diagnosis, and treatment
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1322 1337	under-diagnosed
+T10	EXPLAINS 1339 1379	diagnosed less often than its occurrence
+E5	EXPLAINS:T10 term:T9
+T11	EXPLAINS 1134 1220	diagnosis of a medical condition that would never have caused any symptoms or problems
+E6	EXPLAINS:T11 
+T12	expert_term 1118 1132	over-diagnosed
+T1	EXPLAINS 2221 2287	one-time injection of medicine that numbs a small area of the body
+E1	EXPLAINS:T1 
+T2	expert_term 2202 2219	local anaesthetic

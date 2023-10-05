@@ -1,0 +1,24 @@
+T1	expert_term 42 60	Pectin-based films
+T2	EXPLAINS 65 98	wrapping that is made from pectin
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 92 98	pectin
+T4	EXPLAINS 100 138	a substance extracted from ripe fruits
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 239 241	pH
+T6	EXPLAINS 243 252	acid-base
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 671 683	hydrocolloid
+T8	EXPLAINS 685 696	gel-forming
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1046 1062	tensile strength
+T10	EXPLAINS 1064 1094	resistance to tension breakage
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1237 1254	anti-inflammatory
+T12	EXPLAINS 1256 1300	anti-swelling and -redness from an infection
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1630 1645	pressure ulcers
+T14	EXPLAINS 1647 1657	skin sores
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2354 2359	novel
+T16	EXPLAINS 2361 2364	new
+E8	EXPLAINS:T16 term:T15

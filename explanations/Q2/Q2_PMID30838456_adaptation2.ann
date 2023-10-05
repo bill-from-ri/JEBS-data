@@ -1,0 +1,4 @@
+T1	expert_term 106 115	serotonin
+T2	expert_term 127 141	norepinephrine
+T3	EXPLAINS 85 103	chemical messenger
+E1	EXPLAINS:T3 term:T1 term2:T2

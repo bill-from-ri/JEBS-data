@@ -1,0 +1,15 @@
+T1	expert_term 48 89	Glucose-transporter-1 deficiency syndrome
+T2	EXPLAINS 102 190	an inability to transport sugar in the blood due to a change in the specific gene SLC2A1
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 311 330	Hemiplegic migraine
+T4	EXPLAINS 339 439	a rare form of migraine, defined by headache linked with temporary paralysis on one side of the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 441 451	hemiplegia
+T6	EXPLAINS 396 439	temporary paralysis on one side of the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 537 557	Paroxysmal movements
+T8	EXPLAINS 562 574	suddent fits
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1172 1183	Lamotrigine
+T10	EXPLAINS 1185 1208	anti-seizure medication
+E5	EXPLAINS:T10 term:T9

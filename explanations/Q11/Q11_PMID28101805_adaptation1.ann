@@ -1,0 +1,21 @@
+T1	expert_term 23 37	ketogenic diet
+T2	EXPLAINS 41 133	a low carb, high-fat diet that can help create fuel for the body when glucose levels are low
+E1	EXPLAINS:T2 term:T1
+T4	EXPLAINS 274 291	changes in health
+E3	EXPLAINS:T4 term:T3
+T3	expert_term 248 272	disease-related outcomes
+T5	expert_term 1285 1293	epilepsy
+T6	expert_term 1329 1335	ataxia
+T7	expert_term 1415 1433	social functioning
+T8	expert_term 1572 1590	acute pancreatitis
+T9	expert_term 1719 1725	ataxia
+T10	EXPLAINS 1295 1326	a disorder that causes seizures
+E2	EXPLAINS:T10 term:T5
+T11	EXPLAINS 1337 1364	loss of control of movement
+E4	EXPLAINS:T11 term:T6
+T12	EXPLAINS 1435 1468	the ability to engage with others
+E5	EXPLAINS:T12 term:T7
+T13	EXPLAINS 1592 1654	where the pancreas becomes swollen over a short period of time
+E6	EXPLAINS:T13 term:T8
+T14	EXPLAINS 1727 1754	loss of control of movement
+E7	EXPLAINS:T14 term:T9

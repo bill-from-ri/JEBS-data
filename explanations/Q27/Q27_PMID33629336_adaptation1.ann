@@ -1,0 +1,18 @@
+T1	expert_term 86 94	Covid-19
+T2	EXPLAINS 97 130	a viral breathing-related disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 225 252	emergency use authorization
+T4	EXPLAINS 254 292	where unapproved medicines may be used
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 856 866	SARS-COV-2
+T6	EXPLAINS 868 890	the coronavirus's name
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1294 1302	immunity
+T8	EXPLAINS 1304 1314	resistance
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 2125 2143	anaphylactic shock
+T10	EXPLAINS 2144 2232	which is a severe allergic reaction that begins very quickly and can be life-threatening
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2559 2569	antibodies
+T12	EXPLAINS 2571 2636	protective proteins made by the immune system to fight infections
+E6	EXPLAINS:T12 term:T11

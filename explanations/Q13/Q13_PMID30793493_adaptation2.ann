@@ -1,0 +1,3 @@
+T1	expert_term 266 285	atrial fibrillation
+T2	EXPLAINS 287 316	irregular or rapid heart beat
+E1	EXPLAINS:T2 term:T1

@@ -1,0 +1,6 @@
+T1	expert_term 94 104	Fluoxetine
+T2	EXPLAINS 108 159	a type of antidepressant that is also called prozac
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 307 318	agoraphobia
+T4	EXPLAINS 320 370	an intense fear of open spaces or leaving the home
+E2	EXPLAINS:T4 term:T3

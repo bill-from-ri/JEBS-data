@@ -1,0 +1,3 @@
+T1	expert_term 89 106	Heimlich maneuver
+T2	EXPLAINS 110 239	the first-aid procedure used to treat partial or complete blockage of the upper airway from an object that shouldn't be swallowed
+E1	EXPLAINS:T2 term:T1

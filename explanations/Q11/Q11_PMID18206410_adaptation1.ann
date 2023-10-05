@@ -1,0 +1,18 @@
+T3	expert_term 58 115	self-complementary adeno-associated virus (scAAV) vectors
+T4	EXPLAINS 117 234	a gene therapy tool that introduces genetic material using a modified virus to create a normal copy of a damaged gene
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 286 291	PDHA1
+T6	EXPLAINS 293 362	a gene involved in the chemical process to create energy for the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 876 891	Dichloroacetate
+T8	expert_term 922 944	mitochondrial diseases
+T9	expert_term 1042 1064	pyruvate dehydrogenase
+T10	EXPLAINS 1388 1463	a protein involved in the chemical process that creates energy for the body
+E4	EXPLAINS:T10 term:T1
+T11	EXPLAINS 1067 1112	an enzyme used in metabolism to create energy
+E5	EXPLAINS:T11 term:T9
+T12	EXPLAINS 946 1014	diseases where the miochondria cannot create enough energy for cells
+E6	EXPLAINS:T12 term:T8
+T13	EXPLAINS 893 944	a drug used to treat genetic mitochondrial diseases
+E7	EXPLAINS:T13 term:T7
+T1	expert_term 1364 1386	pyruvate dehydrogenase

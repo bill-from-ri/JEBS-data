@@ -1,0 +1,6 @@
+T1	expert_term 487 499	fibromyalgia
+T2	expert_term 452 462	duloxetine
+T3	EXPLAINS 464 472	Cymbalta
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 501 524	a chronic pain disorder
+E2	EXPLAINS:T4 term:T1

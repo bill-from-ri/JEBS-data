@@ -1,0 +1,9 @@
+T1	EXPLAINS 77 86	full-body
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 90 98	systemic
+T3	expert_term 90 118	systemic lupus erythematosus
+T4	EXPLAINS 126 223	an inflammatory disease in which immune cells mistakely attack joints, skin, brain cells and more
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1036 1047	anifrolumab
+T6	EXPLAINS 988 1034	type I interferon blocking molcule or antibody
+E3	EXPLAINS:T6 term:T5

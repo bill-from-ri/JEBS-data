@@ -1,0 +1,15 @@
+T1	expert_term 63 89	Membrane Lipid Replacement
+T2	EXPLAINS 93 184	a treatment that uses oral (by mouth) supplements to safely replace damaged membrane lipids
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 115 119	oral
+T4	expert_term 169 184	membrane lipids
+T5	EXPLAINS 121 129	by mouth
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 186 221	fatty substances on cell boundaries
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 225 231	Lipids
+T8	EXPLAINS 236 293	organic compounds such as fats, waxes, oils, and hormones
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 970 985	chronic fatigue
+T10	EXPLAINS 987 1009	long-lasting tiredness
+E5	EXPLAINS:T10 term:T9

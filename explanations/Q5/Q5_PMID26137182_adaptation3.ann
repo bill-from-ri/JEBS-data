@@ -1,0 +1,18 @@
+T1	expert_term 30 54	Popliteal synovial cysts
+T2	EXPLAINS 70 83	Baker's cysts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 120 150	intra-articular knee disorders
+T4	EXAMPLE 160 193	osteoarthritis and meniscus tears
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 240 255	synovial tissue
+T6	EXPLAINS 257 323	tissue that contains a protective fluid surrounding the knee joint
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 353 361	fibrosis
+T8	EXPLAINS 343 351	scarring
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 929 976	semimembranosus-medial head gastrocnemius bursa
+T10	EXPLAINS 980 1096	a fluid-filled sac that lies between semimembranosus muscle and superficial muscle in the back part of the lower leg
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1628 1642	damaged tissue
+T12	EXPLAINS 1644 1655	debridement
+E6	EXPLAINS:T12 term:T11

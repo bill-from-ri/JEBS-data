@@ -1,0 +1,12 @@
+T1	expert_term 250 259	gefitinib
+T2	EXPLAINS 261 276	an EGFR blocker
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 348 359	anastrozole
+T4	EXPLAINS 361 399	a drug commonly used for breast cancer
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 440 460	postmenopausal women
+T6	EXPLAINS 462 493	women who had their last period
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1581 1589	alopecia
+T8	EXPLAINS 1591 1612	hair loss or thinning
+E4	EXPLAINS:T8 term:T7

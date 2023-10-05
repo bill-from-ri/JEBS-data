@@ -1,0 +1,12 @@
+T1	expert_term 78 111	early-life respiratory infections
+T2	EXPLAINS 113 199	infections in the lungs that impact breathing and occur in the first few years of life
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 359 386	respiratory syncytial virus
+T4	EXPLAINS 388 446	a contagious virus that infects the lungs and airway tubes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 458 468	rhinovirus
+T6	EXPLAINS 470 485	the common cold
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 591 608	airway microbiome
+T8	EXPLAINS 610 655	micro-organisms such as bacteria in the lungs
+E4	EXPLAINS:T8 term:T7

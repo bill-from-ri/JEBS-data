@@ -1,0 +1,15 @@
+T1	expert_term 87 127	Methoxy polyethylene glycol-epoetin beta
+T2	EXPLAINS 141 240	an injection that is often used to treat anemia (low red blood cells) due to chronic kidney disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 182 188	anemia
+T4	EXPLAINS 190 209	low red blood cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 771 788	hemoglobin levels
+T6	expert_term 456 464	dialysis
+T7	EXPLAINS 466 564	a process of using a machine to clean the blood of a person whose kidneys are not working normally
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 790 838	count of proteins that carry oxygen in the blood
+E4	EXPLAINS:T8 term:T5
+T9	expert_term 1614 1621	leaflet
+T10	EXPLAINS 1625 1636	description
+E5	EXPLAINS:T10 term:T9

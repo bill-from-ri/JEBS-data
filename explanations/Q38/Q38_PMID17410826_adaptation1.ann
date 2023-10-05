@@ -1,0 +1,8 @@
+T1	expert_term 42 57	Pressure ulcers
+T2	EXPLAINS 76 166	injuries to the skin and underlying tissues caused by long periods of pressure on the skin
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 62 70	bedsores
+E2	EXPLAINS:T3 term:T1
+T4	expert_term 367 376	assessing
+T5	EXPLAINS 378 387	measuring
+E3	EXPLAINS:T5 term:T4

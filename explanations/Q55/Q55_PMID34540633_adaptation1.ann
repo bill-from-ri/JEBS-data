@@ -1,0 +1,30 @@
+T1	expert_term 100 124	chronic fatigue syndrome
+T2	EXPLAINS 132 154	long-lasting tiredness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 407 432	myalgic encephalomyelitis
+T4	EXPLAINS 445 516	a disease characterized with profound fatigue, abnormal sleep, and pain
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 701 711	autoimmune
+T6	EXPLAINS 713 749	immune cells attacking healthy cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 752 766	neuroendocrine
+T8	EXPLAINS 768 802	brain- and hormonal-related system
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1016 1034	Epstein Barr virus
+T10	EXPLAINS 1042 1054	herpes virus
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1215 1235	anaerobic metabolism
+T12	EXPLAINS 1237 1286	no-oxygen energy production on the cellular level
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1979 1987	cervical
+T14	expert_term 1998 2006	axillary
+T15	EXPLAINS 1989 1993	neck
+E7	EXPLAINS:T15 term:T13
+T16	EXPLAINS 2008 2014	armpit
+E8	EXPLAINS:T16 term:T14
+T17	expert_term 2202 2210	invasive
+T18	EXPLAINS 2212 2220	surgical
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 2291 2322	electrical acupoint stimulation
+T20	EXPLAINS 2324 2359	non-surgical electrical pain relief
+E10	EXPLAINS:T20 term:T19

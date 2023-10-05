@@ -1,0 +1,6 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	EXPLAINS 55 127	a condition where the potassium level in the blood is higher than normal
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 750 754	RAAS
+T4	EXPLAINS 758 832	a hormone system that manages blood pressure and fluid balance in the body
+E2	EXPLAINS:T4 term:T3

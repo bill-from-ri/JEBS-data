@@ -1,0 +1,15 @@
+T1	expert_term 28 46	leadless pacemaker
+T2	EXPLAINS 50 166	a small device placed directly into the right ventricle (lower chamber of the heart) which sends pulses to the heart
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 96 105	ventricle
+T4	EXPLAINS 107 133	lower chamber of the heart
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 305 316	transvenous
+T6	EXPLAINS 318 330	through-vein
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 477 499	transvenous pacemakers
+T8	EXPLAINS 501 635	a temporary pacing technique that places a catheter into the right ventricle (chamber) of the heart and then applies an electric pulse
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 568 577	ventricle
+T10	EXPLAINS 579 586	chamber
+E5	EXPLAINS:T10 term:T9

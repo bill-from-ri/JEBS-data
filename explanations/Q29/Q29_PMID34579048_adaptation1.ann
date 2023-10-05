@@ -1,0 +1,27 @@
+T1	expert_term 75 96	Coronavirus infection
+T2	EXPLAINS 98 126	a viral, respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 230 244	gut microbiota
+T4	EXPLAINS 246 354	which are important microorganisms in the digestive system that process food and help the body use nutrients
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 611 623	antioxidants
+T6	EXPLAINS 625 694	vitamins, minerals, and other nutrients that protect and repair cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 756 765	probiotic
+T8	EXPLAINS 767 780	good bacteria
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 849 865	oxidative stress
+T10	EXPLAINS 867 957	a condition that happens when antioxidant levels are low leading to cell and tissue damage
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 963 975	inflammation
+T12	EXPLAINS 977 1024	redness and swelling from fighting an infection
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1232 1236	ACE2
+T14	EXPLAINS 1152 1223	the protein receptor of the cell surface that allows the virus to enter
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1411 1435	renin-angiotensin system
+T16	EXPLAINS 1443 1515	which is the system that regulates blood pressure and fluids in the body
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1700 1711	amino acids
+T18	EXPLAINS 1713 1741	molecules that form proteins
+E9	EXPLAINS:T18 term:T17

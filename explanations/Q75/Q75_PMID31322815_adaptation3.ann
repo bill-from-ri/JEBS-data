@@ -1,0 +1,6 @@
+T1	expert_term 87 104	alpha-thalassemia
+T2	EXPLAINS 114 135	genetic blood disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 420 441	vaso-occlusive crises
+T4	EXPLAINS 396 418	blood vessel blockages
+E2	EXPLAINS:T4 term:T3

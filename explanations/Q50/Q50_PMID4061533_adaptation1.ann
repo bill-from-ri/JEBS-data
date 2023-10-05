@@ -1,0 +1,21 @@
+T1	expert_term 122 129	preterm
+T2	EXPLAINS 137 172	between week 20 and 27 of pregnancy
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 262 270	negative
+T4	EXPLAINS 272 284	no detection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 461 472	gestational
+T6	EXPLAINS 474 482	pregnant
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 602 614	inflammation
+T8	EXPLAINS 616 660	redness and swelling from infection-fighting
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 686 694	positive
+T10	EXPLAINS 696 713	with detection of
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 503 521	C-reactive protein
+T12	EXPLAINS 525 614	a type of protein found in the blood that increases during times of internal inflammation
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 910 926	chorioamnionitis
+T14	EXPLAINS 928 981	an infection within the membranes surrounding a fetus
+E7	EXPLAINS:T14 term:T13

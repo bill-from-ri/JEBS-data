@@ -1,0 +1,24 @@
+T1	expert_term 99 112	pitting edema
+T2	EXPLAINS 127 250	a condition where excess fluid builds up in part of the body and pressing into the swollen area leaves a pit or indentation
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 402 411	diuretics
+T4	EXPLAINS 413 468	medicines that help remove salt and water from the body
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 557 581	congestive heart failure
+T6	EXPLAINS 583 608	inefficient heart pumping
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 933 966	arthritis in at least five joints
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 968 981	polyarthritis
+T9	expert_term 1043 1063	rheumatoid arthritis
+T10	EXPLAINS 1070 1136	a long-lasting arthritis from immune cells attacking healthy cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1464 1476	prednisolone
+T12	EXPLAINS 1436 1456	a steroid medication
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1722 1735	cardiologists
+T14	EXPLAINS 1703 1720	heart specialists
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1870 1882	differential
+T16	EXPLAINS 1884 1893	potential
+E8	EXPLAINS:T16 term:T15

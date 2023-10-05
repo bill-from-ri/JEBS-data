@@ -1,0 +1,18 @@
+T1	expert_term 87 95	Covid-19
+T2	EXPLAINS 97 125	a viral, respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 265 292	Emergency Use Authorization
+T4	EXPLAINS 294 343	where unapproved medicines are allowed to be used
+E2	EXPLAINS:T4 term:T3
+T6	expert_term 781 795	adverse events
+T5	EXPLAINS 748 779	unexpected serious side effects
+E3	EXPLAINS:T5 term:T6
+T7	expert_term 849 887	Vaccine Adverse Event Reporting System
+T8	EXPLAINS 897 995	a national vaccine safety tracking system that accepts reports of adverse events after vaccination
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1130 1141	anaphylaxis
+T10	EXPLAINS 1144 1180	a life-threatening allergic reaction
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1182 1193	Anaphylaxis
+T12	EXPLAINS 1197 1270	a life-threatening allergic reaction that occurs rarely after vaccination
+E6	EXPLAINS:T12 term:T11

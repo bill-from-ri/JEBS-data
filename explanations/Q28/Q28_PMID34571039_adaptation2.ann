@@ -1,0 +1,3 @@
+T1	expert_term 68 115	severe acute respiratory syndrome coronavirus 2
+T2	EXPLAINS 130 163	a breathing-related viral illness
+E1	EXPLAINS:T2 

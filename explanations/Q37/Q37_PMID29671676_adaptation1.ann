@@ -1,0 +1,27 @@
+T1	expert_term 98 112	gabapentinoids
+T2	EXPLAINS 114 162	drugs often used to prevent and control seizures
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 323 331	sedation
+T4	expert_term 349 367	cognitive function
+T5	EXPLAINS 333 343	relaxation
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 369 385	thinking ability
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 662 671	variation
+T8	expert_term 689 696	lateral
+T9	expert_term 724 731	tremors
+T10	EXPLAINS 673 684	differences
+E4	EXPLAINS:T10 term:T7
+T11	EXPLAINS 698 702	side
+E5	EXPLAINS:T11 term:T8
+T12	EXPLAINS 733 740	shaking
+E6	EXPLAINS:T12 term:T9
+T13	expert_term 838 860	One Card Learning Test
+T14	EXPLAINS 862 899	a test used to test short term memory
+E7	EXPLAINS:T14 term:T13
+T15	EXPLAINS 1095 1127	abnormal nervous system function
+E8	EXPLAINS:T15 term:T16
+T16	expert_term 1080 1093	neurotoxicity
+T17	expert_term 1172 1194	postherpetic neuralgia
+T18	EXPLAINS 1196 1228	nerve-related pain from shingles
+E9	EXPLAINS:T18 term:T17

@@ -1,0 +1,36 @@
+T1	expert_term 44 60	Hypophosphatasia
+T2	EXPLAINS 70 135	a rare and under-recognized genetic defect in bone mineralization
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 137 156	Bone mineralization
+T4	EXPLAINS 160 186	when bone become calcified
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 271 283	osteoporosis
+T6	EXPLAINS 285 298	brittle bones
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 334 356	antiresorptive therapy
+T8	EXPLAINS 361 399	drugs that block the breakdown of bone
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 548 557	denosumba
+T10	EXPLAINS 559 587	a drug to treat osteoporosis
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 595 600	serum
+T12	EXPLAINS 602 607	blood
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 806 809	ALP
+T14	EXPLAINS 813 847	an enzyme that helps bone strength
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 913 925	teriparatide
+T16	EXPLAINS 927 947	an osteoporosis drug
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1176 1191	bisphosphonates
+T18	EXPLAINS 1193 1222	drugs that limit bone density
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1707 1717	vitamin B6
+T20	EXPLAINS 1719 1749	a chemical that works with ALP
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1890 1903	asfotase alfa
+T22	expert_term 1957 1965	anabolic
+T23	EXPLAINS 1967 1976	repairing
+E11	EXPLAINS:T23 term:T22
+T24	EXPLAINS 1853 1879	a chemical ALP reacts with
+E12	EXPLAINS:T24 term:T21

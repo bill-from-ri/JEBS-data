@@ -1,0 +1,33 @@
+T1	expert_term 82 91	beta-cell
+T2	EXPLAINS 93 115	insulin-producing cell
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 157 173	immune tolerance
+T4	EXPLAINS 175 222	state of unresponsiveness of the body's defense
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 385 397	inflammation
+T6	EXPLAINS 399 417	infection-fighting
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 431 437	islets
+T8	EXPLAINS 439 478	clusters of cells that produce hormones
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 501 522	islet-cell antibodies
+T10	EXPLAINS 524 569	proteins made against insulin-producing cells
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 685 692	enzymes
+T12	EXPLAINS 673 683	substances
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 940 954	islet antigens
+T14	EXPLAINS 956 1004	substances that causes the body to defend itself
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1057 1066	insulitis
+T16	EXPLAINS 1068 1146	disease of the pancreas caused by the infiltration of immune white blood cells
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1211 1218	T cells
+T18	EXPLAINS 1220 1253	part of the body's defense system
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1293 1300	enzymes
+T20	EXPLAINS 1281 1291	substances
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 2037 2056	autoimmune diabetes
+T22	EXPLAINS 2058 2116	diabetes from the body mistakenly destroying its own cells
+E11	EXPLAINS:T22 term:T21

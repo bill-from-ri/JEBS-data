@@ -1,0 +1,9 @@
+T1	expert_term 80 90	SARS-CoV-2
+T2	EXPLAINS 92 119	a viral respiratory disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 260 281	polyclonal antibodies
+T4	EXPLAINS 290 352	a mixture of antibodies that bind to the same foreign organism
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 675 683	COVID-19
+T6	EXPLAINS 685 723	a widespread viral respiratory disease
+E3	EXPLAINS:T6 term:T5

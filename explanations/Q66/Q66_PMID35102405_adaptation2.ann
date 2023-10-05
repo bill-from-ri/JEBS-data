@@ -1,0 +1,18 @@
+T1	expert_term 48 66	Nephrotic syndrome
+T2	EXPLAINS 81 188	a variety of underlying diseases that lead to serious proteinuria (too much protein in the blood) and edema
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 135 146	proteinuria
+T4	EXPLAINS 148 177	too much protein in the blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 183 188	edema
+T6	EXPLAINS 190 203	fluid buildup
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 416 434	glomerulosclerosis
+T8	EXPLAINS 436 453	which follows MCD
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 206 228	Minimal change disease
+T10	EXPLAINS 244 271	the most common cause of NS
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1072 1094	calcineurin inhibitors
+T12	EXPLAINS 1096 1144	a class of drugs that suppress the immune system
+E6	EXPLAINS:T12 term:T11

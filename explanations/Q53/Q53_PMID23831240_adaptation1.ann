@@ -1,0 +1,9 @@
+T1	expert_term 244 251	fasting
+T2	EXPLAINS 253 294	no food and/or water for a period of time
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 296 302	plasma
+T4	EXPLAINS 304 309	blood
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 949 959	associated
+T6	EXPLAINS 961 967	linked
+E3	EXPLAINS:T6 term:T5

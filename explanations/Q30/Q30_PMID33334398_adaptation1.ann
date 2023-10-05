@@ -1,0 +1,15 @@
+T1	expert_term 143 154	coronavirus
+T2	EXPLAINS 156 208	which causes COVID-19 - a viral, respiratory illness
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 169 177	COVID-19
+T4	EXPLAINS 180 208	a viral, respiratory illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 293 301	positive
+T6	EXPLAINS 306 320	virus-detected
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 365 380	false negatives
+T8	EXPLAINS 382 466	when a person tests negative - not having the virus - but they are actually positive
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 402 410	negative
+T10	EXPLAINS 413 433	not having the virus
+E5	EXPLAINS:T10 term:T9

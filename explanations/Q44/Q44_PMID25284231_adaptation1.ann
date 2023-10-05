@@ -1,0 +1,9 @@
+T1	expert_term 915 923	assessed
+T2	EXPLAINS 925 933	measured
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1208 1219	tachycardia
+T4	EXPLAINS 1221 1236	high heart rate
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 2151 2162	reappraisal
+T6	EXPLAINS 2164 2172	revision
+E3	EXPLAINS:T6 term:T5

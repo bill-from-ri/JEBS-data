@@ -1,0 +1,12 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	EXPLAINS 55 127	a condition where the potassium level in the blood is higher than normal
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 946 956	creatinine
+T4	EXPLAINS 958 986	a waste product from muscles
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 993 1003	osmolality
+T6	EXPLAINS 1005 1051	the kidney's ability to balance water in urine
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1580 1598	sodium polystyrene
+T8	EXPLAINS 1600 1628	a potassium-binding medicine
+E4	EXPLAINS:T8 term:T7

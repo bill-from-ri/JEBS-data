@@ -1,0 +1,12 @@
+T1	expert_term 41 50	Metformin
+T2	EXPLAINS 54 137	a medication that has been proposed as a treatment for systemic lupus erythematosus
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 109 137	systemic lupus erythematosus
+T4	EXPLAINS 147 192	when your immune system attacks healthy cells
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 292 311	autoimmune diseases
+T6	EXPLAINS 313 400	which are diseases where the immune system mistakenly attacks healthy cells and tissues
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 540 557	redox homeostasis
+T8	EXPLAINS 559 631	a balanced level of reactive oxygen molecules that signal to other cells
+E4	EXPLAINS:T8 term:T7

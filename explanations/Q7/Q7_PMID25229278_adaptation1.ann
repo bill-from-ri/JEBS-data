@@ -1,0 +1,9 @@
+T1	expert_term 30 53	Sore throat/tonsillitis
+T2	EXPLAINS 58 108	when the back of the throat or tonsils is inflamed
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 453 468	rheumatic fever
+T4	EXPLAINS 470 512	a disease that inflames the body's tissues
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1515 1526	Penicillins
+T6	EXPLAINS 1528 1549	a type of antibiotics
+E3	EXPLAINS:T6 term:T5

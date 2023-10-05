@@ -1,0 +1,12 @@
+T1	expert_term 48 63	Cystic fibrosis
+T2	EXPLAINS 72 199	a disease inherited from both parents caused when the CF transmembrane conductance Regulator (CFTR) protein no longer functions
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 285 301	epithelial cells
+T4	EXPLAINS 303 356	cells that cover outer surface of the internal organs
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 423 440	endothelial cells
+T6	EXPLAINS 442 489	cells that cover the blood vessel inner surface
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 978 998	Vascular endothelium
+T8	EXPLAINS 1000 1061	the inner cellular lining of arteries, veins, and capillaries
+E4	EXPLAINS:T8 term:T7

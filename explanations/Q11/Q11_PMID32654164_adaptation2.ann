@@ -1,0 +1,9 @@
+T1	expert_term 31 41	epilepsies
+T2	expert_term 432 446	ketogenic diet
+T3	EXPLAINS 453 468	a low-carb diet
+E1	EXPLAINS:T3 term:T2
+T4	EXPLAINS 43 112	a disorder that disturbs brain and nerve activity and causes seizures
+E2	EXPLAINS:T4 term:T1
+T5	EXPLAINS 1229 1296	disorders that disturbe brain and nerve activity and cause seizures
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 1217 1227	epilepsies

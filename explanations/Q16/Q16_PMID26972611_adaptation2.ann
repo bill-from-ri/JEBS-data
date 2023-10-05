@@ -1,0 +1,6 @@
+T1	expert_term 448 462	hydrocortisone
+T2	EXPLAINS 469 484	steroid hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 266 274	immunome
+T4	EXPLAINS 211 247	cellular and molecular immune system
+E2	EXPLAINS:T4 term:T3

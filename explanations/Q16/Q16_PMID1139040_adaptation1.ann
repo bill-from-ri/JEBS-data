@@ -1,0 +1,18 @@
+T1	expert_term 73 84	lymphocytes
+T2	expert_term 280 294	hydrocortisone
+T3	expert_term 741 756	lymphocytopenia
+T4	expert_term 1044 1057	radioactivity
+T5	expert_term 1237 1254	lymphocyte counts
+T6	EXPLAINS 1256 1278	white blood cell count
+E1	EXPLAINS:T6 term:T5
+T7	EXPLAINS 1059 1076	release of energy
+E2	EXPLAINS:T7 term:T4
+T8	EXPLAINS 758 812	a lower-than-normal number of lymphocytes in the blood
+E3	EXPLAINS:T8 term:T3
+T9	EXPLAINS 296 352	a steroid medication used to help calm the immune system
+E4	EXPLAINS:T9 term:T2
+T10	EXPLAINS 86 146	a type of white blood cell that is part of the immune system
+E5	EXPLAINS:T10 term:T1
+T11	expert_term 968 978	lymphocyte
+T12	EXPLAINS 980 996	white blood cell
+E6	EXPLAINS:T12 term:T11

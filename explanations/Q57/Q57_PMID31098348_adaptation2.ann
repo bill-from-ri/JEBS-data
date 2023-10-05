@@ -1,0 +1,6 @@
+T1	expert_term 469 480	spinal cord
+T2	EXPLAINS 484 549	the bundle of nerve tissues that connects the brain with the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 669 678	brainstem
+T4	EXPLAINS 680 737	the bottom part of the brain connected to the spinal cord
+E2	EXPLAINS:T4 term:T3

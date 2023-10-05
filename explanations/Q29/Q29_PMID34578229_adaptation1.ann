@@ -1,0 +1,15 @@
+T1	expert_term 75 87	Lactobacilli
+T2	EXPLAINS 91 156	a type of probiotic (good bacteria) found in the digestive system
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 101 110	probiotic
+T4	EXPLAINS 112 125	good bacteria
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 537 548	coronavirus
+T6	EXPLAINS 550 574	a virus causing COVID-19
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 566 574	COVID-19
+T8	EXPLAINS 577 593	a lung infection
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1243 1253	probiotics
+T10	EXPLAINS 1228 1241	good bacteria
+E5	EXPLAINS:T10 term:T9

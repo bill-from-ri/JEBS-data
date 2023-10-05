@@ -1,0 +1,51 @@
+T1	expert_term 44 60	Hypophosphatasia
+T2	EXPLAINS 64 112	genetic condition that blocks metabolic pathways
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 137 155	hypophosphatasemia
+T4	EXPLAINS 159 246	low serum (blood) levels of a protein, alkaline phosphatase, that indicates bone health
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 163 168	serum
+T6	EXPLAINS 170 175	blood
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 198 218	alkaline phosphatase
+T8	EXPLAINS 187 196	a protein
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 253 262	biomarker
+T10	EXPLAINS 267 315	a measurable compound to determine health status
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 388 397	isoenzyme
+T12	EXPLAINS 399 403	form
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 439 445	TNSALP
+T14	EXPLAINS 449 528	an enzyme that is expressed in the skeleton, liver, kidney and developing teeth
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 582 592	substrates
+T16	EXPLAINS 594 622	substances altered by TNSALP
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 685 694	inhibitor
+T18	EXPLAINS 696 703	blocker
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 667 680	pyrophosphate
+T20	EXPLAINS 682 722	an inhibitor (blocker) of mineralization
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 882 895	hypercalcemia
+T22	EXPLAINS 897 916	high calcium levels
+E11	EXPLAINS:T22 term:T21
+T23	expert_term 922 941	hyperphosphatasemia
+T24	EXPLAINS 943 975	high alkaline phosphatase levels
+E12	EXPLAINS:T24 term:T23
+T25	expert_term 1239 1243	ALPL
+T26	EXPLAINS 1245 1283	which encodes for alkaline phosphatase
+E13	EXPLAINS:T26 term:T25
+T27	expert_term 1336 1352	hypophosphatasia
+T28	EXPLAINS 1354 1383	a rare, genetic bone disorder
+E14	EXPLAINS:T28 term:T27
+T29	expert_term 1521 1540	phosphoethanolamine
+T30	EXPLAINS 1542 1579	which helps construct cell boundaries
+E15	EXPLAINS:T30 term:T29
+T31	expert_term 1792 1801	pediatric
+T32	EXPLAINS 1803 1808	child
+E16	EXPLAINS:T32 term:T31
+T33	expert_term 2071 2084	asfotase alfa
+T34	EXPLAINS 2086 2105	a prescription drug
+E17	EXPLAINS:T34 term:T33

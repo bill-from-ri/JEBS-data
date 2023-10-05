@@ -1,0 +1,3 @@
+T1	expert_term 381 394	Primary cilia
+T2	EXPLAINS 399 484	long protrusions on cells that act as an antenna and are important during development
+E1	EXPLAINS:T2 term:T1

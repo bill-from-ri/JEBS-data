@@ -1,0 +1,12 @@
+T1	expert_term 143 153	gabapentin
+T2	EXPLAINS 155 186	a nerve-related pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 287 296	pediatric
+T4	EXPLAINS 307 328	less the 21 years old
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 445 451	orally
+T6	expert_term 69 78	pediatric
+T7	EXPLAINS 82 87	child
+E3	EXPLAINS:T7 term:T6
+T8	EXPLAINS 453 461	by mouth
+E4	EXPLAINS:T8 term:T5

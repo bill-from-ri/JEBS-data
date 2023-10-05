@@ -1,0 +1,6 @@
+T1	expert_term 108 131	benzodiazepine receptor
+T2	EXPLAINS 138 181	a molecule that receives signals for a cell
+E1	EXPLAINS:T2 
+T3	expert_term 183 198	inverse agonist
+T4	EXPLAINS 200 308	a drug that binds to the same receptor as an agonist or stimulating molecule but causes an opposite response
+E2	EXPLAINS:T4 

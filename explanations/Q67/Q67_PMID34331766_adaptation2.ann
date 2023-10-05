@@ -1,0 +1,3 @@
+T1	expert_term 59 75	Physical therapy
+T2	EXPLAINS 84 166	often given to patients that had knee replacement after after leaving the hospital
+E1	EXPLAINS:T2 term:T1

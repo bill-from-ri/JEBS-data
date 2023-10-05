@@ -1,0 +1,12 @@
+T1	expert_term 209 256	minimally invasive percutaneous nephrolithotomy
+T3	expert_term 370 407	standard percutaneous nephrolithotomy
+T4	EXPLAINS 413 454	uses a larger instrument to remove stones
+E1	EXPLAINS:T4 term:T3
+T5	expert_term 1077 1091	vacuum suction
+T6	EXPLAINS 1093 1121	vacuuming up stone fragments
+E2	EXPLAINS:T6 term:T5
+T7	expert_term 1897 1905	staghorn
+T8	EXPLAINS 1907 1913	larger
+E3	EXPLAINS:T8 term:T7
+T2	EXPLAINS 266 407	when a doctor makes a small incision in the patient and uses a scope to remove kidney stones versus the standard percutaneous nephrolithotomy
+E4	EXPLAINS:T2 term:T1

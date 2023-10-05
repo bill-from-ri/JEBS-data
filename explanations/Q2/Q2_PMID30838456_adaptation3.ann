@@ -1,0 +1,7 @@
+T1	expert_term 92 101	serotonin
+T2	expert_term 113 127	norepinephrine
+T3	EXPLAINS 55 69	antidepressant
+E1	EXPLAINS:T3 term:T1 term2:T2
+T4	expert_term 391 416	Duloxetine's side effects
+T5	EXAMPLE 425 528	upset stomach, dry mouth, dizzy spells, constipation, high blood pressure, and loss of sleep and energy
+E2	EXAMPLE:T5 term:T4

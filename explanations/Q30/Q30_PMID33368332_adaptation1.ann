@@ -1,0 +1,9 @@
+T1	expert_term 78 89	coronavirus
+T2	EXPLAINS 91 143	a virus causing the lung infection known as Covid-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 170 191	positive RT-PCR tests
+T4	EXPLAINS 193 298	a type of test that looks for traces of DNA from the virus and signals positive if there is virus present
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 824 838	hypothyroidism
+T6	EXPLAINS 840 878	not enough thyroid hormone in the body
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,12 @@
+T1	expert_term 159 176	Hemorrhagic shock
+T2	EXPLAINS 180 239	a condition produced by rapid and significant loss of blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 516 529	Resuscitation
+T4	EXPLAINS 531 538	revival
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 612 623	hypotension
+T6	EXPLAINS 625 649	decreased blood pressure
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1014 1025	transfusion
+T8	EXPLAINS 1027 1035	transfer
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,18 @@
+T1	expert_term 87 100	RT-PCR assays
+T2	EXPLAINS 64 79	molecular tools
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 129 145	SARS-CoV-2 virus
+T4	EXPLAINS 147 202	which can cause a threatening breathing-related illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 283 297	false positive
+T6	EXPLAINS 239 276	detecting a target when there is none
+E3	EXPLAINS:T6 term:T5
+T7	EXPLAINS 316 356	not detecting a target when there is one
+E4	EXPLAINS:T7 term:T8
+T8	expert_term 363 377	false negative
+T9	expert_term 660 673	oropharyngeal
+T10	EXPLAINS 682 695	mouth samples
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 738 752	nasopharyngeal
+T12	EXPLAINS 761 774	nasal samples
+E6	EXPLAINS:T12 term:T11

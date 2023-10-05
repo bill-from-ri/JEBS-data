@@ -1,0 +1,33 @@
+T1	expert_term 121 136	oral prednisone
+T2	expert_term 225 237	prednisolone
+T3	expert_term 287 293	Plasma
+T4	expert_term 406 445	high performance liquid chromatographic
+T5	expert_term 630 646	pharmacokinetics
+T6	expert_term 725 739	dose-dependent
+T7	expert_term 857 866	half-life
+T8	expert_term 1133 1152	steady-state volume
+T9	expert_term 1518 1534	transcortin-free
+T10	expert_term 1824 1829	renal
+T11	expert_term 1901 1910	nonlinear
+T12	EXPLAINS 1912 1991	increases in drug exposure are not directly related to increases in given doses
+E1	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1831 1845	kidney-related
+E2	EXPLAINS:T13 term:T10
+T14	EXPLAINS 1536 1568	free of a protein from the liver
+E3	EXPLAINS:T14 term:T9
+T15	EXPLAINS 1154 1254	when how much the body is given of prednisolone is equal to how much of the drug the body eliminates
+E4	EXPLAINS:T15 term:T8
+T16	EXPLAINS 868 973	how long it takes for a drug concentration to be reduced to exactly half its initial amount in the blood)
+E5	EXPLAINS:T16 term:T7
+T17	EXPLAINS 741 815	in which the effects of a drug change when the dose of the drug is changed
+E6	EXPLAINS:T17 term:T6
+T18	EXPLAINS 648 675	how the body handles a drug
+E7	EXPLAINS:T18 term:T5
+T19	EXPLAINS 447 556	a technique that separates, identifies, and counts different parts in a mixture that makes it easy to analyze
+E8	EXPLAINS:T19 term:T4
+T20	EXPLAINS 295 322	the liquid portion of blood
+E9	EXPLAINS:T20 term:T3
+T21	EXPLAINS 239 284	steroid medication delivered through the vein
+E10	EXPLAINS:T21 term:T2
+T22	EXPLAINS 138 171	steroid medication given by mouth
+E11	EXPLAINS:T22 term:T1

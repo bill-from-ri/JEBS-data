@@ -1,0 +1,6 @@
+T1	expert_term 871 877	plasma
+T2	EXPLAINS 879 884	blood
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1060 1073	hypometabolic
+T4	EXPLAINS 1078 1107	abnormally low metabolic rate
+E2	EXPLAINS:T4 term:T3

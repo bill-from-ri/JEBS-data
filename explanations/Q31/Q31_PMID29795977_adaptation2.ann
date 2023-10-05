@@ -1,0 +1,9 @@
+T1	expert_term 133 186	vesicular monoamine transporter-2 (VMAT-2) inhibitors
+T2	EXPLAINS 188 223	drugs that treat movement disorders
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 238 256	tardive dyskinesia
+T4	EXPLAINS 263 314	a movement disorder of irregular, jerking movements
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1484 1496	acute trials
+T6	EXPLAINS 1467 1482	dummy treatment
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,9 @@
+T1	EXPLAINS 798 839	a neurotransmitter involved in motivation
+E1	EXPLAINS:T1 term:T2
+T2	expert_term 788 796	dopamine
+T3	expert_term 1110 1126	anticholinergics
+T4	EXPLAINS 1128 1158	which block a neurotransmitter
+E2	EXPLAINS:T4 term:T3
+T5	EXAMPLE 1192 1205	such as Botox
+E3	EXAMPLE:T5 term:T6
+T6	expert_term 1175 1190	botulinum toxin

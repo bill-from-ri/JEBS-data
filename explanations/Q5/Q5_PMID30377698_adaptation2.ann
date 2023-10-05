@@ -1,0 +1,6 @@
+T1	expert_term 29 48	Knee osteoarthritis
+T2	EXPLAINS 52 68	a common disease
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 90 102	Baker's cyst
+T4	EXPLAINS 104 141	a fluid-filled pocket behind the knee
+E2	EXPLAINS:T4 term:T3

@@ -1,0 +1,27 @@
+T1	expert_term 136 150	cell membranes
+T2	expert_term 252 272	Total-body K+ conten
+T3	expert_term 435 442	Insulin
+T4	expert_term 543 560	β-adrenergic tone
+T5	expert_term 797 812	pathophysiology
+T6	expert_term 1004 1018	K+ homeostasis
+T7	EXPLAINS 1020 1104	processes used by the body to maintain a normal potassium concentration in the fluid
+E1	EXPLAINS:T7 term:T6
+T8	EXPLAINS 814 878	physical changes that come with a particular syndrome or disease
+E2	EXPLAINS:T8 term:T5
+T9	EXPLAINS 562 639	a group of organs and nerves where hormones are able to signal to other cells
+E3	EXPLAINS:T9 term:T4
+T10	EXPLAINS 444 537	a hormone that allows the cells in the muscles, fat, and liver to absorb sugar from the blood
+E4	EXPLAINS:T10 term:T3
+T11	EXPLAINS 275 332	a method for measuring body composition and mass of cells
+E5	EXPLAINS:T11 term:T2
+T12	EXPLAINS 152 188	the thick layer that surrounds cells
+E6	EXPLAINS:T12 term:T1
+T13	expert_term 98 100	K+
+T14	EXPLAINS 87 96	potassium
+E7	EXPLAINS:T14 term:T13
+T15	EXPLAINS 656 665	potassium
+E8	EXPLAINS:T15 term:T16
+T16	expert_term 667 669	K+
+T17	EXPLAINS 1170 1179	potassium
+E9	EXPLAINS:T17 term:T18
+T18	expert_term 1181 1183	K+

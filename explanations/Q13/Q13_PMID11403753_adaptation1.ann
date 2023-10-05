@@ -1,0 +1,12 @@
+T1	expert_term 49 68	Atrial fibrillation
+T2	EXPLAINS 72 145	a fluttery and irregular heartbeat that can lead to blood clots or stroke
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 217 259	a test that produces pictures of the heart
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 267 299	transesophageal echocardiography
+T5	expert_term 372 385	cardioversion
+T6	EXPLAINS 387 468	a procedure used to return an irregular or very fast heartbeat to a normal rhythm
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 713 725	Sinus rhythm
+T8	EXPLAINS 729 830	the pattern of your heartbeat based on the sinus node of your heart which sends out electrical pulses
+E4	EXPLAINS:T8 term:T7

@@ -1,0 +1,6 @@
+T1	expert_term 680 702	relative motion splint
+T2	EXPLAINS 704 779	a piece of sturdy material to support injured bones and allow some movement
+E1	EXPLAINS:T2 term:T1
+T3	EXPLAINS 449 498	the joint where the finger connects with the hand
+E2	EXPLAINS:T3 term:T4
+T4	expert_term 434 447	first knuckle

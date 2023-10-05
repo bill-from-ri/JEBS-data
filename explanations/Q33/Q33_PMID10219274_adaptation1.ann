@@ -1,0 +1,21 @@
+T1	expert_term 195 211	pharmacokinetics
+T2	EXPLAINS 216 229	drug activity
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 234 240	orally
+T4	EXPLAINS 242 250	by mouth
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 359 363	oral
+T6	EXPLAINS 370 378	by mouth
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 590 596	plasma
+T8	EXPLAINS 601 606	blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 821 825	peak
+T10	EXPLAINS 812 819	highest
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 916 938	volume of distribution
+T12	EXPLAINS 940 1006	the ability of various drugs to distribute through the body fluids
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1408 1412	peak
+T14	EXPLAINS 1399 1406	highest
+E7	EXPLAINS:T14 term:T13

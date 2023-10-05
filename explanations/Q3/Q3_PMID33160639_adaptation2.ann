@@ -1,0 +1,9 @@
+T1	expert_term 39 51	Hyperkalemia
+T2	EXPLAINS 53 73	high blood potassium
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1013 1075	renin-angiotensin-aldosterone system inhibitor (RAASi) therapy
+T4	EXPLAINS 1077 1150	which blocks kidney-related monitoring of blood pressure and electrolytes
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 941 1002	patiromer sorbitex calcium and sodium zirconium cyclosilicate
+T6	EXPLAINS 918 939	New potassium binders
+E3	EXPLAINS:T6 term:T5

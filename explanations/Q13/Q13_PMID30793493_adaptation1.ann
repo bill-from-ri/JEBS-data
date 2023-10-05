@@ -1,0 +1,27 @@
+T1	expert_term 80 106	sleep-disordered breathing
+T2	EXPLAINS 114 197	a potentially serious sleep disorder in which breathing repeatedly stops and starts
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 203 222	atrial fibrillation
+T4	EXPLAINS 229 317	an irregular and often very rapid heart rhythm that can lead to blood clots in the heart
+E2	EXPLAINS:T4 term:T3
+T5	EXPLAINS 463 489	lasting longer than 7 days
+E3	EXPLAINS:T5 term:T6
+T6	expert_term 451 461	persistent
+T7	expert_term 565 578	cardioversion
+T8	EXPLAINS 580 661	a procedure used to return an irregular or very fast heartbeat to a normal rhythm
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 677 686	pacemaker
+T10	EXPLAINS 688 779	a small device that is inserted under the skin of the chest to help the heart beat normally
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 786 816	atrioventricular node ablation
+T12	EXPLAINS 818 916	heat energy to destroy a small amount of tissue between the upper and lower chambers of your heart
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 944 955	AF ablation
+T14	EXPLAINS 957 1107	using small burns or freezes to cause some scarring on the inside of the heart to help break up the electrical signals that cause irregular heartbeats
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1329 1351	apnoea-hypopnoea index
+T16	EXPLAINS 1359 1426	the number of breathing pauses or disruptions per hour while asleep
+E8	EXPLAINS:T16 term:T15
+T20	EXPLAINS 1731 1832	the pattern of your heartbeat based on the sinus node of your heart which sends out electrical pulses
+E11	EXPLAINS:T20 term:T19
+T19	expert_term 1717 1729	sinus rhythm

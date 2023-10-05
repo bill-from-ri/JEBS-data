@@ -1,0 +1,18 @@
+T1	expert_term 60 76	sleep-wake cycle
+T2	EXPLAINS 78 109	our-24 hour daily sleep pattern
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 214 228	cardiac events
+T4	EXPLAINS 230 274	reduced blood flow that may damage the heart
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 768 787	atrial fibrillation
+T6	EXPLAINS 789 852	a fluttery and irregular heartbeat that can lead to blood clots
+E3	EXPLAINS:T6 term:T5
+T11	expert_term 906 930	positive airway pressure
+T12	EXPLAINS 932 1002	a machine used to pump air under pressure into the airway of the lungs
+E6	EXPLAINS:T12 term:T11
+T13	EXPLAINS 1032 1138	(a device that tracks and adjusts its pressure to match the breathing pattern of a person with sleep apnea
+E7	EXPLAINS:T13 term:T14
+T14	expert_term 1005 1031	adaptive servo-ventilation
+T15	expert_term 1145 1170	phrenic nerve stimulation
+T16	EXPLAINS 1172 1294	treatment that sends electrical stimulation to the patient's phrenic nerve to contract the diaphragm and produce breathing
+E8	EXPLAINS:T16 term:T15

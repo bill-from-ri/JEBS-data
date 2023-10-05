@@ -1,0 +1,9 @@
+T1	expert_term 106 117	anifrolumab
+T2	EXPLAINS 119 144	an immunosuppressive drug
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 227 255	systemic lupus erythematosus
+T4	expert_term 227 235	systemic
+T5	EXPLAINS 214 223	full-body
+E2	EXPLAINS:T5 term:T4
+T6	EXPLAINS 263 360	an inflammatory disease in which immune cells mistakely attack joints, skin, brain cells and more
+E3	EXPLAINS:T6 term:T3

@@ -1,0 +1,12 @@
+T1	expert_term 42 65	Wound pressure injuries
+T2	EXPLAINS 67 77	skin sores
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 591 602	Soft tissue
+T4	EXAMPLE 612 698	muscles, fat, blood vessels, nerves, tendons, and tissues surrounding bones and joints
+E2	EXAMPLE:T4 term:T3
+T5	expert_term 1109 1116	hypoxia
+T6	EXPLAINS 1118 1139	low oxygen in tissues
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1355 1381	Capillary closing pressure
+T8	EXPLAINS 1385 1449	the minimal amount of pressure needed to collapse a blood vessel
+E4	EXPLAINS:T8 term:T7

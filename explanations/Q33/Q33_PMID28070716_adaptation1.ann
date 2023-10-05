@@ -1,0 +1,9 @@
+T1	expert_term 73 83	gabapentin
+T2	EXPLAINS 90 121	a nerve-related pain medication
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 599 606	chronic
+T4	EXPLAINS 608 615	ongoing
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 625 633	epilepsy
+T6	EXPLAINS 635 652	seizure disorders
+E3	EXPLAINS:T6 term:T5

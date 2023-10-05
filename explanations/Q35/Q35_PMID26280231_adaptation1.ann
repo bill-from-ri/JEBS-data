@@ -1,0 +1,6 @@
+T1	expert_term 65 77	osteoporosis
+T2	EXPLAINS 79 129	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 317 349	dual energy x-ray absorptiometry
+T4	EXPLAINS 354 375	bone density scanning
+E2	EXPLAINS:T4 term:T3

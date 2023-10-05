@@ -1,0 +1,6 @@
+T1	expert_term 30 60	Bronchial hypperresponsiveness
+T2	EXPLAINS 62 118	increased lung sensitivity to airway-narrowing particles
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 161 167	asthma
+T4	EXPLAINS 169 200	a disease restricting breathing
+E2	EXPLAINS:T4 term:T3

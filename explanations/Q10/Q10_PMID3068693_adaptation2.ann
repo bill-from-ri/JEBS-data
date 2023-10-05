@@ -1,0 +1,33 @@
+T1	expert_term 233 244	radiographs
+T2	EXPLAINS 246 278	images created usually by x-rays
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 509 519	cellulitis
+T4	EXPLAINS 521 547	a bacterial skin infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 550 560	tendinitis
+T6	EXPLAINS 562 589	an irritation of the tendon
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 592 602	paronychia
+T8	EXPLAINS 604 630	a bacterial nail infection
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 633 638	felon
+T10	EXPLAINS 640 671	a bacterial fingertip infection
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 678 684	emboli
+T12	EXPLAINS 686 709	a blood vessel blockage
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1096 1125	Full-body autoimmune diseases
+T14	EXPLAINS 1127 1192	diseases in which infection-preventing cells attack healthy cells
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1366 1405	hypertrophic pulmonary osteoarthropathy
+T16	EXPLAINS 1407 1488	a rare disease with irritation around the bone and joints and enlarged fingertips
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1490 1518	Reflex sympathetic dystrophy
+T18	EXPLAINS 1520 1560	a disease causing long-lasting limb pain
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1841 1855	rheumatologist
+T20	expert_term 1905 1916	neurologist
+T21	EXPLAINS 1857 1899	a doctor who treats musculoskeletal issues
+E10	EXPLAINS:T21 term:T19
+T22	EXPLAINS 1918 1958	a doctor who treats nerve-related issues
+E11	EXPLAINS:T22 term:T20

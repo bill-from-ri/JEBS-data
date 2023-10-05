@@ -1,0 +1,24 @@
+T1	expert_term 70 80	gabapentin
+T2	EXPLAINS 90 242	an addition to the regular treatment of partial seizures with or without becoming generalized seizures in the entire brain in people older than 12 years
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 486 503	neurotransmitters
+T4	EXPLAINS 505 537	signaling molecules in the brain
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 626 633	neurons
+T6	EXPLAINS 635 646	brain cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 913 937	maximally effective dose
+T8	EXPLAINS 939 1002	the dose at which any higher dose would not lead to improvement
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1065 1087	maximum tolerable dose
+T10	EXPLAINS 1089 1128	the highest dose most people can handle
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1178 1184	plasma
+T12	EXPLAINS 1189 1194	blood
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1764 1786	central nervous system
+T14	EXPLAINS 1788 1809	spinal cord and brain
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 2145 2152	adverse
+T16	EXPLAINS 2157 2160	bad
+E8	EXPLAINS:T16 term:T15

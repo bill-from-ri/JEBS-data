@@ -1,0 +1,9 @@
+T1	expert_term 120 131	coronavirus
+T2	EXPLAINS 133 154	which causes COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 146 154	COVID-19
+T4	EXPLAINS 157 179	a viral lung infection
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 460 491	vitamin and mineral supplements
+T6	EXPLAINS 493 565	an additional amount of vitamins or minerals often in the form of a pill
+E3	EXPLAINS:T6 term:T5

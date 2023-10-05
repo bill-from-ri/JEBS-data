@@ -1,0 +1,30 @@
+T3	expert_term 49 81	Obstructive sleep apnea syndrome
+T4	EXPLAINS 98 196	muscles in the throat relax and the airway narrows or closes, and breathing is momentarily cut off
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 240 259	cardiac arrhythmias
+T6	EXPLAINS 261 348	irregular heartbeat occuring when electrical impulses in the heart do not work properly
+E3	EXPLAINS:T6 term:T5
+T8	EXPLAINS 441 449	too fast
+E4	EXPLAINS:T8 term:T10
+T7	EXPLAINS 390 418	heartbeats that are too slow
+E5	EXPLAINS:T7 term:T9
+T9	expert_term 420 436	bradyarrhythmias
+T10	expert_term 451 467	tachyarrhythmias
+T11	expert_term 521 540	atrial fibrillation
+T12	EXPLAINS 542 630	an irregular and often very rapid heart rhythm that can lead to blood clots in the heart
+E6	EXPLAINS:T12 
+T15	expert_term 890 903	cardioversion
+T16	EXPLAINS 905 986	a procedure used to return an irregular or very fast heartbeat to a normal rhythm
+E8	EXPLAINS:T16 term:T15
+T17	expert_term 1117 1124	hypoxia
+T18	EXPLAINS 1126 1192	not enough oxygen in the tissues for the body to function properly
+E9	EXPLAINS:T18 term:T17
+T19	expert_term 1339 1345	pacing
+T20	EXPLAINS 1347 1372	controlling the heartbeat
+E10	EXPLAINS:T20 term:T19
+T21	expert_term 1438 1447	pacemaker
+T22	EXPLAINS 1449 1533	a small device that's placed or implanted in the chest to help control the heartbeat
+E11	EXPLAINS:T22 term:T21
+T2	expert_term 1610 1626	bradyarrhythmias
+T1	EXPLAINS 1581 1608	heart rate that is too slow
+E1	EXPLAINS:T1 term:T2

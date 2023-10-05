@@ -1,0 +1,9 @@
+T1	expert_term 33 45	Perphenazine
+T2	EXPLAINS 49 94	an old drug used to treat psychotic disorders
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 120 131	haloperidol
+T4	EXPLAINS 141 174	drug to treat psychotic disorders
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 353 366	schizophrenia
+T6	EXPLAINS 368 403	a reality-distorting mental illness
+E3	EXPLAINS:T6 term:T5

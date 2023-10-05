@@ -1,0 +1,9 @@
+T1	expert_term 152 164	osteoporosis
+T2	EXPLAINS 166 216	a condition in which bones become weak and brittle
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1251 1259	cortisol
+T4	EXPLAINS 1261 1275	stress hormone
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1292 1299	thyroid
+T6	EXPLAINS 1301 1330	metabolism-regulating hormone
+E3	EXPLAINS:T6 term:T5

@@ -1,0 +1,9 @@
+T1	expert_term 116 137	postpartum depression
+T2	EXPLAINS 85 114	Depression after giving birth
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 708 717	databases
+T4	EXPLAINS 719 775	organized collection of articles including health topics
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 929 941	intervention
+T6	EXPLAINS 943 952	treatment
+E3	EXPLAINS:T6 term:T5

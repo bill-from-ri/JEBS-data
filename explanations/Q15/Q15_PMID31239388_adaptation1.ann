@@ -1,0 +1,21 @@
+T1	expert_term 140 144	ions
+T2	EXPLAINS 146 187	an atom that carries an electrical charge
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 677 686	wild-type
+T4	expert_term 715 723	knockout
+T5	EXPLAINS 697 703	normal
+E2	EXPLAINS:T5 term:T3
+T6	EXPLAINS 736 759	without a specific gene
+E3	EXPLAINS:T6 term:T4
+T7	expert_term 1857 1873	plasma potassium
+T8	EXPLAINS 1875 1897	potassium in the blood
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1933 1945	hyperkalemic
+T10	EXPLAINS 1947 2012	having a higher than normal level of potassium in the bloodstream
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2051 2062	hypokalemic
+T12	EXPLAINS 2064 2122	having a lower than normal level of potassium in the blood
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 61 79	Potassium channels
+T14	EXPLAINS 84 255	proteins that allow rapid and careful flow of potassium ions (an atom that carries an electrical charge) across the cell boundary and generates electrical signals in cells
+E7	EXPLAINS:T14 term:T13

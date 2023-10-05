@@ -1,0 +1,12 @@
+T1	expert_term 71 99	Human chorionic gonadotropin
+T2	EXPLAINS 107 126	a pregnancy hormone
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 365 375	pathologic
+T4	EXPLAINS 377 385	abnormal
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 533 548	choriocarcinoma
+T6	EXPLAINS 550 570	tumors in the uterus
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 576 589	extra-uterine
+T8	EXPLAINS 591 601	outer-womb
+E4	EXPLAINS:T8 term:T7

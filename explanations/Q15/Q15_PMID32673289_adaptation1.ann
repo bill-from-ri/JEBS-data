@@ -1,0 +1,26 @@
+T1	expert_term 61 80	Histone deacetylase
+T2	EXPLAINS 92 274	enzymes that control transcription (the process of copying a segment of DNA into messenger RNA, or mRNA, for protein creation), but their specific functions in the kidney are unknown
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 113 126	transcription
+T4	EXPLAINS 128 217	the process of copying a segment of DNA into messenger RNA, or mRNA, for protein creation
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 518 530	hypertension
+T6	expert_term 557 568	hypokalemia
+T7	EXPLAINS 532 551	high blood pressure
+E3	EXPLAINS:T7 term:T5
+T8	EXPLAINS 570 606	low levels of potassium in the blood
+E4	EXPLAINS:T8 term:T6
+T9	expert_term 691 701	epithelium
+T10	EXPLAINS 703 747	cells that cover the inner surface of organs
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 779 790	electrolyte
+T12	EXPLAINS 792 812	minerals in the body
+E6	EXPLAINS:T12 term:T11
+T13	expert_term 1124 1134	inhibitors
+T14	EXPLAINS 1136 1196	molecules or enzymes that block actions of an enzyme protein
+E7	EXPLAINS:T14 term:T13
+T15	expert_term 1235 1262	fluid-electrolyte disorders
+T16	EXPLAINS 1264 1367	a group of conditions caused by a temporary disturbance in the body's levels of fluids and electrolytes
+E8	EXPLAINS:T16 term:T15
+T17	EXAMPLE 1378 1389	hypokalemia
+E9	EXAMPLE:T17 term:T15

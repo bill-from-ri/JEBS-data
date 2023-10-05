@@ -1,0 +1,6 @@
+T1	expert_term 575 582	abdomen
+T2	EXPLAINS 561 573	stomach area
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 874 910	Extracorporeal shockwave lithotripsy
+T4	EXPLAINS 921 951	a truly non-invasive procedure
+E2	EXPLAINS:T4 term:T3

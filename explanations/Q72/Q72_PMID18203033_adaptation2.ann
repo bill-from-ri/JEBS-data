@@ -1,0 +1,9 @@
+T1	expert_term 346 361	phenylketonuria
+T2	EXPLAINS 363 399	a rare, inherited metabolic disorder
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 515 540	congenital hypothyroidism
+T4	EXPLAINS 542 620	which is an inherited disorder of the thyroid gland, which controls metabolism
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 767 779	spectrometry
+T6	EXPLAINS 781 821	an advanced chemical detection technique
+E3	EXPLAINS:T6 term:T5

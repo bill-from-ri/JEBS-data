@@ -1,0 +1,24 @@
+T1	expert_term 88 97	potassium
+T2	expert_term 663 672	excreting
+T3	expert_term 1150 1157	nephron
+T4	expert_term 1201 1216	pathophysiology
+T5	expert_term 1303 1308	renal
+T6	expert_term 1600 1621	potassium homeostasis
+T7	expert_term 1884 1896	hypertensive
+T8	EXPLAINS 1898 1917	high-blood pressure
+E1	EXPLAINS:T8 term:T7
+T9	EXPLAINS 1623 1679	the correct amount of potassium for the body to function
+E2	EXPLAINS:T9 term:T6
+T10	EXPLAINS 1310 1324	kidney-related
+E3	EXPLAINS:T10 term:T5
+T11	EXPLAINS 1218 1296	functional changes in the body that come with a particular syndrome or disease
+E4	EXPLAINS:T11 term:T4
+T12	EXPLAINS 1159 1190	a filter located in the kidneys
+E5	EXPLAINS:T12 term:T3
+T14	EXPLAINS 99 144	a mineral the body needs to function properly
+E6	EXPLAINS:T14 term:T1
+T15	EXPLAINS 674 683	releasing
+E7	EXPLAINS:T15 term:T2
+T13	expert_term 1781 1786	renal
+T16	EXPLAINS 1788 1802	kidney-related
+E8	EXPLAINS:T16 term:T13

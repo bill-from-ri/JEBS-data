@@ -1,0 +1,3 @@
+T1	expert_term 458 480	false negative results
+T2	EXPLAINS 482 548	when the test is negative but the patient actually has the disease
+E1	EXPLAINS:T2 term:T1

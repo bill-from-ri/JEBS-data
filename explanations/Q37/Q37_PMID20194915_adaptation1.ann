@@ -1,0 +1,15 @@
+T1	expert_term 62 75	Antiepileptic
+T2	EXPLAINS 81 92	antiseizure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 131 141	neurotoxic
+T4	EXPLAINS 143 157	brain damaging
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 205 226	Cognitive dysfunction
+T6	EXPLAINS 230 257	inability to think properly
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 464 476	fibromyalgia
+T8	EXPLAINS 479 493	full-body pain
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 555 569	administration
+T10	EXPLAINS 571 574	use
+E5	EXPLAINS:T10 term:T9

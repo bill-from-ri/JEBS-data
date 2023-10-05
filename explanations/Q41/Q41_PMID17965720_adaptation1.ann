@@ -1,0 +1,12 @@
+T1	expert_term 67 111	Autosomal dominant polycystic kidney disease
+T2	expert_term 153 158	cysts
+T3	expert_term 301 310	PKD1 gene
+T4	expert_term 683 695	inactivation
+T5	EXPLAINS 697 708	turning off
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 312 350	which creates an active kidney protein
+E2	EXPLAINS:T6 term:T3
+T7	EXPLAINS 160 167	growths
+E3	EXPLAINS:T7 term:T2
+T8	EXPLAINS 115 191	an inherited disease that causes many cysts (growths) usually in the kidneys
+E4	EXPLAINS:T8 term:T1

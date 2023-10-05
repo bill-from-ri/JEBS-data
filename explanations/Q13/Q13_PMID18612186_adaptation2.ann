@@ -1,0 +1,6 @@
+T1	expert_term 81 94	beta-blockers
+T2	EXPLAINS 96 128	drugs that reduce blood pressure
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 428 458	paroxysmal atrial fibrillation
+T4	EXPLAINS 467 535	which involves sudden occurences of an irregular or rapid heart beat
+E2	EXPLAINS:T4 term:T3

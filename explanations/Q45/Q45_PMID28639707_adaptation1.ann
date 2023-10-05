@@ -1,0 +1,18 @@
+T1	expert_term 79 87	Bedsores
+T2	EXPLAINS 92 186	areas of injury to the skin or underlying tissue, or both, found in a certain part of the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 732 737	ulcer
+T4	EXPLAINS 739 746	bedsore
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1492 1505	interventions
+T6	EXPLAINS 1507 1517	treatments
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1828 1847	protease-modulating
+T8	EXPLAINS 1849 1865	protein-altering
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 2088 2099	collagenase
+T10	EXPLAINS 2101 2107	enzyme
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 2170 2190	polyvinylpyrrolidone
+T12	EXPLAINS 2192 2225	water-soluble biological molecule
+E6	EXPLAINS:T12 term:T11

@@ -1,0 +1,18 @@
+T1	expert_term 41 54	Interleukin-2
+T2	EXPLAINS 65 178	a type of protein that promotes and develops immune cells at the start of an immune response and keeps them alive
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 301 310	remission
+T4	EXPLAINS 312 320	recovery
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 339 367	systemic lupus erythematosus
+T6	EXPLAINS 377 422	when your immune system attacks healthy cells
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 534 549	lupus nephritis
+T8	EXPLAINS 551 591	a type of kidney disease caused by lupus
+E4	EXPLAINS:T8 term:T7
+T9	expert_term 1321 1332	proteinuria
+T10	EXPLAINS 1334 1373	elevated levels of protein in the urine
+E5	EXPLAINS:T10 term:T9
+T11	expert_term 1557 1565	antibody
+T12	EXPLAINS 1567 1594	infection-fighting molecule
+E6	EXPLAINS:T12 term:T11

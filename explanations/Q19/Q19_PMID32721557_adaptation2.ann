@@ -1,0 +1,12 @@
+T1	expert_term 85 104	Parkinson's disease
+T2	expert_term 292 300	dopamine
+T3	expert_term 625 633	levodopa
+T4	expert_term 682 693	pramipexole
+T5	EXPLAINS 695 712	dopamine imitator
+E1	EXPLAINS:T5 term:T4
+T6	EXPLAINS 635 659	a Parkinson's medication
+E2	EXPLAINS:T6 term:T3
+T7	EXPLAINS 302 322	a chemical messenger
+E3	EXPLAINS:T7 term:T2
+T8	EXPLAINS 111 153	a brain-related disease affecting movement
+E4	EXPLAINS:T8 term:T1

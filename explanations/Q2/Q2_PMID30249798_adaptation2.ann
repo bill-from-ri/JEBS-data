@@ -1,0 +1,13 @@
+T1	expert_term 527 536	allodynia
+T2	expert_term 816 842	sympathetic nervous system
+T3	expert_term 895 911	opioid receptors
+T4	EXPLAINS 913 938	which opioid drugs act on
+E1	EXPLAINS:T4 term:T3
+T5	EXPLAINS 844 889	which controls the "fight or flight" response
+E2	EXPLAINS:T5 term:T2
+T6	EXPLAINS 538 595	where pain is felt instead of other sensations like touch
+E3	EXPLAINS:T6 term:T1
+T7	expert_term 346 356	duloxetine
+T8	expert_term 361 374	amitriptyline
+T9	EXPLAINS 330 344	antidepressant
+E4	EXPLAINS:T9 term:T7 term2:T8

@@ -1,0 +1,6 @@
+T1	expert_term 41 56	Linker histones
+T2	EXPLAINS 61 126	major proteins for organizing DNA and affect the balance of genes
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 455 460	Hho1p
+T4	EXPLAINS 434 452	a specific histone
+E2	EXPLAINS:T4 term:T3

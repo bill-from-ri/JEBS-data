@@ -1,0 +1,12 @@
+T1	expert_term 93 101	positive
+T2	EXPLAINS 116 122	having
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 149 166	Covid-19 patients
+T4	EXPLAINS 168 237	patients recovered from the serious viral, lung infection of Covid-19
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1025 1037	reactivation
+T6	EXPLAINS 1039 1123	when someone appears to have recovered but still has traces of the virus in the body
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1403 1424	false-negatives tests
+T8	EXPLAINS 1426 1494	when a person tests negative but are actually positive for the virus
+E4	EXPLAINS:T8 term:T7

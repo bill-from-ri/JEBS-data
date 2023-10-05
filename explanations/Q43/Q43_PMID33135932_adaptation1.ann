@@ -1,0 +1,12 @@
+T1	expert_term 321 343	ventricular arrhythmia
+T2	EXPLAINS 349 418	causes irregular heart beats that don't send enough blood to the body
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 545 553	regional
+T4	EXPLAINS 555 564	localized
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 826 837	bradycardia
+T6	EXPLAINS 839 868	slower than normal heart beat
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1167 1177	antibiotic
+T8	EXPLAINS 1179 1196	bacteria-fighting
+E4	EXPLAINS:T8 term:T7

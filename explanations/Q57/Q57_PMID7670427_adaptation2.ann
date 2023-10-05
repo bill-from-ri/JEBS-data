@@ -1,0 +1,9 @@
+T1	expert_term 206 223	peripheral nerves
+T2	EXPLAINS 225 290	the parts of the nervous system outside the brain and spinal cord
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 661 677	Trigeminal nerve
+T4	EXPLAINS 681 742	a large, three-part nerve in the head that provides sensation
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 949 971	trigeminal dysesthesia
+T6	EXPLAINS 973 1042	an unpleasant abnormal sensation after injury to the trigeminal nerve
+E3	EXPLAINS:T6 term:T5

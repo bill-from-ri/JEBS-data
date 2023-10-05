@@ -1,0 +1,24 @@
+T1	expert_term 35 40	Edema
+T2	EXPLAINS 44 85	a build up of fluid in the body's tissues
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 190 203	pitting edema
+T5	expert_term 826 836	eczematous
+T6	EXPLAINS 838 844	stasis
+E2	EXPLAINS:T6 term:T5
+T7	expert_term 826 856	eczematous (stasis) dermatitis
+T8	EXPLAINS 860 919	a kind of eczema (skin swelling) caused by poor circulation
+E3	EXPLAINS:T8 term:T7
+T9	expert_term 870 876	eczema
+T10	EXPLAINS 878 891	skin swelling
+E4	EXPLAINS:T10 term:T9
+T11	expert_term 1531 1542	non-pitting
+T12	EXPLAINS 1544 1558	non-indentable
+E5	EXPLAINS:T12 term:T11
+T13	expert_term 1595 1605	lymphedema
+T14	EXPLAINS 1607 1681	fluid build-up in soft tissues when the lymph system is damaged or blocked
+E6	EXPLAINS:T14 term:T13
+T15	expert_term 1813 1837	inguinal lymphadenectomy
+T16	EXPLAINS 1839 1860	lymph node dissection
+E7	EXPLAINS:T16 term:T15
+T4	EXPLAINS 205 277	which is when pressing into the swollen area leaves a pit or indentation
+E8	EXPLAINS:T4 term:T3

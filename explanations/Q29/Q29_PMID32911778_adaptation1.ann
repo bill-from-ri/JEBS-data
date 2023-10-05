@@ -1,0 +1,9 @@
+T1	expert_term 106 117	coronavirus
+T2	EXPLAINS 119 140	which causes COVID-19
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 132 140	COVID-19
+T4	EXPLAINS 143 177	a viral, breathing-related illness
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 1997 2006	inversely
+T6	EXPLAINS 2010 2020	oppositely
+E3	EXPLAINS:T6 term:T5

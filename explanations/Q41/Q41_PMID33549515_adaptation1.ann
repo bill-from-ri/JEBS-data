@@ -1,0 +1,12 @@
+T1	expert_term 138 157	DNA damage response
+T2	EXPLAINS 96 129	the body's response to DNA damage
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 234 239	cysts
+T4	EXPLAINS 241 248	growths
+E2	EXPLAINS:T4 term:T3
+T5	expert_term 854 884	cystic kidney epithelial cells
+T6	EXPLAINS 886 931	which are important cells for kidney function
+E3	EXPLAINS:T6 term:T5
+T7	expert_term 1610 1617	mutated
+T8	EXPLAINS 1619 1626	changed
+E4	EXPLAINS:T8 term:T7

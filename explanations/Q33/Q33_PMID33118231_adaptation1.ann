@@ -1,0 +1,6 @@
+T1	expert_term 105 119	nervous system
+T2	EXPLAINS 126 147	brain and spinal cord
+E1	EXPLAINS:T2 term:T1
+T3	expert_term 1066 1081	total clearance
+T4	EXPLAINS 1095 1113	completely removed
+E2	EXPLAINS:T4 term:T3
