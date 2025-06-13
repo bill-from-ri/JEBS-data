@@ -1,5 +1,2 @@
-# Xia-annotations
-Annotations used in "Identifying and Defining Non-consumer Medical Terminology". These annotations are derived from the PLABA dataset. Each `.txt` file has an accompanying
-`.ann` file that stores expert terms and their accompanying definitions.
-
-For more information, see Xia, W., Ondov B., Demner-Fushman D. (2024). Identifying and defining non-consumer medical terminology.
+# JEBS-data
+Annotations, training data, and testing data used in _JEBS: A Fine-grained Biomedical Lexical Simplification Task_, which was accepted to ACL 2025. These annotations are derived from the [PLABA](https://bionlp.nlm.nih.gov/plaba2024/) dataset. Each `.txt` file in the annotations folder has an accompanying `.ann` file that stores expert terms and their accompanying definitions.
